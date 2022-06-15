@@ -7,9 +7,11 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
 #
 
 - Node Packages
+
   - [qLab](https://github.com/qLab/qLib) A procedural asset library for SideFX Houdini.
   - [SideFx Labs](https://github.com/sideeffects/SideFXLabs) SideFX Labs is a testing ground for over 230 tools designed to help you get up and running quicker. The SideFX Labs tools wrap up and release common workflows and create tight integrations with software you use everyday. The tools are developed outside the regular Houdini development cycle which makes them more accessible for testing and feedback.
   - [VFX Fractal Tookit](https://github.com/jtomori/vft) Set of tools for generating fractal and generative art.
+  - [MOPS](https://github.com/toadstorm/MOPS) Motion OPerators for Houdini, a motion graphics toolkit.
   - [OpenCL Wrangle COP](https://vimeo.com/223407863) This operator allows you to run an OpenCL kernel as part of your COP network. Depending on the GPU, some operators can be orders of magnitude faster than even VEX.
   - [FeELib for Houdini](https://github.com/Fe-Elf/FeELib-for-Houdini) Various Houdini hdas for accelerating a wide variety of workflows see more examples [here](https://www.zhihu.com/people/wxjl/posts)
   - [YingQ for Houdini](https://github.com/Ying-170/YingQ-for-Houdini)
@@ -29,6 +31,9 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [hipie](https://github.com/igor-elovikov/hipie) Houdini Tools
   - [Houdini Extensions](https://github.com/TDChina/Houdini-Extensions) Houdini
   - [Bento](https://github.com/takavfx/Bento) Toolset for Houdini
+  - [BeeHou](https://github.com/simonreeves/BeeHou) Houdini Package
+  - [Diffusion Limited Aggregation](https://github.com/jroy1992/Diffusion-Limited-Aggregation) Create fractal like growth inside 3D geometry using the principle of Diffusion Limited Aggregation. The implementation has been done in three parts: Text and 3D Geometry and Intersection
+  - [Houdini TaleSpire Terrain Generation Toolset](https://github.com/Baldrax/Houdini_TaleSpire_Terrain_Generation_Toolset) A toolset to procedurally create terrain for TaleSpire in Houdini.
   - [Houdini-Telegram-Notifier](https://github.com/anvdev/Houdini-Telegram-Notifier) Send messages to Telegram chat directly from SideFX Houdini
   - [Houdini-Toolbox](https://github.com/captainhammy/Houdini-Toolbox) Houdini things!
   - [AVL](https://github.com/anvdev/AVL) Advanced function library, written in VEX language for SideFX Houdini. Now in development.
@@ -50,6 +55,12 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Cards to Curves](https://github.com/jamesrobinsonvfx/cards_to_curves) SOP-level HDA to extract guide curves from hair cards.
   - [Nvidia Warp Houdini](https://github.com/christophercrouzet/nvidia-warp-houdini) Exposes NVIDIA's Warp framework to Houdini.NVIDIA's Warp provides access to running high-performance kernels either on the CPU or GPU, all with the convenience of writing the code in Python.
   - [linewriter](https://github.com/jamesrobinsonvfx/linewriter) Linewriter quickly creates lines of text geometry in Houdini.
+  - [Draw Stroke](http://ihoudini.blogspot.com/2020/01/more-drawing-witha-wacom-in-houdini.html)
+  - [Richard C Thomas Assorted Tools](https://richardcthomas.com)
+  - [hipCollection](https://github.com/PhilHaf/hipCollection) Houdini Files, Hdas, Effects
+  - [treegen](https://github.com/demiaster/treegen) Vegetation Generation Tool for Houdini. The Digital Asset implements the space colonization algorithm by Runions et al (2007). The asset can be used to easily produce natural tree structures allowing control over the growth by shaping the roots, the foliage and the way the tree fills up the space.
+  - [GSS Call Python](https://github.com/shervinazadi/GSS_Call_Python) Houdini Asset for Running a Python Script within a specific Python Environment
+
 - Tools/Extensions
 
   - [Marking Menu](https://github.com/dchow1992/houdini_markingmenu) Marking Menu for the Houdini network editor. Fast access to node creation, placement, toolscripts, and shelf tools
@@ -81,14 +92,8 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [junichirohorikawa - Houdini Howtos](https://github.com/jhorikawa/HoudiniHowtos)
   - dchow1992 - Example Hips(https://github.com/dchow1992/example_hips) A collection of interesting hip files / techniques to use as examples or reference: https://vimeo.com/dchow1992
   - [Presentation Houdini Vis](https://github.com/anopara/presentation-houdini-vis) Houdini files of visualizations from my presentation "Place like I do! Example-based procedural placements in a dialogue system"
-- Misc
-  - [Jtmori - VFX Goodnight Reading](https://github.com/jtomori/vfx_good_night_reading)📚 Curated collection of good reading about VFX and CG
-  - [Houdini NodeShape Converter](https://github.com/nrosenstein-old/houdini-nodeshape-converter) Convert SVG paths to Houdini JSON nodeshapes.
-  - [Houdini Manage](https://github.com/nrosenstein-old/houdini-manage) Qt GUI and Command-line to manage Houdini libraries
-  - [wranglegist](https://github.com/jamesrobinsonvfx/wranglegist) Submit snippet parameters to Gist feed from within Houdini
-  - [FaceCaptureX](https://github.com/elishahung/FaceCaptureX) Get iphone X face motion data then make animation in Houdini.
-  - [Data Driven Procedural Generation](https://github.com/maajor/Data-Driven-Procedural-Generation) Collection of Papers on Data Driven Procedural Generation
-  - [OpenGl](https://github.com/McNopper/OpenGL) OpenGL 3 and 4 with GLSL
+  - [Rich Lord Tools](https://www.richlord.com/tools?offset=1554488106925&reversePaginate=true) Various HIP files from CG/VFX/Houdini artist Rich Lord, including Growing Prints, RBD Scatter, and more
+  - [Utilizing NumPy and NetworkX in Houdini for linear algebraic computations and path finding](https://github.com/shervinazadi/Utilizing-NumPy-and-NetworkX-in-Houdini-for-linear-algebraic-computations-and-path-finding) In these example files, we are gearing Houdini Python nodes to work with NumPy and NetworkX for path-finding and aggregation of environmental analyses in a generative design process. There are two functions that read geometric data from Houdini and translate them into NumPy arrays and the other way around.
   -
 - Vex
 
@@ -107,6 +112,17 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [pyhapi](https://github.com/maajor/pyhapi) Object-Oriented Python Wrapper for Houdini Engine's C API. Note that this is 3rd party binding, not official.
   - [HoudiniHelpToComment](https://github.com/Neogene/HoudiniHelpToComment) About
     A PYTHON script which auto populates every NEW node comment with its documentation headline
+  - [VSCode Vex](https://github.com/melMass/vscode-vex) Houdini VEX Support for VSCode
+  -
 - [HoudiniGenerateAllNodes](https://github.com/Neogene/HoudiniGenerateAllNodes) A simple PYTHON script which populates the whole scene with all the nodes available in Houdini.
 - [Auto Controller Rig](https://github.com/crystalboxes/auto_control_rigger) Houdini script for processing FBX rigs.
 - [Camera Morphing Houdini](https://github.com/pareylook/Camera-morphing-houdini)
+- Misc
+  - [Jtmori - VFX Goodnight Reading](https://github.com/jtomori/vfx_good_night_reading)📚 Curated collection of good reading about VFX and CG
+  - [Houdini NodeShape Converter](https://github.com/nrosenstein-old/houdini-nodeshape-converter) Convert SVG paths to Houdini JSON nodeshapes.
+  - [Houdini Manage](https://github.com/nrosenstein-old/houdini-manage) Qt GUI and Command-line to manage Houdini libraries
+  - [wranglegist](https://github.com/jamesrobinsonvfx/wranglegist) Submit snippet parameters to Gist feed from within Houdini
+  - [FaceCaptureX](https://github.com/elishahung/FaceCaptureX) Get iphone X face motion data then make animation in Houdini.
+  - [Data Driven Procedural Generation](https://github.com/maajor/Data-Driven-Procedural-Generation) Collection of Papers on Data Driven Procedural Generation
+  - [OpenGl](https://github.com/McNopper/OpenGL) OpenGL 3 and 4 with GLSL
+  - [Elna](https://github.com/deepakxyz/Elna)Command Line Interface for visual effects project and asset management. It also has a Houdini project management tools with an ability to publish Otls.
