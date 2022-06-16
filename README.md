@@ -100,7 +100,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Jtmori - Vex Tutorial](https://github.com/jtomori/vex_tutorial) 📑 A collection of code snippets and examples showing syntax and capabilities of VEX language inside SideFX Houdini
   - [Vex and Hscript Reference](https://github.com/benjamin-white/vex-and-hscript-reference) Reference notes for using VEX and HScript in Houdini
   - [Houdini Git Structure](https://github.com/elishahung/houdini-git-structure) make Houdini hip gitable. parse hip file to generate structure for git record. Houdini hip 檔案解析生成資料架構，以便 git 管理。
-  -
+  - [John Vensson Vex Snippets](http://www.johnsvensson.se/vex-houdini)
 
 - Scripting/Dev
   - [Houdini ICPP](https://github.com/nrosenstein-old/houdini-icpp) An additional layer on top of the Houdini inlinecpp module that makes writing, debugging and distributing Inline-C++ modules easier.
