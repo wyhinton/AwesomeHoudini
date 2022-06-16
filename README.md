@@ -146,3 +146,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [What I Found](https://www.youtube.com/c/WhatIFound)
   - [Socratica FX](https://www.youtube.com/channel/UC_1kJpqN5_muvmiaIsFxS_Q)
   - [Simple and Procedural](https://www.youtube.com/c/SimpleandProcedural)
+- Blogs/Personal Sites
+  - [Sergi Carrion](https://www.artstation.com/se_carri/blog)
+  - [CGWiki](https://www.tokeru.com/cgwiki/index.php?title=HoudiniGettingStarted)
+  - [iHoudini](http://ihoudini.blogspot.com/)
