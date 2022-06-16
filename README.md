@@ -7,7 +7,6 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
 #
 
 - Node Packages
-
   - [qLab](https://github.com/qLab/qLib) A procedural asset library for SideFX Houdini.
   - [SideFx Labs](https://github.com/sideeffects/SideFXLabs) SideFX Labs is a testing ground for over 230 tools designed to help you get up and running quicker. The SideFX Labs tools wrap up and release common workflows and create tight integrations with software you use everyday. The tools are developed outside the regular Houdini development cycle which makes them more accessible for testing and feedback.
   - [VFX Fractal Tookit](https://github.com/jtomori/vft) Set of tools for generating fractal and generative art.
@@ -127,3 +126,22 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [OpenGl](https://github.com/McNopper/OpenGL) OpenGL 3 and 4 with GLSL
   - [Elna](https://github.com/deepakxyz/Elna)Command Line Interface for visual effects project and asset management. It also has a Houdini project management tools with an ability to publish Otls.
   - [Houdini Tricks Tumblr](https://houdinitricks.tumblr.com/) Assorted Houdini tips and quick tutorials
+- YouTube Channels
+  - [VFX Magic](https://www.youtube.com/c/VFXMagics)
+  - [Entagma](https://www.youtube.com/c/Entagma)
+  - [Stormz](https://www.youtube.com/c/Stormz)
+  - [Motion Designers Community](https://www.youtube.com/c/MotionDesignersCommunityTV)
+  - [Jafar Dashtinejad](https://www.youtube.com/channel/UClCbTpZs274ae5JMuVbuBXA)
+  - [Simon Telezhkin](https://www.youtube.com/c/SimonTelezhkin)
+  - [Evanrudefx](https://www.youtube.com/c/evanrudefx)
+  - [Michael Stark](https://www.youtube.com/c/MichaelStarkTV)
+  - [Konstantin Magnus](https://www.youtube.com/c/KonstantinMagnus)
+  - [Simon Houdini](https://www.youtube.com/channel/UCvuT2bzBB0kzne16DBAtmLQ)
+  - [Houdini Official](https://www.youtube.com/c/houdini3d)
+  - [Paul Esteves](https://www.youtube.com/c/PaulEsteves28)
+  - [John Jannone](https://www.youtube.com/c/JohnJannone)
+  - [Paul Ambrosiussen](https://www.youtube.com/channel/UCVu0nQ4b3hN8H14unUg7vuw)
+  - [bluriviera](https://www.youtube.com/user/bluriviera)
+  - [Nick Medukha](https://www.youtube.com/channel/UCnn58iVRyGLSQriCm0QOmaw)
+  - [What I Found](https://www.youtube.com/c/WhatIFound)
+  - [Socratica FX](https://www.youtube.com/channel/UC_1kJpqN5_muvmiaIsFxS_Q)
