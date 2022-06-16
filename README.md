@@ -145,3 +145,4 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Nick Medukha](https://www.youtube.com/channel/UCnn58iVRyGLSQriCm0QOmaw)
   - [What I Found](https://www.youtube.com/c/WhatIFound)
   - [Socratica FX](https://www.youtube.com/channel/UC_1kJpqN5_muvmiaIsFxS_Q)
+  - [Simple and Procedural](https://www.youtube.com/c/SimpleandProcedural)
