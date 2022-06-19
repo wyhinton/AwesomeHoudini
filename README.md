@@ -112,10 +112,9 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [HoudiniHelpToComment](https://github.com/Neogene/HoudiniHelpToComment) About
     A PYTHON script which auto populates every NEW node comment with its documentation headline
   - [VSCode Vex](https://github.com/melMass/vscode-vex) Houdini VEX Support for VSCode
-  -
-- [HoudiniGenerateAllNodes](https://github.com/Neogene/HoudiniGenerateAllNodes) A simple PYTHON script which populates the whole scene with all the nodes available in Houdini.
-- [Auto Controller Rig](https://github.com/crystalboxes/auto_control_rigger) Houdini script for processing FBX rigs.
-- [Camera Morphing Houdini](https://github.com/pareylook/Camera-morphing-houdini)
+  - [HoudiniGenerateAllNodes](https://github.com/Neogene/HoudiniGenerateAllNodes) A simple PYTHON script which populates the whole scene with all the nodes available   in Houdini.
+  - [Auto Controller Rig](https://github.com/crystalboxes/auto_control_rigger) Houdini script for processing FBX rigs.
+  - [Camera Morphing Houdini](https://github.com/pareylook/Camera-morphing-houdini)
 - Misc
   - [Jtmori - VFX Goodnight Reading](https://github.com/jtomori/vfx_good_night_reading)📚 Curated collection of good reading about VFX and CG
   - [Houdini NodeShape Converter](https://github.com/nrosenstein-old/houdini-nodeshape-converter) Convert SVG paths to Houdini JSON nodeshapes.
