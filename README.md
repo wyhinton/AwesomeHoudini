@@ -149,6 +149,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Mark Fancher](https://www.youtube.com/c/MarkFancherFX)
   - [Indie Pixel](https://www.youtube.com/c/IndiePixel3D)
   - [Martin McDonald](https://www.youtube.com/c/MartinDonald)
+  - [Pixel Fondue](https://www.youtube.com/watch?v=Gz9bUR0Vbe8&list=PLv8HciXoFYX8xGBC8ufmNamFdUMT0fhHf)
 - Blogs/Personal Sites
   - [Sergi Carrion](https://www.artstation.com/se_carri/blog)
   - [CGWiki](https://www.tokeru.com/cgwiki/index.php?title=HoudiniGettingStarted)
