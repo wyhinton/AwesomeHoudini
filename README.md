@@ -151,6 +151,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Bubble Pins](https://www.youtube.com/channel/UCgSL2gPQragMHtVh3f2YUQA)
   - [Undini](https://www.youtube.com/channel/UCqxxNX4vVOEjBZHjTk6C2yw/videos) 
   - [Pizola](https://www.youtube.com/channel/UC_SDx9klSxH6C729oDc1BLg)
+  - [Houdini Elements](https://www.youtube.com/user/vik546)
 - Blogs/Personal Sites
   - [Sergi Carrion](https://www.artstation.com/se_carri/blog)
   - [CGWiki](https://www.tokeru.com/cgwiki/index.php?title=HoudiniGettingStarted)
