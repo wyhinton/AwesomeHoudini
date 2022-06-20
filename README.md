@@ -157,4 +157,5 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Sergi Carrion](https://www.artstation.com/se_carri/blog)
   - [CGWiki](https://www.tokeru.com/cgwiki/index.php?title=HoudiniGettingStarted)
   - [iHoudini](http://ihoudini.blogspot.com/)
+  - [Affex](https://www.affex.no)
 
