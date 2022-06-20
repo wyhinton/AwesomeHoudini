@@ -61,7 +61,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [GSS Call Python](https://github.com/shervinazadi/GSS_Call_Python) Houdini Asset for Running a Python Script within a specific Python Environment
 
 - Tools/Extensions
-
+  - [Houdini VEX Editor](https://github.com/paulwinex/pw_Houdini_VEX_Editor) Advanced Houdini VEX Editor
   - [Marking Menu](https://github.com/dchow1992/houdini_markingmenu) Marking Menu for the Houdini network editor. Fast access to node creation, placement, toolscripts, and shelf tools
   - [hdBlackbird](https://github.com/tangent-opensource/hdBlackbird) A USD/Hydra RenderDelegate plugin that adds support for the Blackbird renderer (a fork of the Blender Foundation's Cycles renderer) to any client.
   - [Nikla Rosenstein Houdini Library](https://github.com/nrosenstein-old/houdini-library) Rosenstein's personal library of Houdini digital assets and shelf tools.
@@ -93,9 +93,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Presentation Houdini Vis](https://github.com/anopara/presentation-houdini-vis) Houdini files of visualizations from my presentation "Place like I do! Example-based procedural placements in a dialogue system"
   - [Rich Lord Tools](https://www.richlord.com/tools?offset=1554488106925&reversePaginate=true) Various HIP files from CG/VFX/Houdini artist Rich Lord, including Growing Prints, RBD Scatter, and more
   - [Utilizing NumPy and NetworkX in Houdini for linear algebraic computations and path finding](https://github.com/shervinazadi/Utilizing-NumPy-and-NetworkX-in-Houdini-for-linear-algebraic-computations-and-path-finding) In these example files, we are gearing Houdini Python nodes to work with NumPy and NetworkX for path-finding and aggregation of environmental analyses in a generative design process. There are two functions that read geometric data from Houdini and translate them into NumPy arrays and the other way around.
-  -
 - Vex
-
   - [Kuchavo - Vex-Snippets](https://github.com/Kuchavo/VEX-Snippets) A collection of useful VEX snippets for Houdini.
   - [Jtmori - Vex Tutorial](https://github.com/jtomori/vex_tutorial) 📑 A collection of code snippets and examples showing syntax and capabilities of VEX language inside SideFX Houdini
   - [Vex and Hscript Reference](https://github.com/benjamin-white/vex-and-hscript-reference) Reference notes for using VEX and HScript in Houdini
@@ -115,6 +113,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [HoudiniGenerateAllNodes](https://github.com/Neogene/HoudiniGenerateAllNodes) A simple PYTHON script which populates the whole scene with all the nodes available   in Houdini.
   - [Auto Controller Rig](https://github.com/crystalboxes/auto_control_rigger) Houdini script for processing FBX rigs.
   - [Camera Morphing Houdini](https://github.com/pareylook/Camera-morphing-houdini)
+  - [Houdini Silent Install Script](https://github.com/paulwinex/houdini_install_script)Automatically (silent) downloads and installs latest Houdini build. Good solution for studio pipeline!
 - Misc
   - [Jtmori - VFX Goodnight Reading](https://github.com/jtomori/vfx_good_night_reading)📚 Curated collection of good reading about VFX and CG
   - [Houdini NodeShape Converter](https://github.com/nrosenstein-old/houdini-nodeshape-converter) Convert SVG paths to Houdini JSON nodeshapes.
