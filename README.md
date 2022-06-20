@@ -62,6 +62,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
 
 - Tools/Extensions
   - [Houdini VEX Editor](https://github.com/paulwinex/pw_Houdini_VEX_Editor) Advanced Houdini VEX Editor
+  - [MASSEParmUtilities](https://github.com/viktors-a/MASSEParmUtilities) Easily setup control parmaters
   - [Marking Menu](https://github.com/dchow1992/houdini_markingmenu) Marking Menu for the Houdini network editor. Fast access to node creation, placement, toolscripts, and shelf tools
   - [hdBlackbird](https://github.com/tangent-opensource/hdBlackbird) A USD/Hydra RenderDelegate plugin that adds support for the Blackbird renderer (a fork of the Blender Foundation's Cycles renderer) to any client.
   - [Nikla Rosenstein Houdini Library](https://github.com/nrosenstein-old/houdini-library) Rosenstein's personal library of Houdini digital assets and shelf tools.
