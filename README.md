@@ -60,6 +60,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [treegen](https://github.com/demiaster/treegen) Vegetation Generation Tool for Houdini. The Digital Asset implements the space colonization algorithm by Runions et al (2007). The asset can be used to easily produce natural tree structures allowing control over the growth by shaping the roots, the foliage and the way the tree fills up the space.
   - [GSS Call Python](https://github.com/shervinazadi/GSS_Call_Python) Houdini Asset for Running a Python Script within a specific Python Environment
   - [Wire Builder HDA](https://viktorsanfimovs.gumroad.com/l/wtBRv) Procedural wire builder asset
+  - [Houdini Tech Art Challenge Winners 2021](https://www.sidefx.com/tech-art-challenge-2021/) HPaint, Polyline Creator, Poly Slice Tool, and more 
 
 - Tools/Extensions
   - [Houdini VEX Editor](https://github.com/paulwinex/pw_Houdini_VEX_Editor) Advanced Houdini VEX Editor
@@ -101,6 +102,8 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Vex and Hscript Reference](https://github.com/benjamin-white/vex-and-hscript-reference) Reference notes for using VEX and HScript in Houdini
   - [Houdini Git Structure](https://github.com/elishahung/houdini-git-structure) make Houdini hip gitable. parse hip file to generate structure for git record. Houdini hip 檔案解析生成資料架構，以便 git 管理。
   - [John Vensson Vex Snippets](http://www.johnsvensson.se/vex-houdini)
+  - [One Minute Vex](https://aaronsmithtv.github.io/books/OneMinuteVex.html)
+  - 
 
 - Scripting/Dev
   - [Houdini ICPP](https://github.com/nrosenstein-old/houdini-icpp) An additional layer on top of the Houdini inlinecpp module that makes writing, debugging and distributing Inline-C++ modules easier.
@@ -162,4 +165,6 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [CGWiki](https://www.tokeru.com/cgwiki/index.php?title=HoudiniGettingStarted)
   - [iHoudini](http://ihoudini.blogspot.com/)
   - [Affex](https://www.affex.no)
+  - [Aaron Smith](https://aaronsmith.tv/VFX-3D)
+  - 
 
