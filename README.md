@@ -161,6 +161,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Fabricio Chamon](https://vimeo.com/fchamon)
   - [Tim van Helsdingen](https://www.youtube.com/c/TimvanHelsdingen)
   - [Voxyde](https://www.youtube.com/c/voxyde)
+  - [ChunYou Sim](https://www.youtube.com/channel/UCww7QoWer1jaDAD2gc__rWw/videos)
 - Blogs/Personal Sites
   - [Sergi Carrion](https://www.artstation.com/se_carri/blog)
   - [CGWiki](https://www.tokeru.com/cgwiki/index.php?title=HoudiniGettingStarted)
