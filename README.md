@@ -4,7 +4,7 @@
 
 A collection of awesome Free/Open Source things regarding the SideFx Houdini ecosystem.
 
-- Node Packages
+- Assets
   - [qLab](https://github.com/qLab/qLib) A procedural asset library for SideFX Houdini.
   - [Houdini Utility Thread](https://www.sidefx.com/forum/topic/80497/?page=1#post-348642)Various free assets and tools
   - [SideFx Labs](https://github.com/sideeffects/SideFXLabs) SideFX Labs is a testing ground for over 230 tools designed to help you get up and running quicker. The SideFX Labs tools wrap up and release common workflows and create tight integrations with software you use everyday. The tools are developed outside the regular Houdini development cycle which makes them more accessible for testing and feedback.
