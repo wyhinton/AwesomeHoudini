@@ -108,6 +108,8 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Houdini Git Structure](https://github.com/elishahung/houdini-git-structure) make Houdini hip gitable. parse hip file to generate structure for git record. Houdini hip 檔案解析生成資料架構，以便 git 管理。
   - [John Vensson Vex Snippets](http://www.johnsvensson.se/vex-houdini)
   - [One Minute Vex](https://aaronsmithtv.github.io/books/OneMinuteVex.html)
+  - [YuriyAndropov - VEX](https://github.com/YuriyAndropov/VEX)
+
 
 
 - Scripting/Dev
