@@ -64,6 +64,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Houdini Tech Art Challenge Winners 2021](https://www.sidefx.com/tech-art-challenge-2021/) HPaint, Polyline Creator, Poly Slice Tool, and more 
   - [thi-ng/Houdini](https://github.com/thi-ng/houdini) Houdini HDAs & sketches (VEX, OpenCL, Python)
   - [Houdini Matrix Library](https://github.com/jakericedesigns/Houdini-Matrix-Library) Library for large linear operations with VEX in Houdini.
+  - [Houdini PRTROP](https://github.com/flipswitchingmonkey/houdini_PRTROP)
 
 - Tools/Extensions
   - [Houdini VEX Editor](https://github.com/paulwinex/pw_Houdini_VEX_Editor) Advanced Houdini VEX Editor
@@ -112,6 +113,10 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [One Minute Vex](https://aaronsmithtv.github.io/books/OneMinuteVex.html)
   - [YuriyAndropov - VEX](https://github.com/YuriyAndropov/VEX)
   - [Vex and HScript Reference](https://github.com/benjamin-white/vex-and-hscript-reference)
+  - [Houdini Vex Basic 3D Geometry](Basic Geometry built with VEX)
+  - [Houdini Vex Mandelbox](https://github.com/ObeidaZakzak/Houdini-VEX-Mandelbox)
+  - [Houdini Vex Butterfly Curve](https://github.com/ObeidaZakzak/Houdini-VEX-Butterfly-Curve)
+  - [Houdini Physical Simulations](https://github.com/stevedatelier/Houdini-Simulations) Notes and code snippets used to create volumes, oceans, fluid and more inside SideFX Houdini
   
 - Scripting/Dev
   - [Houdini ICPP](https://github.com/nrosenstein-old/houdini-icpp) An additional layer on top of the Houdini inlinecpp module that makes writing, debugging and distributing Inline-C++ modules easier.
