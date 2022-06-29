@@ -170,8 +170,8 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Amovfx](https://vimeo.com/amovfx)
   - [Kim Goosens](https://www.youtube.com/user/3DisFuntastic/featured)
   - [Gianvito Serra](https://www.youtube.com/channel/UCkeE-xTK7tAjBKayQ68rF1w/videos)
-  
-  
+  - [eosacro](https://www.youtube.com/channel/UCuv0dRovXVrVTfNVvP-V_MA)
+
 - Blogs/Personal Sites
   - [Sergi Carrion](https://www.artstation.com/se_carri/blog)
   - [CGWiki](https://www.tokeru.com/cgwiki/index.php?title=HoudiniGettingStarted)
