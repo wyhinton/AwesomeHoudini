@@ -96,7 +96,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
 
 - HIPS
   - [junichirohorikawa - Houdini Howtos](https://github.com/jhorikawa/HoudiniHowtos)
-  - dchow1992 - Example Hips(https://github.com/dchow1992/example_hips) A collection of interesting hip files / techniques to use as examples or reference: https://vimeo.com/dchow1992
+  - [dchow1992 - Example Hips](https://github.com/dchow1992/example_hips) A collection of interesting hip files / techniques to use as examples or reference: https://vimeo.com/dchow1992
   - [Presentation Houdini Vis](https://github.com/anopara/presentation-houdini-vis) Houdini files of visualizations from my presentation "Place like I do! Example-based procedural placements in a dialogue system"
   - [Rich Lord Tools](https://www.richlord.com/tools?offset=1554488106925&reversePaginate=true) Various HIP files from CG/VFX/Houdini artist Rich Lord, including Growing Prints, RBD Scatter, and more
   - [Utilizing NumPy and NetworkX in Houdini for linear algebraic computations and path finding](https://github.com/shervinazadi/Utilizing-NumPy-and-NetworkX-in-Houdini-for-linear-algebraic-computations-and-path-finding) In these example files, we are gearing Houdini Python nodes to work with NumPy and NetworkX for path-finding and aggregation of environmental analyses in a generative design process. There are two functions that read geometric data from Houdini and translate them into NumPy arrays and the other way around.
@@ -110,8 +110,6 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [John Vensson Vex Snippets](http://www.johnsvensson.se/vex-houdini)
   - [One Minute Vex](https://aaronsmithtv.github.io/books/OneMinuteVex.html)
   - [YuriyAndropov - VEX](https://github.com/YuriyAndropov/VEX)
-
-
 
 - Scripting/Dev
   - [Houdini ICPP](https://github.com/nrosenstein-old/houdini-icpp) An additional layer on top of the Houdini inlinecpp module that makes writing, debugging and distributing Inline-C++ modules easier.
