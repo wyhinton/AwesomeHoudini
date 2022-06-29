@@ -98,6 +98,8 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Presentation Houdini Vis](https://github.com/anopara/presentation-houdini-vis) Houdini files of visualizations from my presentation "Place like I do! Example-based procedural placements in a dialogue system"
   - [Rich Lord Tools](https://www.richlord.com/tools?offset=1554488106925&reversePaginate=true) Various HIP files from CG/VFX/Houdini artist Rich Lord, including Growing Prints, RBD Scatter, and more
   - [Utilizing NumPy and NetworkX in Houdini for linear algebraic computations and path finding](https://github.com/shervinazadi/Utilizing-NumPy-and-NetworkX-in-Houdini-for-linear-algebraic-computations-and-path-finding) In these example files, we are gearing Houdini Python nodes to work with NumPy and NetworkX for path-finding and aggregation of environmental analyses in a generative design process. There are two functions that read geometric data from Houdini and translate them into NumPy arrays and the other way around.
+  - [Assorted Houdini Demos](https://github.com/jakericedesigns/Assorted-Houdini-Demos) Toy projects
+  
 - Vex
   - [Kuchavo - Vex-Snippets](https://github.com/Kuchavo/VEX-Snippets) A collection of useful VEX snippets for Houdini.
   - [Jtmori - Vex Tutorial](https://github.com/jtomori/vex_tutorial) 📑 A collection of code snippets and examples showing syntax and capabilities of VEX language inside SideFX Houdini
