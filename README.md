@@ -168,6 +168,9 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Garman Herigstad](https://www.youtube.com/VizyAcky/videos)
   - [German De Benito](https://www.youtube.com/c/GermanDeBenito)
   - [Amovfx](https://vimeo.com/amovfx)
+  - [Kim Goosens](https://www.youtube.com/user/3DisFuntastic/featured)
+  - [Gianvito Serra] (https://www.youtube.com/channel/UCkeE-xTK7tAjBKayQ68rF1w/videos)
+  
   
 - Blogs/Personal Sites
   - [Sergi Carrion](https://www.artstation.com/se_carri/blog)
@@ -180,6 +183,9 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Jereon Denayer](http://jeroen.denayer.com/)
   - [MO-VFX](https://sites.google.com/site/mocgnotes/houdini/python)
   - [Pepefx](https://pepefx.blogspot.com/)
+  - [Lets Houdini](https://letshoudini.wordpress.com/)
+  - [Deborah Fowler](http://www.deborahrfowler.com/HoudiniResources/HOUDINI-RESOURCES.html)
+  
   
   
 
