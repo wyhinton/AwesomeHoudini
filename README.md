@@ -62,6 +62,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [GSS Call Python](https://github.com/shervinazadi/GSS_Call_Python) Houdini Asset for Running a Python Script within a specific Python Environment
   - [Wire Builder HDA](https://viktorsanfimovs.gumroad.com/l/wtBRv) Procedural wire builder asset
   - [Houdini Tech Art Challenge Winners 2021](https://www.sidefx.com/tech-art-challenge-2021/) HPaint, Polyline Creator, Poly Slice Tool, and more 
+  - [thi-ng/Houdini](https://github.com/thi-ng/houdini) Houdini HDAs & sketches (VEX, OpenCL, Python)
 
 - Tools/Extensions
   - [Houdini VEX Editor](https://github.com/paulwinex/pw_Houdini_VEX_Editor) Advanced Houdini VEX Editor
@@ -109,6 +110,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
 - Scripting/Dev
   - [Houdini ICPP](https://github.com/nrosenstein-old/houdini-icpp) An additional layer on top of the Houdini inlinecpp module that makes writing, debugging and distributing Inline-C++ modules easier.
   - [Houdini Vex Help](https://github.com/cgtoolbox/vscode-houdinivexhelp) VSCode extension that mimics the behavior of the wrangle nodes "open help from selected text", but directly in vscode.
+  - [VEX](https://github.com/teared/VEX) Houdini addon for Sublime Text
   - [Houdini Package Runner](https://github.com/captainhammy/houdini_package_runner) Tooling to analyze or perform actions on Python code in Houdini package
   - [HIP Collector](https://github.com/Aeoll/HipCollector) A Houdini script which collects a .hip and it's file references into a single portable directory It can resolve file references with variables such as $HIP, $JOB, $OS and file sequences ($F / $F4 etc)
   - [Pyqt Ui Gen Tool](https://github.com/SideswipeeZ/pyqt-ui-gen-tool) Create initial code for UI inside DDC applications (Houdini/Maya)
