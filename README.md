@@ -113,7 +113,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [One Minute Vex](https://aaronsmithtv.github.io/books/OneMinuteVex.html)
   - [YuriyAndropov/VEX](https://github.com/YuriyAndropov/VEX)
   - [Vex and HScript Reference](https://github.com/benjamin-white/vex-and-hscript-reference)
-  - [Houdini Vex Basic 3D Geometry](Basic Geometry built with VEX)
+  - [Houdini Vex Basic 3D Geometry](https://github.com/ObeidaZakzak/Houdini-VEX-Basic-3D-Geometry) Basic Geometry built with VEX
   - [Houdini Vex Mandelbox](https://github.com/ObeidaZakzak/Houdini-VEX-Mandelbox)
   - [Houdini Vex Butterfly Curve](https://github.com/ObeidaZakzak/Houdini-VEX-Butterfly-Curve)
   - [Houdini Physical Simulations](https://github.com/stevedatelier/Houdini-Simulations) Notes and code snippets used to create volumes, oceans, fluid and more inside SideFX Houdini
