@@ -63,6 +63,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Wire Builder HDA](https://viktorsanfimovs.gumroad.com/l/wtBRv) Procedural wire builder asset
   - [Houdini Tech Art Challenge Winners 2021](https://www.sidefx.com/tech-art-challenge-2021/) HPaint, Polyline Creator, Poly Slice Tool, and more 
   - [thi-ng/Houdini](https://github.com/thi-ng/houdini) Houdini HDAs & sketches (VEX, OpenCL, Python)
+  - [Houdini Matrix Library](https://github.com/jakericedesigns/Houdini-Matrix-Library) Library for large linear operations with VEX in Houdini.
 
 - Tools/Extensions
   - [Houdini VEX Editor](https://github.com/paulwinex/pw_Houdini_VEX_Editor) Advanced Houdini VEX Editor
@@ -107,7 +108,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Houdini Git Structure](https://github.com/elishahung/houdini-git-structure) make Houdini hip gitable. parse hip file to generate structure for git record. Houdini hip 檔案解析生成資料架構，以便 git 管理。
   - [John Vensson Vex Snippets](http://www.johnsvensson.se/vex-houdini)
   - [One Minute Vex](https://aaronsmithtv.github.io/books/OneMinuteVex.html)
-  - [Daily HIP](https://dailyhip.wordpress.com/page/2/)
+
 
 - Scripting/Dev
   - [Houdini ICPP](https://github.com/nrosenstein-old/houdini-icpp) An additional layer on top of the Houdini inlinecpp module that makes writing, debugging and distributing Inline-C++ modules easier.
@@ -190,6 +191,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Lets Houdini](https://letshoudini.wordpress.com/)
   - [Deborah Fowler](http://www.deborahrfowler.com/HoudiniResources/HOUDINI-RESOURCES.html)
   - [Lex Ikoon](http://lex.ikoon.cz/)
+  - [Daily HIP](https://dailyhip.wordpress.com/page/2/)
   
   
   
