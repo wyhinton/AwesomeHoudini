@@ -13,6 +13,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [OpenCL Wrangle COP](https://vimeo.com/223407863) This operator allows you to run an OpenCL kernel as part of your COP network. Depending on the GPU, some operators can be orders of magnitude faster than even VEX.
   - [FeELib for Houdini](https://github.com/Fe-Elf/FeELib-for-Houdini) Various Houdini hdas for accelerating a wide variety of workflows see more examples [here](https://www.zhihu.com/people/wxjl/posts)
   - [YingQ for Houdini](https://github.com/Ying-170/YingQ-for-Houdini)
+  - [qq](https://github.com/lex-ikoon/qq) Houdini Tools and VEX snippets
   - [DMNK-tools](https://github.com/DominikLingenover/DMNK-Tools) Workflow oriented Python Scripts / HDAs
   - [Nagamochi](https://github.com/ShoheiOkazaki/Nagamochi) Nagamochi is a library of Digital Assets, Presets, Shelves and Scripts for SideFX Houdini.
   - [JZTrees](https://github.com/joshuazt/JZTREES) Houdini procedural vegetation generator and FX toolkit
