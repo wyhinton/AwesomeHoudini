@@ -169,7 +169,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [German De Benito](https://www.youtube.com/c/GermanDeBenito)
   - [Amovfx](https://vimeo.com/amovfx)
   - [Kim Goosens](https://www.youtube.com/user/3DisFuntastic/featured)
-  - [Gianvito Serra] (https://www.youtube.com/channel/UCkeE-xTK7tAjBKayQ68rF1w/videos)
+  - [Gianvito Serra](https://www.youtube.com/channel/UCkeE-xTK7tAjBKayQ68rF1w/videos)
   
   
 - Blogs/Personal Sites
