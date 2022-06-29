@@ -174,5 +174,6 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Simon Verstraete](https://www.artstation.com/siver/blog)
   - [Nicholas Reynolds](https://www.artstation.com/nichoreynolds/blog)
   - [Jereon Denayer](http://jeroen.denayer.com/)
+  - [MO-VFX](https://sites.google.com/site/mocgnotes/houdini/python)
   
 
