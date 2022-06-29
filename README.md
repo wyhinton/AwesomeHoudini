@@ -4,8 +4,6 @@
 
 A collection of awesome Free/Open Source things regarding the SideFx Houdini ecosystem.
 
-#
-
 - Node Packages
   - [qLab](https://github.com/qLab/qLib) A procedural asset library for SideFX Houdini.
   - [Houdini Utility Thread](https://www.sidefx.com/forum/topic/80497/?page=1#post-348642)Various free assets and tools
@@ -165,6 +163,12 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Voxyde](https://www.youtube.com/c/voxyde)
   - [ChunYou Sim](https://www.youtube.com/channel/UCww7QoWer1jaDAD2gc__rWw/videos)
   - [CGCircuit](https://www.youtube.com/user/cgcircuitLLC)
+  - [PQHoudini](https://vimeo.com/channels/pqhoudini)
+  - [Mix Training](https://www.youtube.com/c/mixtraining)
+  - [Garman Herigstad](https://www.youtube.com/VizyAcky/videos)
+  - [German De Benito](https://www.youtube.com/c/GermanDeBenito)
+  - [Amovfx](https://vimeo.com/amovfx)
+  
 - Blogs/Personal Sites
   - [Sergi Carrion](https://www.artstation.com/se_carri/blog)
   - [CGWiki](https://www.tokeru.com/cgwiki/index.php?title=HoudiniGettingStarted)
@@ -175,5 +179,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Nicholas Reynolds](https://www.artstation.com/nichoreynolds/blog)
   - [Jereon Denayer](http://jeroen.denayer.com/)
   - [MO-VFX](https://sites.google.com/site/mocgnotes/houdini/python)
+  - [Pepefx](https://pepefx.blogspot.com/)
+  
   
 
