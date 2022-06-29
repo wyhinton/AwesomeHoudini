@@ -92,7 +92,8 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [ZENV](https://github.com/CorvaeOboro/zenv) https://github.com/CorvaeOboro/zenv
   - [Houdini CopyToFram](https://github.com/eglaubauf/Houdini_CopyToFarm) This script provides a window in which the user is able to select a directory to copy the current file and it´s dependencies to a different, arbitrary location (e.g. a network storage). In this process the script will copy all linked/referenced files to the chosen location as long as they are below the current workspace.
   - [Houdini Bookmarks](https://github.com/gorrod/houdini_bookmarks) Houdini Bookmarks is a Houdini Python Panel aimed to help organize a scene by bookmarking and quickly accessing nodes, online references and file locations.
-  - [Houdini Scripts](https://github.com/cmhbenjamin/Houdini-Scripts) Flipbooksettingssaver/pointAttributeHistogram assets.
+  - [cmhbenjamin/Houdini Scripts](https://github.com/cmhbenjamin/Houdini-Scripts) Flipbooksettingssaver/pointAttributeHistogram assets.
+  - [JoseZalez/Houdini Scripts](https://github.com/JoseZalez/Houdini-scripts) Library of houdini scripts and tools (VEX, Python, OpenCL).
 
 - HIPS
   - [junichirohorikawa - Houdini Howtos](https://github.com/jhorikawa/HoudiniHowtos)
