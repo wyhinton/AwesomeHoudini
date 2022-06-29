@@ -171,4 +171,5 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [iHoudini](http://ihoudini.blogspot.com/)
   - [Affex](https://www.affex.no)
   - [Aaron Smith](https://aaronsmith.tv/VFX-3D)
+  - [Simon Verstraete Artstation Blog](https://www.artstation.com/siver/blog) 
 
