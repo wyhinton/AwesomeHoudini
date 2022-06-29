@@ -110,7 +110,8 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [John Vensson Vex Snippets](http://www.johnsvensson.se/vex-houdini)
   - [One Minute Vex](https://aaronsmithtv.github.io/books/OneMinuteVex.html)
   - [YuriyAndropov - VEX](https://github.com/YuriyAndropov/VEX)
-
+  - [Vex and HScript Reference](https://github.com/benjamin-white/vex-and-hscript-reference)
+  
 - Scripting/Dev
   - [Houdini ICPP](https://github.com/nrosenstein-old/houdini-icpp) An additional layer on top of the Houdini inlinecpp module that makes writing, debugging and distributing Inline-C++ modules easier.
   - [Houdini Vex Help](https://github.com/cgtoolbox/vscode-houdinivexhelp) VSCode extension that mimics the behavior of the wrangle nodes "open help from selected text", but directly in vscode.
