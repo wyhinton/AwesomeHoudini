@@ -186,6 +186,8 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Pepefx](https://pepefx.blogspot.com/)
   - [Lets Houdini](https://letshoudini.wordpress.com/)
   - [Deborah Fowler](http://www.deborahrfowler.com/HoudiniResources/HOUDINI-RESOURCES.html)
+  - [Lex Ikoon](http://lex.ikoon.cz/)
+  
   
   
   
