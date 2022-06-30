@@ -196,6 +196,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Chen Zeng](https://www.youtube.com/channel/UC6BQa-rODlloPCe8zeXTb2w)
   - [AxisFX](https://www.youtube.com/c/AxisDesignerGFX)
   - [Meisner Media](https://www.youtube.com/c/Miesnermedia)
+  - [Quentin Rossetto](https://www.youtube.com/channel/UCiRtkDA_b7xGnenxLNGFP0w)
 
 - Blogs/Personal Sites
   - [Sergi Carrion](https://www.artstation.com/se_carri/blog)
