@@ -190,6 +190,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Tim J Design](https://www.youtube.com/c/timjdesign)
   - [Chen Zeng](https://www.youtube.com/channel/UC6BQa-rODlloPCe8zeXTb2w)
   - [AxisFX](https://www.youtube.com/c/AxisDesignerGFX)
+  - [Meisner Media](https://www.youtube.com/c/Miesnermedia)
 
 - Blogs/Personal Sites
   - [Sergi Carrion](https://www.artstation.com/se_carri/blog)
