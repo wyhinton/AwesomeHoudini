@@ -96,6 +96,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Houdini Bookmarks](https://github.com/gorrod/houdini_bookmarks) Houdini Bookmarks is a Houdini Python Panel aimed to help organize a scene by bookmarking and quickly accessing nodes, online references and file locations.
   - [cmhbenjamin/Houdini Scripts](https://github.com/cmhbenjamin/Houdini-Scripts) Flipbooksettingssaver/pointAttributeHistogram assets.
   - [JoseZalez/Houdini Scripts](https://github.com/JoseZalez/Houdini-scripts) Library of houdini scripts and tools (VEX, Python, OpenCL).
+  - [hpaste](https://github.com/pedohorse/hpaste) Simple plain text snippet exchange for Houdini.
 
 - HIPS
   - [junichirohorikawa - Houdini Howtos](https://github.com/jhorikawa/HoudiniHowtos)
