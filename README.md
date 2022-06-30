@@ -14,6 +14,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [FeELib for Houdini](https://github.com/Fe-Elf/FeELib-for-Houdini) Various Houdini hdas for accelerating a wide variety of workflows see more examples [here](https://www.zhihu.com/people/wxjl/posts)
   - [YingQ for Houdini](https://github.com/Ying-170/YingQ-for-Houdini)
   - [qq](https://github.com/lex-ikoon/qq) Houdini Tools and VEX snippets
+  - [HoudiniHPro](https://github.com/zengchen2015/HOUDINI_HPro) Various HDAs
   - [MCLabs](https://github.com/maximcapra/MCHoudiniLabs) HDAs, Scripts, Shelf Tools and Experiments for SideFX Houdini.
   - [DMNK-tools](https://github.com/DominikLingenover/DMNK-Tools) Workflow oriented Python Scripts / HDAs
   - [Nagamochi](https://github.com/ShoheiOkazaki/Nagamochi) Nagamochi is a library of Digital Assets, Presets, Shelves and Scripts for SideFX Houdini.
