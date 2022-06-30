@@ -187,6 +187,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Gianvito Serra](https://www.youtube.com/channel/UCkeE-xTK7tAjBKayQ68rF1w/videos)
   - [eosacro](https://www.youtube.com/channel/UCuv0dRovXVrVTfNVvP-V_MA)
   - [Peter Prickarz](https://www.youtube.com/channel/UCddGjUq0LB1zj749mhBThHw)
+  - [Tim J Design](https://www.youtube.com/c/timjdesign)
 
 - Blogs/Personal Sites
   - [Sergi Carrion](https://www.artstation.com/se_carri/blog)
