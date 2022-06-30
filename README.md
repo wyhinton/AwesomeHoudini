@@ -198,6 +198,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Meisner Media](https://www.youtube.com/c/Miesnermedia)
   - [Quentin Rossetto](https://www.youtube.com/channel/UCiRtkDA_b7xGnenxLNGFP0w)
   - [mrbennelson](https://www.youtube.com/channel/UClSAI_rF9o5QNo_dHltL2qg)
+  - [Pavel Khorenyan](https://www.youtube.com/results?search_query=move+along+curve+houdini)
 
 - Blogs/Personal Sites
   - [Sergi Carrion](https://www.artstation.com/se_carri/blog)
