@@ -2,7 +2,7 @@
 
 ### **Awesome Houdini** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
 
-A collection of awesome Free/Open Source things regarding the SideFx Houdini ecosystem.
+A collection of awesome Free/Open Source things regarding the SideFx Houdini ecosystem. 
 
 - Assets
   - [qLab](https://github.com/qLab/qLib) A procedural asset library for SideFX Houdini.
