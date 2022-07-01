@@ -202,6 +202,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [RMA Houdini Tutorials](https://www.youtube.com/c/RMAFIRE)
   - [Momo's Fx](https://www.youtube.com/channel/UC3Nr7exRwk8GPMAGPRKjBpw/videos) 
   - [Diffuse FX](https://www.youtube.com/c/DiffuseFX)
+  - [Doxia Studio](https://www.youtube.com/c/DoxiaStudio)
 
 - Blogs/Personal Sites
   - [Sergi Carrion](https://www.artstation.com/se_carri/blog)
