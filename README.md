@@ -108,6 +108,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Utilizing NumPy and NetworkX in Houdini for linear algebraic computations and path finding](https://github.com/shervinazadi/Utilizing-NumPy-and-NetworkX-in-Houdini-for-linear-algebraic-computations-and-path-finding) In these example files, we are gearing Houdini Python nodes to work with NumPy and NetworkX for path-finding and aggregation of environmental analyses in a generative design process. There are two functions that read geometric data from Houdini and translate them into NumPy arrays and the other way around.
   - [Assorted Houdini Demos](https://github.com/jakericedesigns/Assorted-Houdini-Demos) Toy projects
   - [Educational Hips](https://github.com/pedohorse/educational-hips) Houdini setups with a lot of comments and descriptions.
+  - [Eetu's Lab](https://forums.odforce.net/topic/8471-eetus-lab/?page=7#comment-119237) Od force thread with many examples.
   
 - Vex
   - [Kuchavo/Vex-Snippets](https://github.com/Kuchavo/VEX-Snippets) A collection of useful VEX snippets for Houdini.
