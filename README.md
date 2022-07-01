@@ -205,6 +205,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Diffuse FX](https://www.youtube.com/c/DiffuseFX)
   - [Doxia Studio](https://www.youtube.com/c/DoxiaStudio)
   - [Terranimator](https://www.youtube.com/watch?v=MB2YojnvbXE)
+  - [Steven Knipping](https://www.youtube.com/user/nothingifnotcritical)
 
 - Blogs/Personal Sites
   - [Sergi Carrion](https://www.artstation.com/se_carri/blog)
