@@ -70,6 +70,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Gear Logic](https://github.com/pedohorse/gearlogic) Framework for mechanical logic circuits for Houdini
 
 - Tools/Extensions
+  - [Womrhole Content Browser](https://wormholetools.gumroad.com/l/whbrowser) The Wormhole Content Browser is a custom UI for Houdini that enables quick browsing, previewing, and importing of content into Houdini.
   - [Houdini VEX Editor](https://github.com/paulwinex/pw_Houdini_VEX_Editor) Advanced Houdini VEX Editor
   - [MASSEParmUtilities](https://github.com/viktors-a/MASSEParmUtilities) Easily setup control parmaters
   - [Marking Menu](https://github.com/dchow1992/houdini_markingmenu) Marking Menu for the Houdini network editor. Fast access to node creation, placement, toolscripts, and shelf tools
