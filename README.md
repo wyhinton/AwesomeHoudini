@@ -153,7 +153,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [OpenGl](https://github.com/McNopper/OpenGL) OpenGL 3 and 4 with GLSL
   - [Elna](https://github.com/deepakxyz/Elna) Command Line Interface for visual effects project and asset management. It also has a Houdini project management tools with an ability to publish Otls.
   - [Houdini Tricks Tumblr](https://houdinitricks.tumblr.com/) Assorted Houdini tips and quick tutorials
-- YouTube Channels / Tutorial Vimeos
+- YouTube/Vimeo Channels
   - [VFX Magic](https://www.youtube.com/c/VFXMagics)
   - [Entagma](https://www.youtube.com/c/Entagma)
   - [Stormz](https://www.youtube.com/c/Stormz)
