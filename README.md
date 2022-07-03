@@ -211,6 +211,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [CG Katana](https://www.youtube.com/c/CGKATANA/videos)
   - [Ricardo Ponce](https://www.youtube.com/user/ribponce)
   - [LoveDo](https://www.youtube.com/c/LoveDo)
+  - [ChetalGazdarVFX](https://www.youtube.com/c/ChetalGazdarVFX)
 
 - Blogs/Personal Sites
   - [Sergi Carrion](https://www.artstation.com/se_carri/blog)
