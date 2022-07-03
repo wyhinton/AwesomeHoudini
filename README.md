@@ -213,6 +213,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [LoveDo](https://www.youtube.com/c/LoveDo)
   - [ChetalGazdarVFX](https://www.youtube.com/c/ChetalGazdarVFX)
   - [Yan Studios](https://www.youtube.com/c/YanStudios)
+  - [Tom Klejne](https://www.youtube.com/channel/UC-SI5UO5cdwjs2Da-wu466g)
 
 - Blogs/Personal Sites
   - [Sergi Carrion](https://www.artstation.com/se_carri/blog)
