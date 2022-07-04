@@ -68,6 +68,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Houdini PRTROP](https://github.com/flipswitchingmonkey/houdini_PRTROP)
   - [Houdini-x4d](https://github.com/pedohorse/houdini-x4d/tree/master/otls) Assets for working in 4d space in Houdini.
   - [Gear Logic](https://github.com/pedohorse/gearlogic) Framework for mechanical logic circuits for Houdini
+  - [Tech Gear HDA](https://www.sidefx.com/tutorials/tech-gear-generator/) Generate detailed cylindrical pieces. Can be useful to generate gears , bolts or details for sci-fi assets.   
 
 - Tools/Extensions
   - [Womrhole Content Browser](https://wormholetools.gumroad.com/l/whbrowser) The Wormhole Content Browser is a custom UI for Houdini that enables quick browsing, previewing, and importing of content into Houdini.
