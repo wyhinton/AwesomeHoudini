@@ -216,6 +216,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Yan Studios](https://www.youtube.com/c/YanStudios)
   - [Tom Klejne](https://www.youtube.com/channel/UC-SI5UO5cdwjs2Da-wu466g)
   - [David Kahl](https://www.youtube.com/c/DavidKahlVFX)
+  - [Psynema](https://www.youtube.com/c/psynema)
 
 - Blogs/Personal Sites
   - [Sergi Carrion](https://www.artstation.com/se_carri/blog)
