@@ -219,6 +219,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Psynema](https://www.youtube.com/c/psynema)
   - [Marc Dom VFX](https://www.youtube.com/channel/UCu6DoH72NQSTz0Drf1QeYdQ)
   - [Right-Brained Tutorials](https://www.youtube.com/c/RightBrainedTutorials)
+  - [Mr Tonks](https://www.youtube.com/c/MrTonks)
 
 - Blogs/Personal Sites
   - [Sergi Carrion](https://www.artstation.com/se_carri/blog)
