@@ -223,6 +223,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Rok Andic](https://www.youtube.com/user/rokandic)
   - [Hipflask](https://www.youtube.com/channel/UCCeWQn-mWqzuYML_j-_Vf6Q)
   - [Ryan Shepherd](https://www.youtube.com/c/RyanShepherdFX)
+  - [5 Minute FX](https://www.youtube.com/c/5MinuteFX)
 
 - Blogs/Personal Sites
   - [Sergi Carrion](https://www.artstation.com/se_carri/blog)
