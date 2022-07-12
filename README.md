@@ -240,7 +240,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Deborah Fowler](http://www.deborahrfowler.com/HoudiniResources/HOUDINI-RESOURCES.html)
   - [Lex Ikoon](http://lex.ikoon.cz/)
   - [Daily HIP](https://dailyhip.wordpress.com/page/2/)
-  = [Matthew Hanger](https://www.matthewhanger.com/blog)
+  - [Matthew Hanger](https://www.matthewhanger.com/blog)
   
   
   
