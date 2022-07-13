@@ -12,6 +12,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [MOPS](https://github.com/toadstorm/MOPS) Motion OPerators for Houdini, a motion graphics toolkit.
   - [OpenCL Wrangle COP](https://vimeo.com/223407863) This operator allows you to run an OpenCL kernel as part of your COP network. Depending on the GPU, some operators can be orders of magnitude faster than even VEX.
   - [FeELib for Houdini](https://github.com/Fe-Elf/FeELib-for-Houdini) Various Houdini hdas for accelerating a wide variety of workflows see more examples [here](https://www.zhihu.com/people/wxjl/posts)
+  - [Microbot VDB Painter](https://microbot.ch/new/vdb-painter/) mbPainter for Sidefx Houdini is an Artist Friendly Set of Tools for interactive Manipulation of OpenVDB (www.openvdb.org) SDF Volumes. It includes 3 Basic Modes. Brush Tools (BT), Mesh Fusion (MT) and Filter Tools (FT). Everything works on one Node and Binary Data gets stored within the Digital Asset.
   - [YingQ for Houdini](https://github.com/Ying-170/YingQ-for-Houdini)
   - [qq](https://github.com/lex-ikoon/qq) Houdini Tools and VEX snippets
   - [HoudiniHPro](https://github.com/zengchen2015/HOUDINI_HPro) Various HDAs
