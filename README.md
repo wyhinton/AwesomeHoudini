@@ -79,6 +79,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Nikla Rosenstein Houdini Library](https://github.com/nrosenstein-old/houdini-library) Rosenstein's personal library of Houdini digital assets and shelf tools.
   - [HoudiniExprEditor](https://github.com/cgtoolbox/HoudiniExprEditor) Houdini Expression Editor allows you to set up an external text editor for all type of expressions. Such as Vex snippet, python code, HScript. It uses a system of file watchers to keep track of code updates in real time. It doesn't freeze Houdini and you don't have to close your editor to see the updated code applied on your parameter. Also compatible with custom Python SOP nodes source code.
   - [Houlean](https://github.com/lecopivo/HouLean) This Houdini plugin allows you to use Lean 4 as a scripting language/replacement of VEX. This plugin is highly experimental!
+  - [hou_packager](https://github.com/Njordy/hou_packager) A simple SideFX Houdini package manager. It lets the user to easily "install", disable or delete any (ready) Houdini HDA libraries.
   - [Help Card Maker](https://github.com/cgtoolbox/HelpCardMaker) A tool to create easily help cards for your digital assets.
   - [Null Between Bones](https://github.com/Kuchavo/Null-Between-Bones-Houdini-Tool) Creation of 'Null' nodes between all selected nodes (e.g. 'Bone' nodes). Useful for creation of controls for rigging.
   - [Vex Snippet Library](https://github.com/dchow1992/Vex_Snippet_Library) Python Panel utility for creating, storing, and accessing vex snippets in Houdini.
