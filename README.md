@@ -231,6 +231,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Kino's Dome](https://www.youtube.com/channel/UCH1I2Aq3GVgHBYUoKkuQtzQ)
   - [Emīls Geršinskis Ješinskis](https://www.youtube.com/channel/UCijGkeuwfVMjNmKyj7Z9KtA)
   - [Arise Works](https://www.youtube.com/c/AriseWorks)
+  - [Terranimator](https://www.youtube.com/c/Terranimator/videos)
 ---
 - Blogs/Personal Sites
   - [Sergi Carrion](https://www.artstation.com/se_carri/blog)
