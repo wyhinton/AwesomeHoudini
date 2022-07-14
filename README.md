@@ -247,6 +247,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Lex Ikoon](http://lex.ikoon.cz/)
   - [Daily HIP](https://dailyhip.wordpress.com/page/2/)
   - [Matthew Hanger](https://www.matthewhanger.com/blog)
+  - [Discretization.de](http://wordpress.discretization.de/)
   
   
   
