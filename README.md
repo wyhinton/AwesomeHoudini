@@ -34,6 +34,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Houdini Extensions](https://github.com/TDChina/Houdini-Extensions) Houdini
   - [Bento](https://github.com/takavfx/Bento) Toolset for Houdini
   - [BeeHou](https://github.com/simonreeves/BeeHou) Houdini Package
+  - [Aces Converter](https://timvanhelsdingen.com/convert-textures-to-aces/) Converts textures to ACES color space, as seen in Toadstorms Guide.
   - [Diffusion Limited Aggregation](https://github.com/jroy1992/Diffusion-Limited-Aggregation) Create fractal like growth inside 3D geometry using the principle of Diffusion Limited Aggregation. The implementation has been done in three parts: Text and 3D Geometry and Intersection
   - [Houdini TaleSpire Terrain Generation Toolset](https://github.com/Baldrax/Houdini_TaleSpire_Terrain_Generation_Toolset) A toolset to procedurally create terrain for TaleSpire in Houdini.
   - [Houdini-Telegram-Notifier](https://github.com/anvdev/Houdini-Telegram-Notifier) Send messages to Telegram chat directly from SideFX Houdini
