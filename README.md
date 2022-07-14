@@ -227,6 +227,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Ryan Shepherd](https://www.youtube.com/c/RyanShepherdFX)
   - [5 Minute FX](https://www.youtube.com/c/5MinuteFX)
   - [Javier Toledo](https://www.youtube.com/watch?v=Bz25kUHKXoc)
+  - [Kino's Dome](https://www.youtube.com/channel/UCH1I2Aq3GVgHBYUoKkuQtzQ)
 - Blogs/Personal Sites
   - [Sergi Carrion](https://www.artstation.com/se_carri/blog)
   - [CGWiki](https://www.tokeru.com/cgwiki/index.php?title=HoudiniGettingStarted)
