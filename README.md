@@ -3,7 +3,7 @@
 ### **Awesome Houdini** ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 A collection of awesome Free/Open Source things regarding the SideFx Houdini ecosystem. 
-
+---
 - Assets
   - [qLab](https://github.com/qLab/qLib) A procedural asset library for SideFX Houdini.
   - [Houdini Utility Thread](https://www.sidefx.com/forum/topic/80497/?page=1#post-348642)Various free assets and tools
@@ -129,7 +129,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Houdini Vex Butterfly Curve](https://github.com/ObeidaZakzak/Houdini-VEX-Butterfly-Curve)
   - [Houdini Physical Simulations](https://github.com/stevedatelier/Houdini-Simulations) Notes and code snippets used to create volumes, oceans, fluid and more inside SideFX Houdini
   - [OlegAleks/VEX](https://github.com/OlegAleks/VEX) Everyday code snippets
-  
+---
 - Scripting/Dev
   - [Houdini ICPP](https://github.com/nrosenstein-old/houdini-icpp) An additional layer on top of the Houdini inlinecpp module that makes writing, debugging and distributing Inline-C++ modules easier.
   - [Houdini Vex Help](https://github.com/cgtoolbox/vscode-houdinivexhelp) VSCode extension that mimics the behavior of the wrangle nodes "open help from selected text", but directly in vscode.
@@ -229,6 +229,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Javier Toledo](https://www.youtube.com/watch?v=Bz25kUHKXoc)
   - [Kino's Dome](https://www.youtube.com/channel/UCH1I2Aq3GVgHBYUoKkuQtzQ)
   - [Emīls Geršinskis Ješinskis](https://www.youtube.com/channel/UCijGkeuwfVMjNmKyj7Z9KtA)
+---
 - Blogs/Personal Sites
   - [Sergi Carrion](https://www.artstation.com/se_carri/blog)
   - [CGWiki](https://www.tokeru.com/cgwiki/index.php?title=HoudiniGettingStarted)
