@@ -62,6 +62,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Richard C Thomas Assorted Tools](https://richardcthomas.com)
   - [hipCollection](https://github.com/PhilHaf/hipCollection) Houdini Files, Hdas, Effects
   - [treegen](https://github.com/demiaster/treegen) Vegetation Generation Tool for Houdini. The Digital Asset implements the space colonization algorithm by Runions et al (2007). The asset can be used to easily produce natural tree structures allowing control over the growth by shaping the roots, the foliage and the way the tree fills up the space.
+  - [Houdarcs](https://github.com/design-automation/houdarcs) Houdini Architecture Assets
   - [GSS Call Python](https://github.com/shervinazadi/GSS_Call_Python) Houdini Asset for Running a Python Script within a specific Python Environment
   - [Wire Builder HDA](https://viktorsanfimovs.gumroad.com/l/wtBRv) Procedural wire builder asset
   - [Houdini Tech Art Challenge Winners 2021](https://www.sidefx.com/tech-art-challenge-2021/) HPaint, Polyline Creator, Poly Slice Tool, and more 
@@ -131,7 +132,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Houdini Vex Butterfly Curve](https://github.com/ObeidaZakzak/Houdini-VEX-Butterfly-Curve)
   - [Houdini Physical Simulations](https://github.com/stevedatelier/Houdini-Simulations) Notes and code snippets used to create volumes, oceans, fluid and more inside SideFX Houdini
   - [OlegAleks/VEX](https://github.com/OlegAleks/VEX) Everyday code snippets
-  - [Houdarcs](https://github.com/design-automation/houdarcs) Houdini Architecture Assets
+
   
 - Scripting/Dev
   - [Houdini ICPP](https://github.com/nrosenstein-old/houdini-icpp) An additional layer on top of the Houdini inlinecpp module that makes writing, debugging and distributing Inline-C++ modules easier.
