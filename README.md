@@ -235,6 +235,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Arise Works](https://www.youtube.com/c/AriseWorks)
   - [Terranimator](https://www.youtube.com/c/Terranimator/videos)
   - [Short & Sweet 3D](https://www.youtube.com/watch?v=hBOCowLO9uw)
+  - [Neville Adams](https://www.youtube.com/c/NevilleAdams)
 - Blogs/Personal Sites
   - [Sergi Carrion](https://www.artstation.com/se_carri/blog)
   - [CGWiki](https://www.tokeru.com/cgwiki/index.php?title=HoudiniGettingStarted)
@@ -254,6 +255,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Discretization.de](http://wordpress.discretization.de/houdini/) 
   - [Tim van Helsdingen](https://timvanhelsdingen.com/convert-textures-to-aces/)
   - [MO-FX](https://sites.google.com/site/mocgnotes/houdini/python)
+  
   
   
   
