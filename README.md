@@ -238,6 +238,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Terranimator](https://www.youtube.com/c/Terranimator/videos)
   - [Short & Sweet 3D](https://www.youtube.com/watch?v=hBOCowLO9uw)
   - [Neville Adams](https://www.youtube.com/c/NevilleAdams)
+  - [Houdini Kitchen](https://www.youtube.com/c/houdinikitchen)
 - Blogs/Personal Sites
   - [Sergi Carrion](https://www.artstation.com/se_carri/blog)
   - [CGWiki](https://www.tokeru.com/cgwiki/index.php?title=HoudiniGettingStarted)
