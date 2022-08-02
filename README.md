@@ -130,7 +130,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Houdini Vex Butterfly Curve](https://github.com/ObeidaZakzak/Houdini-VEX-Butterfly-Curve)
   - [Houdini Physical Simulations](https://github.com/stevedatelier/Houdini-Simulations) Notes and code snippets used to create volumes, oceans, fluid and more inside SideFX Houdini
   - [OlegAleks/VEX](https://github.com/OlegAleks/VEX) Everyday code snippets
----
+  
 - Scripting/Dev
   - [Houdini ICPP](https://github.com/nrosenstein-old/houdini-icpp) An additional layer on top of the Houdini inlinecpp module that makes writing, debugging and distributing Inline-C++ modules easier.
   - [Houdini Vex Help](https://github.com/cgtoolbox/vscode-houdinivexhelp) VSCode extension that mimics the behavior of the wrangle nodes "open help from selected text", but directly in vscode.
@@ -156,6 +156,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Data Driven Procedural Generation](https://github.com/maajor/Data-Driven-Procedural-Generation) Collection of Papers on Data Driven Procedural Generation
   - [OpenGl](https://github.com/McNopper/OpenGL) OpenGL 3 and 4 with GLSL
   - [Elna](https://github.com/deepakxyz/Elna) Command Line Interface for visual effects project and asset management. It also has a Houdini project management tools with an ability to publish Otls.
+   - [houdini2vr](https://github.com/jtomori/houdini2vr) Preview your Houdini mono/stereo VR renders in VR headset. This tool takes displayed image plane in Render View pane and displays it in your VR headset.
   - [Houdini Tricks Tumblr](https://houdinitricks.tumblr.com/) Assorted Houdini tips and quick tutorials
 - YouTube/Vimeo Channels
   - [VFX Magic](https://www.youtube.com/c/VFXMagics)
@@ -232,7 +233,6 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Emīls Geršinskis Ješinskis](https://www.youtube.com/channel/UCijGkeuwfVMjNmKyj7Z9KtA)
   - [Arise Works](https://www.youtube.com/c/AriseWorks)
   - [Terranimator](https://www.youtube.com/c/Terranimator/videos)
----
 - Blogs/Personal Sites
   - [Sergi Carrion](https://www.artstation.com/se_carri/blog)
   - [CGWiki](https://www.tokeru.com/cgwiki/index.php?title=HoudiniGettingStarted)
