@@ -131,6 +131,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Houdini Vex Butterfly Curve](https://github.com/ObeidaZakzak/Houdini-VEX-Butterfly-Curve)
   - [Houdini Physical Simulations](https://github.com/stevedatelier/Houdini-Simulations) Notes and code snippets used to create volumes, oceans, fluid and more inside SideFX Houdini
   - [OlegAleks/VEX](https://github.com/OlegAleks/VEX) Everyday code snippets
+  - [Houdarcs](https://github.com/design-automation/houdarcs) Houdini Architecture Assets
   
 - Scripting/Dev
   - [Houdini ICPP](https://github.com/nrosenstein-old/houdini-icpp) An additional layer on top of the Houdini inlinecpp module that makes writing, debugging and distributing Inline-C++ modules easier.
