@@ -74,6 +74,9 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Tech Gear HDA](https://www.sidefx.com/tutorials/tech-gear-generator/) Generate detailed cylindrical pieces. Can be useful to generate gears , bolts or details for sci-fi assets.   
   - [Auto Cache Out Tool](https://www.youtube.com/watch?v=euTth1NNrYc) Auto Cache Out tool is for managing caches and .hip files. The tool will lay down all the important nodes you need to cache out and when you render it will create the directories and automatically version up your caches and files.
   - [Hou_bg_renderer](https://github.com/jtomori/hou_bg_render) Render any renderable node in background.
+  - [Catacomb](https://github.com/amovfx/Catacomb) A procedural dungeon generator in Houdini.
+
+
 - Tools/Extensions
   - [Womrhole Content Browser](https://wormholetools.gumroad.com/l/whbrowser) The Wormhole Content Browser is a custom UI for Houdini that enables quick browsing, previewing, and importing of content into Houdini.
   - [Houdini VEX Editor](https://github.com/paulwinex/pw_Houdini_VEX_Editor) Advanced Houdini VEX Editor
