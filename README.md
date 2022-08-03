@@ -262,6 +262,8 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Discretization.de](http://wordpress.discretization.de/houdini/) 
   - [Tim van Helsdingen](https://timvanhelsdingen.com/convert-textures-to-aces/)
   - [MO-FX](https://sites.google.com/site/mocgnotes/houdini/python)
+  - [Ryoji CG Memo](https://sites.google.com/site/fujitarium/Houdini/fx-procedural-processes/getting-surface-tangent-from-uv)
+  - [Houdini Gubbins](https://houdinigubbins.wordpress.com/2017/04/29/smooth-tangent-vector-fields/)
   
   
   
