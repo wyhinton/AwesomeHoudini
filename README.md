@@ -117,6 +117,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Educational Hips](https://github.com/pedohorse/educational-hips) Houdini setups with a lot of comments and descriptions.
   - [Eetu's Lab](https://forums.odforce.net/topic/8471-eetus-lab/?page=7#comment-119237) Od force thread with many examples.
   - [Atom's Link Page](https://forums.odforce.net/topic/25173-atoms-link-page/)
+  - [Applied Quaternions](https://github.com/amovfx/AppliedQuaternions) Some Houdini Files to demonstrate how to work with quaternions.
   
 - Vex
   - [Kuchavo/Vex-Snippets](https://github.com/Kuchavo/VEX-Snippets) A collection of useful VEX snippets for Houdini.
