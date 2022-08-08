@@ -247,6 +247,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Houdini Kitchen](https://www.youtube.com/c/houdinikitchen)
   - [Attila Sipos](https://www.youtube.com/channel/UCijyh9-RThPvOHVX4nza47w)
   - [EHoudini Academy](https://www.youtube.com/c/EHoudiniAcademy)
+  - [Skywhite](https://www.youtube.com/c/SKYWHITEFX)
   
 - Blogs/Personal Sites
   - [Sergi Carrion](https://www.artstation.com/se_carri/blog)
