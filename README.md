@@ -156,6 +156,8 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Camera Morphing Houdini](https://github.com/pareylook/Camera-morphing-houdini)
   - [Houdini Silent Install Script](https://github.com/paulwinex/houdini_install_script)Automatically (silent) downloads and installs latest Houdini build. Good solution for studio pipeline!
   - [Emacs Houdini Vex Mode](https://github.com/gearslogy/Emacs-Houdini-vex-mode) Emacs autocomplete for VEX.
+  - [Sublime Debugger Houdini](https://github.com/blurstudio/sublime_debugger-HoudiniUI) This adapter serves as a "middleman" between the Sublime Debugger plugin and a DAP implementation for python (debugpy) injected into Houdini.
+
 - Misc
   - [Jtmori - VFX Goodnight Reading](https://github.com/jtomori/vfx_good_night_reading)📚 Curated collection of good reading about VFX and CG
   - [Houdini NodeShape Converter](https://github.com/nrosenstein-old/houdini-nodeshape-converter) Convert SVG paths to Houdini JSON nodeshapes.
