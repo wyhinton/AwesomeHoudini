@@ -76,8 +76,8 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Hou_bg_renderer](https://github.com/jtomori/hou_bg_render) Render any renderable node in background.
   - [Catacomb](https://github.com/amovfx/Catacomb) A procedural dungeon generator in Houdini.
   - [Texture-synthesis-houdini](https://github.com/manuelkoester/texture-synthesis-houdini) Houdini / PDG plugin for EmbarkStudios' texture-synthesis.
-  - [Houdini Principal Curvature](https://github.com/mruegenberg/houdini-principal-curvature)
-  - [Houdini Transform Matcher](https://github.com/mruegenberg/houdini-transform-matcher)
+  - [Houdini Principal Curvature](https://github.com/mruegenberg/houdini-principal-curvature) A Houdini DSO that extracts the minimal and maximal principal curvature directions from geometry.
+  - [Houdini Transform Matcher](https://github.com/mruegenberg/houdini-transform-matcher) A Houdini DSO that extracts the transform between two sets of points.
   
 - Tools/Extensions
   - [Womrhole Content Browser](https://wormholetools.gumroad.com/l/whbrowser) The Wormhole Content Browser is a custom UI for Houdini that enables quick browsing, previewing, and importing of content into Houdini.
