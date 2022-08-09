@@ -253,6 +253,8 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Attila Sipos](https://www.youtube.com/channel/UCijyh9-RThPvOHVX4nza47w)
   - [EHoudini Academy](https://www.youtube.com/c/EHoudiniAcademy)
   - [Skywhite](https://www.youtube.com/c/SKYWHITEFX)
+  - [The Infinites](https://www.youtube.com/watch?v=ijAtfCez6Cc)
+
   
 - Blogs/Personal Sites
   - [Bernie Bernie](https://berniebernie.fr/wiki/Main_Page) 
