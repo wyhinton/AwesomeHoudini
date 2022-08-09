@@ -79,6 +79,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Houdini Principal Curvature](https://github.com/mruegenberg/houdini-principal-curvature) A Houdini DSO that extracts the minimal and maximal principal curvature directions from geometry.
   - [Houdini Transform Matcher](https://github.com/mruegenberg/houdini-transform-matcher) A Houdini DSO that extracts the transform between two sets of points.
   - [Camera Culling Tool](https://thomasjt017.gumroad.com/l/BvVSXK) The Culling Tool takes in geometry and culls it based on a camera view, either on a single frame or a range of frames; with extra options such as the ability to keep objects based on connectivity.
+  - [Point Based Growth HDA](https://itj.gumroad.com/l/pbg) Houdini point based growth Asset.
   
 - Tools/Extensions
   - [Womrhole Content Browser](https://wormholetools.gumroad.com/l/whbrowser) The Wormhole Content Browser is a custom UI for Houdini that enables quick browsing, previewing, and importing of content into Houdini.
