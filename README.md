@@ -250,6 +250,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Skywhite](https://www.youtube.com/c/SKYWHITEFX)
   
 - Blogs/Personal Sites
+  - [Bernie Bernie](https://berniebernie.fr/wiki/Main_Page) 
   - [Sergi Carrion](https://www.artstation.com/se_carri/blog)
   - [CGWiki](https://www.tokeru.com/cgwiki/index.php?title=HoudiniGettingStarted)
   - [iHoudini](http://ihoudini.blogspot.com/)
@@ -270,6 +271,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [MO-FX](https://sites.google.com/site/mocgnotes/houdini/python)
   - [Ryoji CG Memo](https://sites.google.com/site/fujitarium/Houdini/fx-procedural-processes/getting-surface-tangent-from-uv)
   - [Houdini Gubbins](https://houdinigubbins.wordpress.com/2017/04/29/smooth-tangent-vector-fields/)
+
   
   
   
