@@ -113,6 +113,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [hpaste](https://github.com/pedohorse/hpaste) Simple plain text snippet exchange for Houdini.
   - [dynamite](https://github.com/ajz3d/dynamite) Tool for a streamlined bake cage creation in Houdini.
   - [Nvil-houdini-link](https://github.com/ajz3d/nvil-houdini-applink) AppLink that allows for quick geometry interchange between Houdini and NVil.
+  - [Camera Culling Tool](https://thomasjt017.gumroad.com/l/BvVSXK) The Culling Tool takes in geometry and culls it based on a camera view, either on a single frame or a range of frames; with extra options such as the ability to keep objects based on connectivity.
 
 - HIPS
   - [junichirohorikawa - Houdini Howtos](https://github.com/jhorikawa/HoudiniHowtos)
