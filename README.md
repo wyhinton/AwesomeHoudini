@@ -120,6 +120,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
 
 - HIPS
   - [junichirohorikawa - Houdini Howtos](https://github.com/jhorikawa/HoudiniHowtos)
+  - [Nitzan Tregerman Community Projects](https://github.com/nitzan-treg)
   - [dchow1992 - Example Hips](https://github.com/dchow1992/example_hips) A collection of interesting hip files / techniques to use as examples or reference: https://vimeo.com/dchow1992
   - [Presentation Houdini Vis](https://github.com/anopara/presentation-houdini-vis) Houdini files of visualizations from my presentation "Place like I do! Example-based procedural placements in a dialogue system"
   - [Rich Lord Tools](https://www.richlord.com/tools?offset=1554488106925&reversePaginate=true) Various HIP files from CG/VFX/Houdini artist Rich Lord, including Growing Prints, RBD Scatter, and more
