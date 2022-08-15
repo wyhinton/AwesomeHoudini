@@ -81,6 +81,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Camera Culling Tool](https://thomasjt017.gumroad.com/l/BvVSXK) The Culling Tool takes in geometry and culls it based on a camera view, either on a single frame or a range of frames; with extra options such as the ability to keep objects based on connectivity.
   - [Point Based Growth HDA](https://itj.gumroad.com/l/pbg) Houdini point based growth Asset.
   - [Path Solver HDA](https://lavrenovlad.gumroad.com/l/fkQSl) Path Solver is a Houdini Digital Asset solving points/objects along any path without them intersecting each other. 
+  - [HDK_DSO](https://github.com/notawhalevfx/hdk_dso) Various Houdini HDK DSO Plugins.
   
 - Tools/Extensions
   - [Womrhole Content Browser](https://wormholetools.gumroad.com/l/whbrowser) The Wormhole Content Browser is a custom UI for Houdini that enables quick browsing, previewing, and importing of content into Houdini.
