@@ -116,7 +116,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [hpaste](https://github.com/pedohorse/hpaste) Simple plain text snippet exchange for Houdini.
   - [dynamite](https://github.com/ajz3d/dynamite) Tool for a streamlined bake cage creation in Houdini.
   - [Nvil-houdini-link](https://github.com/ajz3d/nvil-houdini-applink) AppLink that allows for quick geometry interchange between Houdini and NVil.
-
+  - [Hip Meta Stripper](https://github.com/pedohorse/hip-meta-stripper) Strips metadata from your hip files.
 
 - HIPS
   - [junichirohorikawa - Houdini Howtos](https://github.com/jhorikawa/HoudiniHowtos)
