@@ -30,6 +30,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [SDMTools](https://github.com/sashaouellet/SDMTools) Toolset for Houdini (and more in the future)
   - [nLib](https://github.com/Njordy/nLib) A small collection of simplistic HDAs
   - [Openfirehawk Houdini Tools](https://github.com/firehawkvfx/openfirehawk-houdini-tools) A collection of useful hda's and scripts used in the Open Firehawk VFX pipeline.
+  - [kitbash-parser](https://github.com/MatthewZub/houdini-kitbashparser) 'Kitbash Parser' is a kit of tools to work with kitbash packs in Houdini.
   - [hipie](https://github.com/igor-elovikov/hipie) Houdini Tools
   - [Houdini Extensions](https://github.com/TDChina/Houdini-Extensions) Houdini
   - [Bento](https://github.com/takavfx/Bento) Toolset for Houdini
