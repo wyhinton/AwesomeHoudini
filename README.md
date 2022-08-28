@@ -263,6 +263,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Skywhite](https://www.youtube.com/c/SKYWHITEFX)
   - [The Infinites](https://www.youtube.com/watch?v=ijAtfCez6Cc)
   - [WaffleBoyTom](https://www.youtube.com/channel/UCnMirfjIyjm11tJR4FjXQGg)
+  - [Carlos Dordelly](https://www.youtube.com/c/CarlosDordelly)
 
   
 - Blogs/Personal Sites
