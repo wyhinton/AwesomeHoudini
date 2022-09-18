@@ -291,6 +291,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Houdini Gubbins](https://houdinigubbins.wordpress.com/2017/04/29/smooth-tangent-vector-fields/)
   - [Sarah Van Alstyne](https://www.sarahvalstyne.com/post/code-snippets-vex)
   - [Oded Maoz](https://odederell3d.blog/tag/houdini/)
+  - [Kate Xagoraris](https://www.katexagoraris.com/)
 
   
   
