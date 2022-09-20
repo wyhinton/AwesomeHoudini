@@ -266,6 +266,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Carlos Dordelly](https://www.youtube.com/c/CarlosDordelly)
   - [CGPedia](https://www.youtube.com/c/Cgpedia3d)
   - [Effective TDs](https://www.youtube.com/channel/UC0SwxaxYggze4VawyxvEM4A)
+  - [Emīls Geršinskis - Ješinskis](https://www.youtube.com/channel/UCijGkeuwfVMjNmKyj7Z9KtA)
 
   
 - Blogs/Personal Sites
