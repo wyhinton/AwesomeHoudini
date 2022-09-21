@@ -83,7 +83,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Point Based Growth HDA](https://itj.gumroad.com/l/pbg) Houdini point based growth Asset.
   - [Path Solver HDA](https://lavrenovlad.gumroad.com/l/fkQSl) Path Solver is a Houdini Digital Asset solving points/objects along any path without them intersecting each other. 
   - [HDK_DSO](https://github.com/notawhalevfx/hdk_dso) Various Houdini HDK DSO Plugins.
-  
+  - [Lookbox](https://www.patreon.com/posts/lookbox-beta-21308541) Look dev tool suite for Mantra
 - Tools/Extensions
   - [Womrhole Content Browser](https://wormholetools.gumroad.com/l/whbrowser) The Wormhole Content Browser is a custom UI for Houdini that enables quick browsing, previewing, and importing of content into Houdini.
   - [Houdini VEX Editor](https://github.com/paulwinex/pw_Houdini_VEX_Editor) Advanced Houdini VEX Editor
