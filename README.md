@@ -122,6 +122,10 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Nvil-houdini-link](https://github.com/ajz3d/nvil-houdini-applink) AppLink that allows for quick geometry interchange between Houdini and NVil.
   - [Hip Meta Stripper](https://github.com/pedohorse/hip-meta-stripper) Strips metadata from your hip files.
   - [Gamestuff](https://github.com/pedohorse/gamestuff) Houdini interface game engine.
+  - [Wrap Deformer](https://momme.gumroad.com/l/cfxwrap?recommended_by=search) 
+  - [PCA Dejitter](https://momme.gumroad.com/l/pcadejitter?recommended_by=search)
+  - [Dune Solver](https://matthewjukes.gumroad.com/l/dunesolver?recommended_by=search)
+  
 
 - HIPS
   - [junichirohorikawa - Houdini Howtos](https://github.com/jhorikawa/HoudiniHowtos)
@@ -136,6 +140,10 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Atom's Link Page](https://forums.odforce.net/topic/25173-atoms-link-page/)
   - [Applied Quaternions](https://github.com/amovfx/AppliedQuaternions) Some Houdini Files to demonstrate how to work with quaternions.
   - [Mantra LPE Cookbook](https://github.com/alexwheezy/Mantra-LPE-Cookbook) Contains recipes for making commonly used render passes using LPE.
+  - [Free VDB Clouds](https://assetsvfx.gumroad.com/l/RcgNe?recommended_by=search) Pack of 3 cloud VDBs for large Ariel views.
+  - [Fix Particle Stepping](https://voxyde.gumroad.com/l/bmyin?recommended_by=search)
+ 
+
   
 - Vex
   - [Kuchavo/Vex-Snippets](https://github.com/Kuchavo/VEX-Snippets) A collection of useful VEX snippets for Houdini.
