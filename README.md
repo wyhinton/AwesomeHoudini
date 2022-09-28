@@ -88,7 +88,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Wrap Defromer])(https://momme.gumroad.com/l/cfxwrap?recommended_by=search) The wrap deformer provides an alternative approach to Houdinis point deform. The point deform checks for proximity to points on the driver mesh and deforms based on point weights. The wrap deformer will search for proximity to the driver meshes closest position on the primitive surface and interpolates from the full surface matrix of their respective points.
   - [PCA Dejitter](https://momme.gumroad.com/l/pcadejitter?recommended_by=search) The PCA Dejitter Node allows you to Remove Jitter from an animated Geometry using Principal Component Analysis. This method denoises the motion of all points by analyzing the selected range and reducing the data to a lower dimensional space.
   - [Pyro Shader for Redshit, ARnold, Renderman](https://sadjad.gumroad.com/l/PvjRz?recommended_by=search) 
-  
+  - [Dune Solver](https://matthewjukes.gumroad.com/l/dunesolver?recommended_by=search)
   
 - Tools/Extensions
   - [Womrhole Content Browser](https://wormholetools.gumroad.com/l/whbrowser) The Wormhole Content Browser is a custom UI for Houdini that enables quick browsing, previewing, and importing of content into Houdini.
@@ -126,10 +126,6 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Nvil-houdini-link](https://github.com/ajz3d/nvil-houdini-applink) AppLink that allows for quick geometry interchange between Houdini and NVil.
   - [Hip Meta Stripper](https://github.com/pedohorse/hip-meta-stripper) Strips metadata from your hip files.
   - [Gamestuff](https://github.com/pedohorse/gamestuff) Houdini interface game engine.
-  - [Wrap Deformer](https://momme.gumroad.com/l/cfxwrap?recommended_by=search) 
-  - [PCA Dejitter](https://momme.gumroad.com/l/pcadejitter?recommended_by=search)
-  - [Dune Solver](https://matthewjukes.gumroad.com/l/dunesolver?recommended_by=search)
-  
 
 - HIPS
   - [junichirohorikawa - Houdini Howtos](https://github.com/jhorikawa/HoudiniHowtos)
