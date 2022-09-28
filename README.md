@@ -85,7 +85,11 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [HDK_DSO](https://github.com/notawhalevfx/hdk_dso) Various Houdini HDK DSO Plugins.
   - [Lookbox](https://www.patreon.com/posts/lookbox-beta-21308541) Look dev tool suite for Mantra
   - [Redshift HDRI Creator](https://m.youtube.com/watch?v=HAWRBdkl1w4) Create/edit HDRIs 
-
+  - [Wrap Defromer])(https://momme.gumroad.com/l/cfxwrap?recommended_by=search) The wrap deformer provides an alternative approach to Houdinis point deform. The point deform checks for proximity to points on the driver mesh and deforms based on point weights. The wrap deformer will search for proximity to the driver meshes closest position on the primitive surface and interpolates from the full surface matrix of their respective points.
+  - [PCA Dejitter](https://momme.gumroad.com/l/pcadejitter?recommended_by=search) The PCA Dejitter Node allows you to Remove Jitter from an animated Geometry using Principal Component Analysis. This method denoises the motion of all points by analyzing the selected range and reducing the data to a lower dimensional space.
+  - [Pyro Shader for Redshit, ARnold, Renderman](https://sadjad.gumroad.com/l/PvjRz?recommended_by=search) 
+  
+  
 - Tools/Extensions
   - [Womrhole Content Browser](https://wormholetools.gumroad.com/l/whbrowser) The Wormhole Content Browser is a custom UI for Houdini that enables quick browsing, previewing, and importing of content into Houdini.
   - [Houdini VEX Editor](https://github.com/paulwinex/pw_Houdini_VEX_Editor) Advanced Houdini VEX Editor
@@ -277,6 +281,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [CGPedia](https://www.youtube.com/c/Cgpedia3d)
   - [Effective TDs](https://www.youtube.com/channel/UC0SwxaxYggze4VawyxvEM4A)
   - [Emīls Geršinskis - Ješinskis](https://www.youtube.com/channel/UCijGkeuwfVMjNmKyj7Z9KtA)
+  - [Sadjad Rabiee](https://www.youtube.com/c/sadjadrabiee)
 
   
 - Blogs/Personal Sites
