@@ -142,8 +142,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Mantra LPE Cookbook](https://github.com/alexwheezy/Mantra-LPE-Cookbook) Contains recipes for making commonly used render passes using LPE.
   - [Free VDB Clouds](https://assetsvfx.gumroad.com/l/RcgNe?recommended_by=search) Pack of 3 cloud VDBs for large Ariel views.
   - [Fix Particle Stepping](https://voxyde.gumroad.com/l/bmyin?recommended_by=search)
- 
-
+  - [Robotic Arm Kinefx Demo](https://www.sidefx.com/forum/topic/77562/?page=1#post-369057) 
   
 - Vex
   - [Kuchavo/Vex-Snippets](https://github.com/Kuchavo/VEX-Snippets) A collection of useful VEX snippets for Houdini.
