@@ -277,6 +277,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
   - [Effective TDs](https://www.youtube.com/channel/UC0SwxaxYggze4VawyxvEM4A)
   - [Emīls Geršinskis - Ješinskis](https://www.youtube.com/channel/UCijGkeuwfVMjNmKyj7Z9KtA)
   - [Sadjad Rabiee](https://www.youtube.com/c/sadjadrabiee)
+  - [Poly Marvels](https://www.youtube.com/channel/UCqXuTLiaL-jqvn3LK1XlwHg)
 
   
 - Blogs/Personal Sites
