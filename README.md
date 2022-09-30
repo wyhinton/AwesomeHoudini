@@ -37,6 +37,7 @@ Note that not all assets may be compatible with your houdini licensce/version.
     - [Houdini Scripts](https://github.com/LewisOrton/Houdini_Scripts)
     - [Richard C Thomas Assorted Tools](https://richardcthomas.com)
     - [hipCollection](https://github.com/PhilHaf/hipCollection)
+    - [LaidLawFx](https://github.com/LaidlawFX/LaidlawFX)
     
   - Misc Assets
     - Geo/Editing
@@ -51,6 +52,7 @@ Note that not all assets may be compatible with your houdini licensce/version.
          - [Houdarcs](https://github.com/design-automation/houdarcs) Houdini Architecture Assets
          - [Tech Gear HDA](https://www.sidefx.com/tutorials/tech-gear-generator/) Generate detailed cylindrical pieces. Can be useful to generate gears , bolts or details for sci-fi assets.
          - [Cards to Curves](https://github.com/jamesrobinsonvfx/cards_to_curves) SOP-level HDA to extract guide curves from hair cards.
+         - [Jelly Maker](https://daytonfx.gumroad.com/l/Jelly_Maker) An HDA that turns any object or fluid sim into a jelly with bubbles in it.
        - Edit/Process 
          - [Microbot VDB Painter](https://microbot.ch/new/vdb-painter/) mbPainter for Sidefx Houdini is an Artist Friendly Set of Tools for interactive Manipulation of OpenVDB (www.openvdb.org) SDF Volumes. It includes 3 Basic Modes. Brush Tools (BT), Mesh Fusion (MT) and Filter Tools (FT). Everything works on one Node and Binary Data gets stored within the Digital Asset.
          - [Camera Culling Tool](https://thomasjt017.gumroad.com/l/BvVSXK) The Culling Tool takes in geometry and culls it based on a camera view, either on a single frame or a range of frames; with extra options such as the ability to keep objects based on connectivity.
@@ -60,7 +62,8 @@ Note that not all assets may be compatible with your houdini licensce/version.
          - [PCA Dejitter](https://momme.gumroad.com/l/pcadejitter?recommended_by=search) The PCA Dejitter Node allows you to Remove Jitter from an animated Geometry using Principal Component Analysis.
          - [Houdini Principal Curvature](https://github.com/mruegenberg/houdini-principal-curvature) A Houdini DSO that extracts the minimal and maximal principal curvature directions from geometry.
          - [Houdini Transform Matcher](https://github.com/mruegenberg/houdini-transform-matcher) A Houdini DSO that extracts the transform between two sets of points.
-         - [Jelly Maker](https://daytonfx.gumroad.com/l/Jelly_Maker) An HDA that turns any object or fluid sim into a jelly with bubbles in it.
+         - [Blend Geo](https://wouttengrootenhuysen.gumroad.com/l/ooffu) Blend geometry with a displaced version of it. It has the option of combining masks and setting a range/falloff from those mask.
+t.
     - KineFx
        - [Kinefx Tools](https://github.com/kamilhepner/kinefx_tools) Collection of rigging tools and utils for Houdini Kinefx 
     - Maths/Logic
@@ -75,6 +78,7 @@ Note that not all assets may be compatible with your houdini licensce/version.
        - [Hou_bg_renderer](https://github.com/jtomori/hou_bg_render) Render any renderable node in background.
        - [Auto Cache Out Tool](https://www.youtube.com/watch?v=euTth1NNrYc) Auto Cache Out tool is for managing caches and .hip files. The tool will lay down all the important nodes you need to cache out and when you render it will create the directories and automatically version up your caches and files.
        - [Texture-synthesis-houdini](https://github.com/manuelkoester/texture-synthesis-houdini) Houdini / PDG plugin for EmbarkStudios' texture-synthesis.
+       - [Re-time Solver](https://forums.odforce.net/topic/42996-hda-retime-solver-intuitive-retiming-instant-solve/) Intuitive, "squash and stretch" style  retiming
        - [Houdini Tech Art Challenge Winners 2021](https://www.sidefx.com/tech-art-challenge-2021/) HPaint, Polyline Creator, Poly Slice Tool, and more   
     - Pipeline/PDG
        - [Firehawk PDG Tools](https://github.com/firehawkvfx/firehawk-pdg-tools) A houdini package to aid PDG submission with auto-versioning, asset handling, and immmutable timestamped hip files for reproduction of content.
