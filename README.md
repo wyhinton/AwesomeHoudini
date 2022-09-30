@@ -3,6 +3,9 @@
 ### **Awesome Houdini** ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 A collection of awesome Free/Open Source things regarding the SideFx Houdini ecosystem. 
+
+Note that not all assets may be compatible with your houdini licensce/version.
+
 ---
 - Assets
   - General Purpose Asset Libraries/Toolboxes
@@ -36,7 +39,7 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
     - [egLib](https://github.com/eglaubauf/egLib) A collection of scripts for SideFx Houdini - Python3
     - [Houdini Extensions](https://github.com/TDChina/Houdini-Extensions) Houdini
     - [AVL](https://github.com/anvdev/AVL) Advanced function library, written in VEX language for SideFX Houdini. Now in development.
-    - [Houdini Scripts](https://github.com/LewisOrton/Houdini_Scripts) Personal Houdini scripts
+    - [Houdini Scripts](https://github.com/LewisOrton/Houdini_Scripts) Personal Houdini scripts, including handling external drag and drop for files as well as automatic shader setup
     - [Richard C Thomas Assorted Tools](https://richardcthomas.com)
     - [hipCollection](https://github.com/PhilHaf/hipCollection) Houdini Files, Hdas, Effects
     
