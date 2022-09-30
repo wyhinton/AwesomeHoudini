@@ -336,6 +336,7 @@ t.
   - [Sarah Van Alstyne](https://www.sarahvalstyne.com/post/code-snippets-vex)
   - [Oded Maoz](https://odederell3d.blog/tag/houdini/)
   - [Kate Xagoraris](https://www.katexagoraris.com/)
+  - [Seeing Procedurally](http://seeingprocedurally.blogspot.com/)
 
   
   
