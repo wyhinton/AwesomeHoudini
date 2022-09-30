@@ -4,6 +4,8 @@
 
 A collection of awesome Free/Open Source things regarding the SideFx Houdini ecosystem. 
 
+Sourced from Github, Gumroad, OdForce, and miscellaneous google drive links.
+
 Note that not all assets may be compatible with your houdini licensce/version.
 
 ---
@@ -53,6 +55,8 @@ Note that not all assets may be compatible with your houdini licensce/version.
          - [Tech Gear HDA](https://www.sidefx.com/tutorials/tech-gear-generator/) Generate detailed cylindrical pieces. Can be useful to generate gears , bolts or details for sci-fi assets.
          - [Cards to Curves](https://github.com/jamesrobinsonvfx/cards_to_curves) SOP-level HDA to extract guide curves from hair cards.
          - [Jelly Maker](https://daytonfx.gumroad.com/l/Jelly_Maker) An HDA that turns any object or fluid sim into a jelly with bubbles in it.
+         - [Brick Tunnel HDA](https://forums.odforce.net/topic/33237-brick-tunnel-hda/)
+         - [Poly Expand 3D](https://forums.odforce.net/topic/50955-polyexpand3d/)
        - Edit/Process 
          - [Microbot VDB Painter](https://microbot.ch/new/vdb-painter/) mbPainter for Sidefx Houdini is an Artist Friendly Set of Tools for interactive Manipulation of OpenVDB (www.openvdb.org) SDF Volumes. It includes 3 Basic Modes. Brush Tools (BT), Mesh Fusion (MT) and Filter Tools (FT). Everything works on one Node and Binary Data gets stored within the Digital Asset.
          - [Camera Culling Tool](https://thomasjt017.gumroad.com/l/BvVSXK) The Culling Tool takes in geometry and culls it based on a camera view, either on a single frame or a range of frames; with extra options such as the ability to keep objects based on connectivity.
