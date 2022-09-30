@@ -4,7 +4,7 @@
 
 A collection of awesome Free/Open Source things regarding the SideFx Houdini ecosystem. 
 
-Sourced from Github, Gumroad, OdForce, and miscellaneous google drive links.
+Sourced from Github, Gumroad, OdForce, and miscellaneous google drive links. I've tried not to include assets which can also be found on Orbolt.
 
 Note that not all assets may be compatible with your houdini licensce/version.
 
@@ -60,6 +60,7 @@ Note that not all assets may be compatible with your houdini licensce/version.
          - [Poly Expand 3D](https://forums.odforce.net/topic/50955-polyexpand3d/)
          - [Gear Builder](https://forums.odforce.net/topic/49710-jerrys-things/?tab=comments#comment-227576)
          - [Kerning Tool](https://forums.odforce.net/topic/42827-kerning-tool/) Kerning typography in Houdini.
+         - [Curve to Rope Tool](https://vimeo.com/248878221)
        - Edit/Process 
          - [Microbot VDB Painter](https://microbot.ch/new/vdb-painter/) mbPainter for Sidefx Houdini is an Artist Friendly Set of Tools for interactive Manipulation of OpenVDB (www.openvdb.org) SDF Volumes. It includes 3 Basic Modes. Brush Tools (BT), Mesh Fusion (MT) and Filter Tools (FT). Everything works on one Node and Binary Data gets stored within the Digital Asset.
          - [Camera Culling Tool](https://thomasjt017.gumroad.com/l/BvVSXK) The Culling Tool takes in geometry and culls it based on a camera view, either on a single frame or a range of frames; with extra options such as the ability to keep objects based on connectivity.
@@ -119,6 +120,10 @@ t.
        - [Pyro Shader for Redshit, ARnold, Renderman](https://sadjad.gumroad.com/l/PvjRz?recommended_by=search)
        - [Houdini-Plugin-for-Tensorflow-Smoke-Stylization](https://github.com/Ozeuth/Houdini-Plugin-for-Tensorflow-Smoke-Stylization) Tensorflow implementation of Style Transfer for Smoke Simulations. Created as part of ETH Zurich Student Summer Research Fellowship
        - [Sparse Pyro Upres](https://drive.google.com/drive/folders/1H4Y0HNELDJ6lmHsM43eEI_lRgNuCEaxX) The sparse upres solver is a deeply modified sparse pyro that allow the user to quickly upres a smoke simulation from simple inputs
+       - [Wind and Turbulance HDA](https://vimeo.com/260587977) Creates wind and turbulence data to transfer into Dops to get better results than the "Gas wind" node.
+       
+
+
     
 - Tools/Extensions
   - [Womrhole Content Browser](https://wormholetools.gumroad.com/l/whbrowser) The Wormhole Content Browser is a custom UI for Houdini that enables quick browsing, previewing, and importing of content into Houdini.
@@ -309,6 +314,7 @@ t.
   - [Emīls Geršinskis - Ješinskis](https://www.youtube.com/channel/UCijGkeuwfVMjNmKyj7Z9KtA)
   - [Sadjad Rabiee](https://www.youtube.com/c/sadjadrabiee)
   - [Poly Marvels](https://www.youtube.com/channel/UCqXuTLiaL-jqvn3LK1XlwHg)
+  - [Resillient Picture Company](https://www.youtube.com/c/ResilientPictureCompany) 
 
   
 - Blogs/Personal Sites
