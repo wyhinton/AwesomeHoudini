@@ -9,39 +9,34 @@ Note that not all assets may be compatible with your houdini licensce/version.
 ---
 - Assets
   - General Purpose Asset Libraries/Toolboxes
-    - [qLab](https://github.com/qLab/qLib) A procedural asset library for SideFX Houdini.
-    - [SideFx Labs](https://github.com/sideeffects/SideFXLabs) SideFX Labs is a testing ground for over 230 tools designed to help you get up and running quicker. The SideFX Labs tools wrap up and release common workflows and create tight integrations with software you use everyday. The tools are developed outside the regular Houdini development cycle which makes them more accessible for testing and feedback.
-    - [MOPS](https://github.com/toadstorm/MOPS) Motion OPerators for Houdini, a motion graphics toolkit.
+    - [qLab](https://github.com/qLab/qLib)
+    - [SideFx Labs](https://github.com/sideeffects/SideFXLabs)
     - [YingQ for Houdini](https://github.com/Ying-170/YingQ-for-Houdini)
-    - [HoudiniHPro](https://github.com/zengchen2015/HOUDINI_HPro) Various HDAs
-    - [MCLabs](https://github.com/maximcapra/MCHoudiniLabs) HDAs, Scripts, Shelf Tools and Experiments for SideFX Houdini.
+    - [HoudiniHPro](https://github.com/zengchen2015/HOUDINI_HPro)
+    - [MCLabs](https://github.com/maximcapra/MCHoudiniLabs) 
     - [DMNK-tools](https://github.com/DominikLingenover/DMNK-Tools) Workflow oriented Python Scripts / HDAs
-    - [Nagamochi](https://github.com/ShoheiOkazaki/Nagamochi) Nagamochi is a library of Digital Assets, Presets, Shelves and Scripts for SideFX Houdini.
-    - [nLib](https://github.com/Njordy/nLib) A small collection of simplistic HDAs
+    - [Nagamochi](https://github.com/ShoheiOkazaki/Nagamochi)
+    - [nLib](https://github.com/Njordy/nLib)
     - [Openfirehawk Houdini Tools](https://github.com/firehawkvfx/openfirehawk-houdini-tools) A collection of useful hda's and scripts used in the Open Firehawk VFX pipeline.
     - [Houdini Utility Thread](https://www.sidefx.com/forum/topic/80497/?page=1#post-348642)Various free assets and tools
-    - [FeELib for Houdini](https://github.com/Fe-Elf/FeELib-for-Houdini) Various Houdini hdas for accelerating a wide variety of workflows see more examples [here](https://www.zhihu.com/people/wxjl/posts)
-    - [Bento](https://github.com/takavfx/Bento) Toolset for Houdini
-    - [BeeHou](https://github.com/simonreeves/BeeHou) Houdini Package
-    - [Kinefx Tools](https://github.com/kamilhepner/kinefx_tools) Collection of rigging tools and utils for Houdini Kinefx
-    - [Houdini-Toolbox](https://github.com/captainhammy/Houdini-Toolbox) Houdini things!
-    - [Aelib](https://github.com/Aeoll/Aelib) Digital Assets for Houdini FX
-    - [Hammer](https://github.com/anvdev/Hammer) Various HDAs
-    - [SDMTools](https://github.com/sashaouellet/SDMTools) Toolset for Houdini (and more in the future)
-    - [Houdini-tools](https://github.com/danielforgacs/houdini-tools) Python Scripts for Sidefx Houdini
-    - [M-Hda-Collections](https://github.com/maajor/m-hda-collections) Collection of HDAs
-    - [Diffusion Limited Aggregation](https://github.com/jroy1992/Diffusion-Limited-Aggregation) Create fractal like growth inside 3D geometry using the principle of Diffusion Limited Aggregation. The implementation has been done in three parts: Text and 3D Geometry and Intersection
-    - [HDK_DSO](https://github.com/notawhalevfx/hdk_dso) Various Houdini HDK DSO Plugins.
-    - [thi-ng/Houdini](https://github.com/thi-ng/houdini) Houdini HDAs & sketches (VEX, OpenCL, Python)
-    - [Houdini Transform Matcher](https://github.com/mruegenberg/houdini-transform-matcher) A Houdini DSO that extracts the transform between two sets of points.
-    - [hipie](https://github.com/igor-elovikov/hipie) Houdini Tools
-    - [qq](https://github.com/lex-ikoon/qq) Houdini Tools and VEX snippets
-    - [egLib](https://github.com/eglaubauf/egLib) A collection of scripts for SideFx Houdini - Python3
-    - [Houdini Extensions](https://github.com/TDChina/Houdini-Extensions) Houdini
-    - [AVL](https://github.com/anvdev/AVL) Advanced function library, written in VEX language for SideFX Houdini. Now in development.
-    - [Houdini Scripts](https://github.com/LewisOrton/Houdini_Scripts) Personal Houdini scripts, including handling external drag and drop for files as well as automatic shader setup
+    - [FeELib for Houdini](https://github.com/Fe-Elf/FeELib-for-Houdini)
+    - [Bento](https://github.com/takavfx/Bento)
+    - [BeeHou](https://github.com/simonreeves/BeeHou)
+    - [Houdini-Toolbox](https://github.com/captainhammy/Houdini-Toolbox) 
+    - [Aelib](https://github.com/Aeoll/Aelib) 
+    - [Hammer](https://github.com/anvdev/Hammer)
+    - [SDMTools](https://github.com/sashaouellet/SDMTools)
+    - [Houdini-tools](https://github.com/danielforgacs/houdini-tools)
+    - [M-Hda-Collections](https://github.com/maajor/m-hda-collections)
+    - [HDK_DSO](https://github.com/notawhalevfx/hdk_dso) 
+    - [thi-ng/Houdini](https://github.com/thi-ng/houdini)
+    - [hipie](https://github.com/igor-elovikov/hipie)
+    - [qq](https://github.com/lex-ikoon/qq)
+    - [egLib](https://github.com/eglaubauf/egLib)
+    - [Houdini Extensions](https://github.com/TDChina/Houdini-Extensions)
+    - [Houdini Scripts](https://github.com/LewisOrton/Houdini_Scripts)
     - [Richard C Thomas Assorted Tools](https://richardcthomas.com)
-    - [hipCollection](https://github.com/PhilHaf/hipCollection) Houdini Files, Hdas, Effects
+    - [hipCollection](https://github.com/PhilHaf/hipCollection)
     
   - Misc Assets
     - Geo/Editing
@@ -64,8 +59,11 @@ Note that not all assets may be compatible with your houdini licensce/version.
          - [Wrap Defromer](https://momme.gumroad.com/l/cfxwrap?recommended_by=search) The wrap deformer provides an alternative approach to Houdinis point deform. The wrap deformer will search for proximity to the driver meshes closest position on the primitive surface and interpolates from the full surface matrix of their respective points.
          - [PCA Dejitter](https://momme.gumroad.com/l/pcadejitter?recommended_by=search) The PCA Dejitter Node allows you to Remove Jitter from an animated Geometry using Principal Component Analysis.
          - [Houdini Principal Curvature](https://github.com/mruegenberg/houdini-principal-curvature) A Houdini DSO that extracts the minimal and maximal principal curvature directions from geometry.
-
+         - [Houdini Transform Matcher](https://github.com/mruegenberg/houdini-transform-matcher) A Houdini DSO that extracts the transform between two sets of points.
+    - KineFx
+       - [Kinefx Tools](https://github.com/kamilhepner/kinefx_tools) Collection of rigging tools and utils for Houdini Kinefx 
     - Maths/Logic
+       - [AVL](https://github.com/anvdev/AVL) Advanced function library, written in VEX language for SideFX Houdini. Now in development.
        - [VFX Fractal Tookit](https://github.com/jtomori/vft) Set of tools for generating fractal and generative art.
        - [Houdini-x4d](https://github.com/pedohorse/houdini-x4d/tree/master/otls) Assets for working in 4d space in Houdini.
        - [Gear Logic](https://github.com/pedohorse/gearlogic) Framework for mechanical logic circuits for Houdini
@@ -93,6 +91,7 @@ Note that not all assets may be compatible with your houdini licensce/version.
        - [Point Based Growth HDA](https://itj.gumroad.com/l/pbg) Houdini point based growth Asset.
        - [Path Solver HDA](https://lavrenovlad.gumroad.com/l/fkQSl) Path Solver is a Houdini Digital Asset solving points/objects along any path without them intersecting each other. 
        - [Dune Solver](https://matthewjukes.gumroad.com/l/dunesolver?recommended_by=search)
+       - [Diffusion Limited Aggregation](https://github.com/jroy1992/Diffusion-Limited-Aggregation) Create fractal like growth inside 3D geometry using the principle of Diffusion Limited Aggregation. The implementation has been done in three parts: Text and 3D Geometry and Intersection
     - Wrangles/Code
        - [OpenCL Wrangle COP](https://vimeo.com/223407863) This operator allows you to run an OpenCL kernel as part of your COP network. Depending on the GPU, some operators can be orders of magnitude faster than even VEX.
        - [CPP Wrangle](https://github.com/lecopivo/cpp-wrangle) This Houdini node allows you to write wrangle nodes in C++ instead of VEX.
