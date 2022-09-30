@@ -109,7 +109,7 @@ t.
        - [CPP Wrangle](https://github.com/lecopivo/cpp-wrangle) This Houdini node allows you to write wrangle nodes in C++ instead of VEX.
        - [Nvidia Warp Houdini](https://github.com/christophercrouzet/nvidia-warp-houdini) Exposes NVIDIA's Warp framework to Houdini.NVIDIA's Warp provides access to running high-performance kernels either on the CPU or GPU, all with the convenience of writing the code in Python.
        - [GSS Call Python](https://github.com/shervinazadi/GSS_Call_Python) Houdini Asset for Running a Python Script within a specific Python Environment
-     - Vegetation/Terrain
+     - Vegitation/Terrain
        - [Catacomb](https://github.com/amovfx/Catacomb) A procedural dungeon generator in Houdini.  
        - [Houdini TaleSpire Terrain Generation Toolset](https://github.com/Baldrax/Houdini_TaleSpire_Terrain_Generation_Toolset) A toolset to procedurally create terrain for TaleSpire in Houdini.
        - [JZTrees](https://github.com/joshuazt/JZTREES) Houdini procedural vegetation generator and FX toolkit
