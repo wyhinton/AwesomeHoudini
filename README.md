@@ -41,75 +41,69 @@ A collection of awesome Free/Open Source things regarding the SideFx Houdini eco
     - [hipCollection](https://github.com/PhilHaf/hipCollection) Houdini Files, Hdas, Effects
     
   - Misc Assets
-    - Geo/Editing 
-       - [Isogrid Houdini SOP](https://github.com/crystalboxes/isogrid-houdini-sop) voxel-based generative geometry
-       - [Microbot VDB Painter](https://microbot.ch/new/vdb-painter/) mbPainter for Sidefx Houdini is an Artist Friendly Set of Tools for interactive Manipulation of OpenVDB (www.openvdb.org) SDF Volumes. It includes 3 Basic Modes. Brush Tools (BT), Mesh Fusion (MT) and Filter Tools (FT). Everything works on one Node and Binary Data gets stored within the Digital Asset.
-       - [kitbash-parser](https://github.com/MatthewZub/houdini-kitbashparser) 'Kitbash Parser' is a kit of tools to work with kitbash packs in Houdini.
-       - [Camera Culling Tool](https://thomasjt017.gumroad.com/l/BvVSXK) The Culling Tool takes in geometry and culls it based on a camera view, either on a single frame or a range of frames; with extra options such as the ability to keep objects based on connectivity.
-       - [ae_SVG](https://github.com/Aeoll/ae_SVG) SVG Importer and Exporter for Houdini
-       - [Houdini Plugin for Mesh Reparation](https://github.com/Ozeuth/Houdini-Plugin-For-Mesh-Reparation) An artist-centered tool to repair meshes with holes. Such holes are filled with coherent, context-aware new patches with correct topology and microsurface detail. This tool is packaged as a Houdini Digital Asset, making a user-friendly, integrated plugin for Mesh Reparation.
-        - [Cards to Curves](https://github.com/jamesrobinsonvfx/cards_to_curves) SOP-level HDA to extract guide curves from hair cards.
-        - [Inspect Node Data](https://github.com/jamesrobinsonvfx/inspectnodedata) SOP-level HDA for storing, retrieving, and inspecting parameters from nodes.This node uses a Dictionary Attribute to store parameter data from the Attribute from Parameters SOP and retrieve it for inspection. This is useful for storing data about how a cache was generated when wedging values.
+    - Geo/Editing
+       - Generate
+        - [Isogrid Houdini SOP](https://github.com/crystalboxes/isogrid-houdini-sop) voxel-based generative geometry
+        - [ae_SVG](https://github.com/Aeoll/ae_SVG) SVG Importer and Exporter for Houdini
+        - [kitbash-parser](https://github.com/MatthewZub/houdini-kitbashparser) 'Kitbash Parser' is a kit of tools to work with kitbash packs in Houdini.
         - [Wire Builder HDA](https://viktorsanfimovs.gumroad.com/l/wtBRv) Procedural wire builder asset
         - [linewriter](https://github.com/jamesrobinsonvfx/linewriter) Linewriter quickly creates lines of text geometry in Houdini.
         - [Draw Stroke](http://ihoudini.blogspot.com/2020/01/more-drawing-witha-wacom-in-houdini.html)
         - [FLAM3 for SideFX Houdini](https://github.com/alexnardini/FLAM3_for_SideFX_Houdini) The Fractal Flame Algorithm, FLAM3 for SideFX Houdini
         - [Houdarcs](https://github.com/design-automation/houdarcs) Houdini Architecture Assets
         - [Tech Gear HDA](https://www.sidefx.com/tutorials/tech-gear-generator/) Generate detailed cylindrical pieces. Can be useful to generate gears , bolts or details for sci-fi assets.
-        - [Wrap Defromer](https://momme.gumroad.com/l/cfxwrap?recommended_by=search) The wrap deformer provides an alternative approach to Houdinis point deform. The wrap deformer will search for proximity to the driver meshes closest position on the primitive surface and interpolates from the full surface matrix of their respective points.
-        - [PCA Dejitter](https://momme.gumroad.com/l/pcadejitter?recommended_by=search) The PCA Dejitter Node allows you to Remove Jitter from an animated Geometry using Principal Component Analysis.
-        - [Houdini Principal Curvature](https://github.com/mruegenberg/houdini-principal-curvature) A Houdini DSO that extracts the minimal and maximal principal curvature directions from geometry.
-
+        - [Cards to Curves](https://github.com/jamesrobinsonvfx/cards_to_curves) SOP-level HDA to extract guide curves from hair cards.
+       - Edit/Process 
+        - [Microbot VDB Painter](https://microbot.ch/new/vdb-painter/) mbPainter for Sidefx Houdini is an Artist Friendly Set of Tools for interactive Manipulation of OpenVDB (www.openvdb.org) SDF Volumes. It includes 3 Basic Modes. Brush Tools (BT), Mesh Fusion (MT) and Filter Tools (FT). Everything works on one Node and Binary Data gets stored within the Digital Asset.
+       - [Camera Culling Tool](https://thomasjt017.gumroad.com/l/BvVSXK) The Culling Tool takes in geometry and culls it based on a camera view, either on a single frame or a range of frames; with extra options such as the ability to keep objects based on connectivity.
+       - [Houdini Plugin for Mesh Reparation](https://github.com/Ozeuth/Houdini-Plugin-For-Mesh-Reparation) An artist-centered tool to repair meshes with holes. Such holes are filled with coherent, context-aware new patches with correct topology and microsurface detail. This tool is packaged as a Houdini Digital Asset, making a user-friendly, integrated plugin for Mesh Reparation.
+       - [Inspect Node Data](https://github.com/jamesrobinsonvfx/inspectnodedata) SOP-level HDA for storing, retrieving, and inspecting parameters from nodes.This node uses a Dictionary Attribute to store parameter data from the Attribute from Parameters SOP and retrieve it for inspection. This is useful for storing data about how a cache was generated when wedging values.
+       - [Wrap Defromer](https://momme.gumroad.com/l/cfxwrap?recommended_by=search) The wrap deformer provides an alternative approach to Houdinis point deform. The wrap deformer will search for proximity to the driver meshes closest position on the primitive surface and interpolates from the full surface matrix of their respective points.
+       - [PCA Dejitter](https://momme.gumroad.com/l/pcadejitter?recommended_by=search) The PCA Dejitter Node allows you to Remove Jitter from an animated Geometry using Principal Component Analysis.
+       - [Houdini Principal Curvature](https://github.com/mruegenberg/houdini-principal-curvature) A Houdini DSO that extracts the minimal and maximal principal curvature directions from geometry.
     - Vegetation/Terrain
-      - [JZTrees](https://github.com/joshuazt/JZTREES) Houdini procedural vegetation generator and FX toolkit
-      - [Nature Tools](https://github.com/shvetsov-art/nature_tools) Scripts assets for creating procedural forest
-      - [Houdini TaleSpire Terrain Generation Toolset](https://github.com/Baldrax/Houdini_TaleSpire_Terrain_Generation_Toolset) A toolset to procedurally create terrain for TaleSpire in Houdini.
-      -  [treegen](https://github.com/demiaster/treegen) Vegetation Generation Tool for Houdini. The Digital Asset implements the space colonization algorithm by Runions et al (2007). The asset can be used to easily produce natural tree structures allowing control over the growth by shaping the roots, the foliage and the way the tree fills up the space.
-        - [Catacomb](https://github.com/amovfx/Catacomb) A procedural dungeon generator in Houdini.
-        
+       - [JZTrees](https://github.com/joshuazt/JZTREES) Houdini procedural vegetation generator and FX toolkit
+       - [Nature Tools](https://github.com/shvetsov-art/nature_tools) Scripts assets for creating procedural forest
+       - [Houdini TaleSpire Terrain Generation Toolset](https://github.com/Baldrax/Houdini_TaleSpire_Terrain_Generation_Toolset) A toolset to procedurally create terrain for TaleSpire in Houdini.
+       - [treegen](https://github.com/demiaster/treegen) Vegetation Generation Tool for Houdini. The Digital Asset implements the space colonization algorithm by Runions et al (2007). The asset can be used to easily produce natural tree structures allowing control over the growth by shaping the roots, the foliage and the way the tree fills up the space.
+       - [Catacomb](https://github.com/amovfx/Catacomb) A procedural dungeon generator in Houdini.  
     - Maths/Logic
-      - [VFX Fractal Tookit](https://github.com/jtomori/vft) Set of tools for generating fractal and generative art.
-      - [Houdini-x4d](https://github.com/pedohorse/houdini-x4d/tree/master/otls) Assets for working in 4d space in Houdini.
-      - [Gear Logic](https://github.com/pedohorse/gearlogic) Framework for mechanical logic circuits for Houdini
-      - [Houdini Matrix Library](https://github.com/jakericedesigns/Houdini-Matrix-Library) Library for large linear operations with VEX in Houdini.
-      
-    - Rendering/Materials
-       - [Aces Converter](https://timvanhelsdingen.com/convert-textures-to-aces/) Converts textures to ACES color space, as seen in Toadstorms Guide.
-       - [egMatLib](https://github.com/eglaubauf/egMatLib) Material Library for Houdini Mantra, Redshift and Arnold
-       - [egRedshiftTools](https://github.com/eglaubauf/egRedshiftTools) Tools for Redshift in SideFx Houdini
-       - [egMantraTools](https://github.com/eglaubauf/egMantraTools) Tools For SidefX Houdinis Mantra Renderer
-       - [Lookbox](https://www.patreon.com/posts/lookbox-beta-21308541) Look dev tool suite for Mantra
-       - [Redshift HDRI Creator](https://m.youtube.com/watch?v=HAWRBdkl1w4) Create/edit HDRIs 
-    
-    - Volumes
-       -  [Pyro Shader for Redshit, ARnold, Renderman](https://sadjad.gumroad.com/l/PvjRz?recommended_by=search)
-       -  [Houdini-Plugin-for-Tensorflow-Smoke-Stylization](https://github.com/Ozeuth/Houdini-Plugin-for-Tensorflow-Smoke-Stylization) Tensorflow implementation of Style Transfer for Smoke Simulations. Created as part of ETH Zurich Student Summer Research Fellowship
-    
+       - [VFX Fractal Tookit](https://github.com/jtomori/vft) Set of tools for generating fractal and generative art.
+       - [Houdini-x4d](https://github.com/pedohorse/houdini-x4d/tree/master/otls) Assets for working in 4d space in Houdini.
+       - [Gear Logic](https://github.com/pedohorse/gearlogic) Framework for mechanical logic circuits for Houdini
+       - [Houdini Matrix Library](https://github.com/jakericedesigns/Houdini-Matrix-Library) Library for large linear operations with VEX in Houdini.
     - Misc
        - [HMT](https://github.com/andrew-lowell/HMT) Houdini Music Toolset (HMT) turns the most powerful 3D program into a MIDI sequence
        - [Houdini-Telegram-Notifier](https://github.com/anvdev/Houdini-Telegram-Notifier) Send messages to Telegram chat directly from SideFX Houdin
        - [Hou_bg_renderer](https://github.com/jtomori/hou_bg_render) Render any renderable node in background.
        - [Auto Cache Out Tool](https://www.youtube.com/watch?v=euTth1NNrYc) Auto Cache Out tool is for managing caches and .hip files. The tool will lay down all the important nodes you need to cache out and when you render it will create the directories and automatically version up your caches and files.
        - [Texture-synthesis-houdini](https://github.com/manuelkoester/texture-synthesis-houdini) Houdini / PDG plugin for EmbarkStudios' texture-synthesis.
-       - [Houdini Tech Art Challenge Winners 2021](https://www.sidefx.com/tech-art-challenge-2021/) HPaint, Polyline Creator, Poly Slice Tool, and more 
-       
-    - Solver/Sim
-        - [Point Based Growth HDA](https://itj.gumroad.com/l/pbg) Houdini point based growth Asset.
-        - [Path Solver HDA](https://lavrenovlad.gumroad.com/l/fkQSl) Path Solver is a Houdini Digital Asset solving points/objects along any path without them intersecting each other. 
-        - [Dune Solver](https://matthewjukes.gumroad.com/l/dunesolver?recommended_by=search)
-       
-    - Wrangles/Code
-      - [OpenCL Wrangle COP](https://vimeo.com/223407863) This operator allows you to run an OpenCL kernel as part of your COP network. Depending on the GPU, some operators can be orders of magnitude faster than even VEX.
-      - [CPP Wrangle](https://github.com/lecopivo/cpp-wrangle) This Houdini node allows you to write wrangle nodes in C++ instead of VEX.
-      - [Nvidia Warp Houdini](https://github.com/christophercrouzet/nvidia-warp-houdini) Exposes NVIDIA's Warp framework to Houdini.NVIDIA's Warp provides access to running high-performance kernels either on the CPU or GPU, all with the convenience of writing the code in Python.
-      - [GSS Call Python](https://github.com/shervinazadi/GSS_Call_Python) Houdini Asset for Running a Python Script within a specific Python Environment
-    
+       - [Houdini Tech Art Challenge Winners 2021](https://www.sidefx.com/tech-art-challenge-2021/) HPaint, Polyline Creator, Poly Slice Tool, and more   
     - Pipeline/PDG
-      -  [Firehawk PDG Tools](https://github.com/firehawkvfx/firehawk-pdg-tools) A houdini package to aid PDG submission with auto-versioning, asset handling, and immmutable timestamped hip files for reproduction of content.
-      - [KDBRA Tools](https://github.com/kdbra/kdbra-houdini-tools) Production tools for SideFX Houdini
-      - [Nagamochi_PDG](https://github.com/ShoheiOkazaki/Nagamochi_PDG) This is a TOP HDA library for SideFX's Houdini. There are some nodes for Maya, but those nodes are not perfect because I am not close to Maya. I'm looking forward to your advice!
-      - [Houdini PRTROP](https://github.com/flipswitchingmonkey/houdini_PRTROP)
-  
+       -  [Firehawk PDG Tools](https://github.com/firehawkvfx/firehawk-pdg-tools) A houdini package to aid PDG submission with auto-versioning, asset handling, and immmutable timestamped hip files for reproduction of content.
+       - [KDBRA Tools](https://github.com/kdbra/kdbra-houdini-tools) Production tools for SideFX Houdini
+       - [Nagamochi_PDG](https://github.com/ShoheiOkazaki/Nagamochi_PDG) This is a TOP HDA library for SideFX's Houdini. There are some nodes for Maya, but those nodes are not perfect because I am not close to Maya. I'm looking forward to your advice!
+       - [Houdini PRTROP](https://github.com/flipswitchingmonkey/houdini_PRTROP)
+     - Rendering/Materials
+       - [Aces Converter](https://timvanhelsdingen.com/convert-textures-to-aces/) Converts textures to ACES color space, as seen in Toadstorms Guide.
+       - [egMatLib](https://github.com/eglaubauf/egMatLib) Material Library for Houdini Mantra, Redshift and Arnold
+       - [egRedshiftTools](https://github.com/eglaubauf/egRedshiftTools) Tools for Redshift in SideFx Houdini
+       - [egMantraTools](https://github.com/eglaubauf/egMantraTools) Tools For SidefX Houdinis Mantra Renderer
+       - [Lookbox](https://www.patreon.com/posts/lookbox-beta-21308541) Look dev tool suite for Mantra
+       - [Redshift HDRI Creator](https://m.youtube.com/watch?v=HAWRBdkl1w4) Create/edit HDRIs 
+    - Solver/Sim
+       - [Point Based Growth HDA](https://itj.gumroad.com/l/pbg) Houdini point based growth Asset.
+       - [Path Solver HDA](https://lavrenovlad.gumroad.com/l/fkQSl) Path Solver is a Houdini Digital Asset solving points/objects along any path without them intersecting each other. 
+       - [Dune Solver](https://matthewjukes.gumroad.com/l/dunesolver?recommended_by=search)
+    - Wrangles/Code
+       - [OpenCL Wrangle COP](https://vimeo.com/223407863) This operator allows you to run an OpenCL kernel as part of your COP network. Depending on the GPU, some operators can be orders of magnitude faster than even VEX.
+       - [CPP Wrangle](https://github.com/lecopivo/cpp-wrangle) This Houdini node allows you to write wrangle nodes in C++ instead of VEX.
+       - [Nvidia Warp Houdini](https://github.com/christophercrouzet/nvidia-warp-houdini) Exposes NVIDIA's Warp framework to Houdini.NVIDIA's Warp provides access to running high-performance kernels either on the CPU or GPU, all with the convenience of writing the code in Python.
+       - [GSS Call Python](https://github.com/shervinazadi/GSS_Call_Python) Houdini Asset for Running a Python Script within a specific Python Environment
+    - Volumes
+       - [Pyro Shader for Redshit, ARnold, Renderman](https://sadjad.gumroad.com/l/PvjRz?recommended_by=search)
+       - [Houdini-Plugin-for-Tensorflow-Smoke-Stylization](https://github.com/Ozeuth/Houdini-Plugin-for-Tensorflow-Smoke-Stylization) Tensorflow implementation of Style Transfer for Smoke Simulations. Created as part of ETH Zurich Student Summer Research Fellowship
+    
 - Tools/Extensions
   - [Womrhole Content Browser](https://wormholetools.gumroad.com/l/whbrowser) The Wormhole Content Browser is a custom UI for Houdini that enables quick browsing, previewing, and importing of content into Houdini.
   - [Houdini VEX Editor](https://github.com/paulwinex/pw_Houdini_VEX_Editor) Advanced Houdini VEX Editor
