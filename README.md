@@ -46,24 +46,24 @@ Note that not all assets may be compatible with your houdini licensce/version.
   - Misc Assets
     - Geo/Editing
        - Generate
-        - [Isogrid Houdini SOP](https://github.com/crystalboxes/isogrid-houdini-sop) voxel-based generative geometry
-        - [ae_SVG](https://github.com/Aeoll/ae_SVG) SVG Importer and Exporter for Houdini
-        - [kitbash-parser](https://github.com/MatthewZub/houdini-kitbashparser) 'Kitbash Parser' is a kit of tools to work with kitbash packs in Houdini.
-        - [Wire Builder HDA](https://viktorsanfimovs.gumroad.com/l/wtBRv) Procedural wire builder asset
-        - [linewriter](https://github.com/jamesrobinsonvfx/linewriter) Linewriter quickly creates lines of text geometry in Houdini.
-        - [Draw Stroke](http://ihoudini.blogspot.com/2020/01/more-drawing-witha-wacom-in-houdini.html)
-        - [FLAM3 for SideFX Houdini](https://github.com/alexnardini/FLAM3_for_SideFX_Houdini) The Fractal Flame Algorithm, FLAM3 for SideFX Houdini
-        - [Houdarcs](https://github.com/design-automation/houdarcs) Houdini Architecture Assets
-        - [Tech Gear HDA](https://www.sidefx.com/tutorials/tech-gear-generator/) Generate detailed cylindrical pieces. Can be useful to generate gears , bolts or details for sci-fi assets.
-        - [Cards to Curves](https://github.com/jamesrobinsonvfx/cards_to_curves) SOP-level HDA to extract guide curves from hair cards.
+         - [Isogrid Houdini SOP](https://github.com/crystalboxes/isogrid-houdini-sop) voxel-based generative geometry
+         - [ae_SVG](https://github.com/Aeoll/ae_SVG) SVG Importer and Exporter for Houdini
+         - [kitbash-parser](https://github.com/MatthewZub/houdini-kitbashparser) 'Kitbash Parser' is a kit of tools to work with kitbash packs in Houdini.
+         - [Wire Builder HDA](https://viktorsanfimovs.gumroad.com/l/wtBRv) Procedural wire builder asset
+         - [linewriter](https://github.com/jamesrobinsonvfx/linewriter) Linewriter quickly creates lines of text geometry in Houdini.
+         - [Draw Stroke](http://ihoudini.blogspot.com/2020/01/more-drawing-witha-wacom-in-houdini.html)
+         - [FLAM3 for SideFX Houdini](https://github.com/alexnardini/FLAM3_for_SideFX_Houdini) The Fractal Flame Algorithm, FLAM3 for SideFX Houdini
+         - [Houdarcs](https://github.com/design-automation/houdarcs) Houdini Architecture Assets
+         - [Tech Gear HDA](https://www.sidefx.com/tutorials/tech-gear-generator/) Generate detailed cylindrical pieces. Can be useful to generate gears , bolts or details for sci-fi assets.
+         - [Cards to Curves](https://github.com/jamesrobinsonvfx/cards_to_curves) SOP-level HDA to extract guide curves from hair cards.
        - Edit/Process 
-        - [Microbot VDB Painter](https://microbot.ch/new/vdb-painter/) mbPainter for Sidefx Houdini is an Artist Friendly Set of Tools for interactive Manipulation of OpenVDB (www.openvdb.org) SDF Volumes. It includes 3 Basic Modes. Brush Tools (BT), Mesh Fusion (MT) and Filter Tools (FT). Everything works on one Node and Binary Data gets stored within the Digital Asset.
-       - [Camera Culling Tool](https://thomasjt017.gumroad.com/l/BvVSXK) The Culling Tool takes in geometry and culls it based on a camera view, either on a single frame or a range of frames; with extra options such as the ability to keep objects based on connectivity.
-       - [Houdini Plugin for Mesh Reparation](https://github.com/Ozeuth/Houdini-Plugin-For-Mesh-Reparation) An artist-centered tool to repair meshes with holes. Such holes are filled with coherent, context-aware new patches with correct topology and microsurface detail. This tool is packaged as a Houdini Digital Asset, making a user-friendly, integrated plugin for Mesh Reparation.
-       - [Inspect Node Data](https://github.com/jamesrobinsonvfx/inspectnodedata) SOP-level HDA for storing, retrieving, and inspecting parameters from nodes.This node uses a Dictionary Attribute to store parameter data from the Attribute from Parameters SOP and retrieve it for inspection. This is useful for storing data about how a cache was generated when wedging values.
-       - [Wrap Defromer](https://momme.gumroad.com/l/cfxwrap?recommended_by=search) The wrap deformer provides an alternative approach to Houdinis point deform. The wrap deformer will search for proximity to the driver meshes closest position on the primitive surface and interpolates from the full surface matrix of their respective points.
-       - [PCA Dejitter](https://momme.gumroad.com/l/pcadejitter?recommended_by=search) The PCA Dejitter Node allows you to Remove Jitter from an animated Geometry using Principal Component Analysis.
-       - [Houdini Principal Curvature](https://github.com/mruegenberg/houdini-principal-curvature) A Houdini DSO that extracts the minimal and maximal principal curvature directions from geometry.
+         - [Microbot VDB Painter](https://microbot.ch/new/vdb-painter/) mbPainter for Sidefx Houdini is an Artist Friendly Set of Tools for interactive Manipulation of OpenVDB (www.openvdb.org) SDF Volumes. It includes 3 Basic Modes. Brush Tools (BT), Mesh Fusion (MT) and Filter Tools (FT). Everything works on one Node and Binary Data gets stored within the Digital Asset.
+         - [Camera Culling Tool](https://thomasjt017.gumroad.com/l/BvVSXK) The Culling Tool takes in geometry and culls it based on a camera view, either on a single frame or a range of frames; with extra options such as the ability to keep objects based on connectivity.
+         - [Houdini Plugin for Mesh Reparation](https://github.com/Ozeuth/Houdini-Plugin-For-Mesh-Reparation) An artist-centered tool to repair meshes with holes. Such holes are filled with coherent, context-aware new patches with correct topology and microsurface detail. This tool is packaged as a Houdini Digital Asset, making a user-friendly, integrated plugin for Mesh Reparation.
+         - [Inspect Node Data](https://github.com/jamesrobinsonvfx/inspectnodedata) SOP-level HDA for storing, retrieving, and inspecting parameters from nodes.This node uses a Dictionary Attribute to store parameter data from the Attribute from Parameters SOP and retrieve it for inspection. This is useful for storing data about how a cache was generated when wedging values.
+         - [Wrap Defromer](https://momme.gumroad.com/l/cfxwrap?recommended_by=search) The wrap deformer provides an alternative approach to Houdinis point deform. The wrap deformer will search for proximity to the driver meshes closest position on the primitive surface and interpolates from the full surface matrix of their respective points.
+         - [PCA Dejitter](https://momme.gumroad.com/l/pcadejitter?recommended_by=search) The PCA Dejitter Node allows you to Remove Jitter from an animated Geometry using Principal Component Analysis.
+         - [Houdini Principal Curvature](https://github.com/mruegenberg/houdini-principal-curvature) A Houdini DSO that extracts the minimal and maximal principal curvature directions from geometry.
     - Vegetation/Terrain
        - [JZTrees](https://github.com/joshuazt/JZTREES) Houdini procedural vegetation generator and FX toolkit
        - [Nature Tools](https://github.com/shvetsov-art/nature_tools) Scripts assets for creating procedural forest
