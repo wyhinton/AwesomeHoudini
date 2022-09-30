@@ -159,6 +159,7 @@ t.
 
 - HIPS
   - [junichirohorikawa - Houdini Howtos](https://github.com/jhorikawa/HoudiniHowtos)
+  - [Atom Tutorial Hip Library](https://forums.odforce.net/topic/49522-tutorial-hip-library/)
   - [Nitzan Tregerman Community Projects](https://github.com/nitzan-treg)
   - [dchow1992 - Example Hips](https://github.com/dchow1992/example_hips) A collection of interesting hip files / techniques to use as examples or reference: https://vimeo.com/dchow1992
   - [Presentation Houdini Vis](https://github.com/anopara/presentation-houdini-vis) Houdini files of visualizations from my presentation "Place like I do! Example-based procedural placements in a dialogue system"
