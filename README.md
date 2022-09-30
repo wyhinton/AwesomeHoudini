@@ -14,11 +14,11 @@ Note that not all assets may be compatible with your houdini licensce/version.
     - [YingQ for Houdini](https://github.com/Ying-170/YingQ-for-Houdini)
     - [HoudiniHPro](https://github.com/zengchen2015/HOUDINI_HPro)
     - [MCLabs](https://github.com/maximcapra/MCHoudiniLabs) 
-    - [DMNK-tools](https://github.com/DominikLingenover/DMNK-Tools) Workflow oriented Python Scripts / HDAs
+    - [DMNK-tools](https://github.com/DominikLingenover/DMNK-Tools)
     - [Nagamochi](https://github.com/ShoheiOkazaki/Nagamochi)
     - [nLib](https://github.com/Njordy/nLib)
-    - [Openfirehawk Houdini Tools](https://github.com/firehawkvfx/openfirehawk-houdini-tools) A collection of useful hda's and scripts used in the Open Firehawk VFX pipeline.
-    - [Houdini Utility Thread](https://www.sidefx.com/forum/topic/80497/?page=1#post-348642)Various free assets and tools
+    - [Openfirehawk Houdini Tools](https://github.com/firehawkvfx/openfirehawk-houdini-tools)
+    - [Houdini Utility Thread](https://www.sidefx.com/forum/topic/80497/?page=1#post-348642)
     - [FeELib for Houdini](https://github.com/Fe-Elf/FeELib-for-Houdini)
     - [Bento](https://github.com/takavfx/Bento)
     - [BeeHou](https://github.com/simonreeves/BeeHou)
