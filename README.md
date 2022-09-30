@@ -40,6 +40,7 @@ Note that not all assets may be compatible with your houdini licensce/version.
     - [Richard C Thomas Assorted Tools](https://richardcthomas.com)
     - [hipCollection](https://github.com/PhilHaf/hipCollection)
     - [LaidLawFx](https://github.com/LaidlawFX/LaidlawFX)
+    - [Nama-Gatsuo HDA Sketches](https://github.com/nama-gatsuo/HDA_Sketches)
     
   - Misc Assets
     - Geo/Editing
@@ -57,6 +58,8 @@ Note that not all assets may be compatible with your houdini licensce/version.
          - [Jelly Maker](https://daytonfx.gumroad.com/l/Jelly_Maker) An HDA that turns any object or fluid sim into a jelly with bubbles in it.
          - [Brick Tunnel HDA](https://forums.odforce.net/topic/33237-brick-tunnel-hda/)
          - [Poly Expand 3D](https://forums.odforce.net/topic/50955-polyexpand3d/)
+         - [Gear Builder](https://forums.odforce.net/topic/49710-jerrys-things/?tab=comments#comment-227576)
+         - [Kerning Tool](https://forums.odforce.net/topic/42827-kerning-tool/) Kerning typography in Houdini.
        - Edit/Process 
          - [Microbot VDB Painter](https://microbot.ch/new/vdb-painter/) mbPainter for Sidefx Houdini is an Artist Friendly Set of Tools for interactive Manipulation of OpenVDB (www.openvdb.org) SDF Volumes. It includes 3 Basic Modes. Brush Tools (BT), Mesh Fusion (MT) and Filter Tools (FT). Everything works on one Node and Binary Data gets stored within the Digital Asset.
          - [Camera Culling Tool](https://thomasjt017.gumroad.com/l/BvVSXK) The Culling Tool takes in geometry and culls it based on a camera view, either on a single frame or a range of frames; with extra options such as the ability to keep objects based on connectivity.
@@ -115,6 +118,7 @@ t.
     - Volumes
        - [Pyro Shader for Redshit, ARnold, Renderman](https://sadjad.gumroad.com/l/PvjRz?recommended_by=search)
        - [Houdini-Plugin-for-Tensorflow-Smoke-Stylization](https://github.com/Ozeuth/Houdini-Plugin-for-Tensorflow-Smoke-Stylization) Tensorflow implementation of Style Transfer for Smoke Simulations. Created as part of ETH Zurich Student Summer Research Fellowship
+       - [Sparse Pyro Upres](https://drive.google.com/drive/folders/1H4Y0HNELDJ6lmHsM43eEI_lRgNuCEaxX) The sparse upres solver is a deeply modified sparse pyro that allow the user to quickly upres a smoke simulation from simple inputs
     
 - Tools/Extensions
   - [Womrhole Content Browser](https://wormholetools.gumroad.com/l/whbrowser) The Wormhole Content Browser is a custom UI for Houdini that enables quick browsing, previewing, and importing of content into Houdini.
