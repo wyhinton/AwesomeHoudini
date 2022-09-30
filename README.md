@@ -64,12 +64,7 @@ Note that not all assets may be compatible with your houdini licensce/version.
          - [Wrap Defromer](https://momme.gumroad.com/l/cfxwrap?recommended_by=search) The wrap deformer provides an alternative approach to Houdinis point deform. The wrap deformer will search for proximity to the driver meshes closest position on the primitive surface and interpolates from the full surface matrix of their respective points.
          - [PCA Dejitter](https://momme.gumroad.com/l/pcadejitter?recommended_by=search) The PCA Dejitter Node allows you to Remove Jitter from an animated Geometry using Principal Component Analysis.
          - [Houdini Principal Curvature](https://github.com/mruegenberg/houdini-principal-curvature) A Houdini DSO that extracts the minimal and maximal principal curvature directions from geometry.
-    - Vegetation/Terrain
-       - [JZTrees](https://github.com/joshuazt/JZTREES) Houdini procedural vegetation generator and FX toolkit
-       - [Nature Tools](https://github.com/shvetsov-art/nature_tools) Scripts assets for creating procedural forest
-       - [Houdini TaleSpire Terrain Generation Toolset](https://github.com/Baldrax/Houdini_TaleSpire_Terrain_Generation_Toolset) A toolset to procedurally create terrain for TaleSpire in Houdini.
-       - [treegen](https://github.com/demiaster/treegen) Vegetation Generation Tool for Houdini. The Digital Asset implements the space colonization algorithm by Runions et al (2007). The asset can be used to easily produce natural tree structures allowing control over the growth by shaping the roots, the foliage and the way the tree fills up the space.
-       - [Catacomb](https://github.com/amovfx/Catacomb) A procedural dungeon generator in Houdini.  
+
     - Maths/Logic
        - [VFX Fractal Tookit](https://github.com/jtomori/vft) Set of tools for generating fractal and generative art.
        - [Houdini-x4d](https://github.com/pedohorse/houdini-x4d/tree/master/otls) Assets for working in 4d space in Houdini.
@@ -103,6 +98,12 @@ Note that not all assets may be compatible with your houdini licensce/version.
        - [CPP Wrangle](https://github.com/lecopivo/cpp-wrangle) This Houdini node allows you to write wrangle nodes in C++ instead of VEX.
        - [Nvidia Warp Houdini](https://github.com/christophercrouzet/nvidia-warp-houdini) Exposes NVIDIA's Warp framework to Houdini.NVIDIA's Warp provides access to running high-performance kernels either on the CPU or GPU, all with the convenience of writing the code in Python.
        - [GSS Call Python](https://github.com/shervinazadi/GSS_Call_Python) Houdini Asset for Running a Python Script within a specific Python Environment
+     - Vegetation/Terrain
+       - [Catacomb](https://github.com/amovfx/Catacomb) A procedural dungeon generator in Houdini.  
+       - [Houdini TaleSpire Terrain Generation Toolset](https://github.com/Baldrax/Houdini_TaleSpire_Terrain_Generation_Toolset) A toolset to procedurally create terrain for TaleSpire in Houdini.
+       - [JZTrees](https://github.com/joshuazt/JZTREES) Houdini procedural vegetation generator and FX toolkit
+       - [Nature Tools](https://github.com/shvetsov-art/nature_tools) Scripts assets for creating procedural forest
+       - [treegen](https://github.com/demiaster/treegen) Vegetation Generation Tool for Houdini. The Digital Asset implements the space colonization algorithm by Runions et al (2007). The asset can be used to easily produce natural tree structures allowing control over the growth by shaping the roots, the foliage and the way the tree fills up the space.
     - Volumes
        - [Pyro Shader for Redshit, ARnold, Renderman](https://sadjad.gumroad.com/l/PvjRz?recommended_by=search)
        - [Houdini-Plugin-for-Tensorflow-Smoke-Stylization](https://github.com/Ozeuth/Houdini-Plugin-for-Tensorflow-Smoke-Stylization) Tensorflow implementation of Style Transfer for Smoke Simulations. Created as part of ETH Zurich Student Summer Research Fellowship
