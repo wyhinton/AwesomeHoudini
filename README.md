@@ -60,6 +60,7 @@ Note that not all assets may be compatible with your houdini licensce/version.
          - [PCA Dejitter](https://momme.gumroad.com/l/pcadejitter?recommended_by=search) The PCA Dejitter Node allows you to Remove Jitter from an animated Geometry using Principal Component Analysis.
          - [Houdini Principal Curvature](https://github.com/mruegenberg/houdini-principal-curvature) A Houdini DSO that extracts the minimal and maximal principal curvature directions from geometry.
          - [Houdini Transform Matcher](https://github.com/mruegenberg/houdini-transform-matcher) A Houdini DSO that extracts the transform between two sets of points.
+         - [Jelly Maker](https://daytonfx.gumroad.com/l/Jelly_Maker) An HDA that turns any object or fluid sim into a jelly with bubbles in it.
     - KineFx
        - [Kinefx Tools](https://github.com/kamilhepner/kinefx_tools) Collection of rigging tools and utils for Houdini Kinefx 
     - Maths/Logic
