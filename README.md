@@ -80,14 +80,15 @@ t.
        - [Houdini-x4d](https://github.com/pedohorse/houdini-x4d/tree/master/otls) Assets for working in 4d space in Houdini.
        - [Gear Logic](https://github.com/pedohorse/gearlogic) Framework for mechanical logic circuits for Houdini
        - [Houdini Matrix Library](https://github.com/jakericedesigns/Houdini-Matrix-Library) Library for large linear operations with VEX in Houdini.
-    - Misc
+    - Misc/Util
        - [HMT](https://github.com/andrew-lowell/HMT) Houdini Music Toolset (HMT) turns the most powerful 3D program into a MIDI sequence
        - [Houdini-Telegram-Notifier](https://github.com/anvdev/Houdini-Telegram-Notifier) Send messages to Telegram chat directly from SideFX Houdin
        - [Hou_bg_renderer](https://github.com/jtomori/hou_bg_render) Render any renderable node in background.
        - [Auto Cache Out Tool](https://www.youtube.com/watch?v=euTth1NNrYc) Auto Cache Out tool is for managing caches and .hip files. The tool will lay down all the important nodes you need to cache out and when you render it will create the directories and automatically version up your caches and files.
        - [Texture-synthesis-houdini](https://github.com/manuelkoester/texture-synthesis-houdini) Houdini / PDG plugin for EmbarkStudios' texture-synthesis.
        - [Re-time Solver](https://forums.odforce.net/topic/42996-hda-retime-solver-intuitive-retiming-instant-solve/) Intuitive, "squash and stretch" style  retiming
-       - [Houdini Tech Art Challenge Winners 2021](https://www.sidefx.com/tech-art-challenge-2021/) HPaint, Polyline Creator, Poly Slice Tool, and more   
+       - [Houdini Tech Art Challenge Winners 2021](https://www.sidefx.com/tech-art-challenge-2021/) HPaint, Polyline Creator, Poly Slice Tool, and more  
+       - [Color Palette Ramp](https://github.com/jamesrobinsonvfx/colorpaletteramp) A Houdini HDA that creates a ramp based on a color palette from an image.
     - Pipeline/PDG
        - [Firehawk PDG Tools](https://github.com/firehawkvfx/firehawk-pdg-tools) A houdini package to aid PDG submission with auto-versioning, asset handling, and immmutable timestamped hip files for reproduction of content.
        - [KDBRA Tools](https://github.com/kdbra/kdbra-houdini-tools) Production tools for SideFX Houdini
@@ -126,10 +127,20 @@ t.
 
     
 - Tools/Extensions
-  - [Womrhole Content Browser](https://wormholetools.gumroad.com/l/whbrowser) The Wormhole Content Browser is a custom UI for Houdini that enables quick browsing, previewing, and importing of content into Houdini.
-  - [Houdini VEX Editor](https://github.com/paulwinex/pw_Houdini_VEX_Editor) Advanced Houdini VEX Editor
-  - [MASSEParmUtilities](https://github.com/viktors-a/MASSEParmUtilities) Easily setup control parmaters
-  - [Marking Menu](https://github.com/dchow1992/houdini_markingmenu) Marking Menu for the Houdini network editor. Fast access to node creation, placement, toolscripts, and shelf tools
+  - UI
+   - Panels
+     - [Womrhole Content Browser](https://wormholetools.gumroad.com/l/whbrowser) The Wormhole Content Browser is a custom UI for Houdini that enables quick browsing, previewing, and importing of content into Houdini.
+     - [Vex Snippet Library](https://github.com/dchow1992/Vex_Snippet_Library) Python Panel utility for creating, storing, and accessing vex snippets in Houdini.
+     - [Marking Menu](https://github.com/dchow1992/houdini_markingmenu) Marking Menu for the Houdini network editor. Fast access to node creation, placement, toolscripts, and shelf tools
+   - Parameters
+     - [MASSEParmUtilities](https://github.com/viktors-a/MASSEParmUtilities) Easily setup control parmaters
+  - Hip File
+    - [Hip Meta Stripper](https://github.com/pedohorse/hip-meta-stripper) Strips metadata from your hip files.
+  - Misc
+    
+  
+  
+
   - [hdBlackbird](https://github.com/tangent-opensource/hdBlackbird) A USD/Hydra RenderDelegate plugin that adds support for the Blackbird renderer (a fork of the Blender Foundation's Cycles renderer) to any client.
   - [Nikla Rosenstein Houdini Library](https://github.com/nrosenstein-old/houdini-library) Rosenstein's personal library of Houdini digital assets and shelf tools.
   - [HoudiniExprEditor](https://github.com/cgtoolbox/HoudiniExprEditor) Houdini Expression Editor allows you to set up an external text editor for all type of expressions. Such as Vex snippet, python code, HScript. It uses a system of file watchers to keep track of code updates in real time. It doesn't freeze Houdini and you don't have to close your editor to see the updated code applied on your parameter. Also compatible with custom Python SOP nodes source code.
@@ -137,8 +148,7 @@ t.
   - [hou_packager](https://github.com/Njordy/hou_packager) A simple SideFX Houdini package manager. It lets the user to easily "install", disable or delete any (ready) Houdini HDA libraries.
   - [Help Card Maker](https://github.com/cgtoolbox/HelpCardMaker) A tool to create easily help cards for your digital assets.
   - [Null Between Bones](https://github.com/Kuchavo/Null-Between-Bones-Houdini-Tool) Creation of 'Null' nodes between all selected nodes (e.g. 'Bone' nodes). Useful for creation of controls for rigging.
-  - [Vex Snippet Library](https://github.com/dchow1992/Vex_Snippet_Library) Python Panel utility for creating, storing, and accessing vex snippets in Houdini.
-  - [Color Palette Ramp](https://github.com/jamesrobinsonvfx/colorpaletteramp) A Houdini HDA that creates a ramp based on a color palette from an image.
+
   - [Houdini_TDK](https://github.com/anvdev/Houdini_TDK) Tool Development Kit for SideFX Houdini
   - [ftrimify](https://github.com/jamesrobinsonvfx/ftrimify) Houdini parameter menu extension to add ftrim() around ch() and chs() references.
   - [Houdini EditParms](https://github.com/anvdev/Houdini_EditParms) Small tool for multiple parameters editing.
@@ -159,7 +169,7 @@ t.
   - [hpaste](https://github.com/pedohorse/hpaste) Simple plain text snippet exchange for Houdini.
   - [dynamite](https://github.com/ajz3d/dynamite) Tool for a streamlined bake cage creation in Houdini.
   - [Nvil-houdini-link](https://github.com/ajz3d/nvil-houdini-applink) AppLink that allows for quick geometry interchange between Houdini and NVil.
-  - [Hip Meta Stripper](https://github.com/pedohorse/hip-meta-stripper) Strips metadata from your hip files.
+
   - [Gamestuff](https://github.com/pedohorse/gamestuff) Houdini interface game engine.
 
 - HIPS
