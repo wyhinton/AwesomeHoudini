@@ -46,7 +46,6 @@ TOC
     - [LaidLawFx](https://github.com/LaidlawFX/LaidlawFX)
     - [Nama-Gatsuo HDA Sketches](https://github.com/nama-gatsuo/HDA_Sketches)
     
-  - Misc Assets
     - Geo/Editing
        - Generate
          - [Isogrid Houdini SOP](https://github.com/crystalboxes/isogrid-houdini-sop) voxel-based generative geometry
