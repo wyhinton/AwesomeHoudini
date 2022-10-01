@@ -46,7 +46,8 @@ TOC
     - [LaidLawFx](https://github.com/LaidlawFX/LaidlawFX)
     - [Nama-Gatsuo HDA Sketches](https://github.com/nama-gatsuo/HDA_Sketches)
     
-    - Geo/Editing
+    - Categories
+      - Geo/Editing
        - Generate
          - [Isogrid Houdini SOP](https://github.com/crystalboxes/isogrid-houdini-sop) voxel-based generative geometry
          - [ae_SVG](https://github.com/Aeoll/ae_SVG) SVG Importer and Exporter for Houdini
