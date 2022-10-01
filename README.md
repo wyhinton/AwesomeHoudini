@@ -350,8 +350,7 @@ _______
   - [Poly Marvels](https://www.youtube.com/channel/UCqXuTLiaL-jqvn3LK1XlwHg)
   - [Resillient Picture Company](https://www.youtube.com/c/ResilientPictureCompany) 
 
-  
-- Blogs/Personal Sites
+- ### Blogs/Personal Sites
   - [Bernie Bernie](https://berniebernie.fr/wiki/Main_Page) 
   - [Sergi Carrion](https://www.artstation.com/se_carri/blog)
   - [CGWiki](https://www.tokeru.com/cgwiki/index.php?title=HoudiniGettingStarted)
