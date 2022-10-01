@@ -10,10 +10,10 @@ Note that not all assets may be compatible with your houdini licensce/version.
 
 TOC
 - [Assets](#Assets)
-
+ -  [General Purpose Asset Libraries/Toolboxes](#General-Purpose-Asset-Libraries/Toolboxes)
 
 ---
-- # Assets
+- ### Assets
   - General Purpose Asset Libraries/Toolboxes
     - [qLab](https://github.com/qLab/qLib)
     - [SideFx Labs](https://github.com/sideeffects/SideFXLabs)
