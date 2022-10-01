@@ -10,7 +10,7 @@ Note that not all assets may be compatible with your houdini licensce/version.
 
 TOC
 - [Assets](#Assets)
-  -  [General Purpose Asset Libraries/Toolboxes](#general-purpose-asset-libraries-toolboxes)
+  -  [General Purpose Asset Libraries/Toolboxes](#General)
 
 ---
 - ### Assets
