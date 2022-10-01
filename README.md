@@ -12,8 +12,18 @@ TOC
 - [Assets](#Assets)
   -  [General Purpose Asset Libraries/Toolboxes](#general-purpose-asset-librariestoolboxes)
   -  [Geo/Editing](#geoediting)
-    - [Generate](#generate)
-    - [Edit](#edit) 
+     - [Generate](#generate)
+     - [Edit](#editprocess)
+  - [Kinefx](#kinefx)
+  - [Maths/Logic](#mathslogic)
+  - [Misc/Util](#miscutil)
+  - [Pipeline/Pdg](#pipelinepdg)
+  - [Rendering/Materials](#renderingmaterials)
+  - [Solver/Sim](#solversim)
+  - [Wrangles/Code](#wranglescode)
+  - [Vegitation/Terrain](#vegitationterrain)
+  - [Volumes](#volumes)
+  - 
 
 ---
 - ### Assets
@@ -80,7 +90,7 @@ TOC
          - [Houdini Transform Matcher](https://github.com/mruegenberg/houdini-transform-matcher) A Houdini DSO that extracts the transform between two sets of points.
          - [Blend Geo](https://wouttengrootenhuysen.gumroad.com/l/ooffu) Blend geometry with a displaced version of it. It has the option of combining masks and setting a range/falloff from those mask.
 t.
-- ### KineFx
+    - ### KineFx
        - [Kinefx Tools](https://github.com/kamilhepner/kinefx_tools) Collection of rigging tools and utils for Houdini Kinefx 
     - ### Maths/Logic
        - [AVL](https://github.com/anvdev/AVL) Advanced function library, written in VEX language for SideFX Houdini. Now in development.
@@ -138,61 +148,48 @@ t.
     - [Help Card Maker](https://github.com/cgtoolbox/HelpCardMaker) A tool to create easily help cards for your digital assets.
     - [tk-houdini](https://github.com/shotgunsoftware/tk-houdini) A Shotgun Pipeline Toolkit Engine for Houdin
   - ### I/O
-    -  
+    - [Nvil-houdini-link](https://github.com/ajz3d/nvil-houdini-applink) AppLink that allows for quick geometry interchange between Houdini and NVil.
+    - [Hou2Drive](https://github.com/SideswipeeZ/Hou2Drive) Upload current Houdini file to a linked Google Account.
+    - [Daz2HouNeo](https://github.com/SideswipeeZ/Daz2HouNeo) Daz Studio to Houdini Processing Tools (with Arnold)
   - ###UI
     - [Gamestuff](https://github.com/pedohorse/gamestuff) Houdini interface game engine.
      - ### Misc 
-       - 
+       - [hpaste](https://github.com/pedohorse/hpaste) Simple plain text snippet exchange for Houdini.
      - ### Panels
        - [Womrhole Content Browser](https://wormholetools.gumroad.com/l/whbrowser) The Wormhole Content Browser is a custom UI for Houdini that enables quick browsing, previewing, and importing of content into Houdini.
        - [Vex Snippet Library](https://github.com/dchow1992/Vex_Snippet_Library) Python Panel utility for creating, storing, and accessing vex snippets in Houdini.
        - [Marking Menu](https://github.com/dchow1992/houdini_markingmenu) Marking Menu for the Houdini network editor. Fast access to node creation, placement, toolscripts, and shelf tools
        - [Houdini Image Browser](https://github.com/Aeoll/Houdini_Image_Browser) Python Panel file browser with thumbnail database
        - [Asset Browser](https://github.com/jonassorgenfrei/AssetBrowser) A qt asset browser for applications like houdini/nuke/maya/blender
+       - [Houdini-Rig Control Library](https://github.com/pareylook/Houdini-Rig_control-library) Python panel for fast create control shape for rig
+       - [Houdini Bookmarks](https://github.com/gorrod/houdini_bookmarks) Houdini Bookmarks is a Houdini Python Panel aimed to help organize a scene by bookmarking and quickly accessing nodes, online references and file locations.
     - ### Parameters
       - [MASSEParmUtilities](https://github.com/viktors-a/MASSEParmUtilities) Easily setup control parmaters
       - [ftrimify](https://github.com/jamesrobinsonvfx/ftrimify) Houdini parameter menu extension to add ftrim() around ch() and chs() references.
       - [Houdini EditParms](https://github.com/anvdev/Houdini_EditParms) Small tool for multiple parameters editing.
       - [HoudiniExprEditor](https://github.com/cgtoolbox/HoudiniExprEditor) Houdini Expression Editor allows you to set up an external text editor for all type of expressions. Such as Vex snippet, python code, HScript. It uses a system of file watchers to keep track of code updates in real time. It doesn't freeze Houdini and you don't have to close your editor to see the updated code applied on your parameter. Also compatible with custom Python SOP nodes source code.
-    - ### Hip File
+    - ### Viewport 
+      - [Houdini Subdiv Isolines Display](https://github.com/crystalboxes/Houdini-Subdiv-Isolines-Display) Render hook for drawing subdivision surface isolines in the viewport.
+   - ### Hip File
       - [Hip Meta Stripper](https://github.com/pedohorse/hip-meta-stripper) Strips metadata from your hip files.
       - [ZENV](https://github.com/CorvaeOboro/zenv) https://github.com/CorvaeOboro/zenv
-    - ### Misc
+   - ### Misc
       - [hou_packager](https://github.com/Njordy/hou_packager) A simple SideFX Houdini package manager. It lets the user to easily "install", disable or delete any (ready) Houdini HDA libraries.
       - [Houlean](https://github.com/lecopivo/HouLean) This Houdini plugin allows you to use Lean 4 as a scripting language/replacement of VEX. This plugin is highly experimental!
       - [MLHoudiniSamples](https://github.com/takavfx/MLHoudiniSamples) Samples for Machine Learning on Houdini.
-    - ### Rendering
+  - ### Rendering
       - [hdBlackbird](https://github.com/tangent-opensource/hdBlackbird) A USD/Hydra RenderDelegate plugin that adds support for the Blackbird renderer (a fork of the Blender Foundation's Cycles renderer) to any client.
-  
+      - [Houdini Shader Converter](https://github.com/SideswipeeZ/houdini-shader-converter) Houdini Python Shelf tool for Converting Shaders within Houdini using JSON
+      - [Houdini CopyToFram](https://github.com/eglaubauf/Houdini_CopyToFarm) This script provides a window in which the user is able to select a directory to copy the current file and it´s dependencies to a different, arbitrary location (e.g. a network storage). In this process the script will copy all linked/referenced files to the chosen location as long as they are below the current workspace.
+  - ### Scripts
+      - [Null Between Bones](https://github.com/Kuchavo/Null-Between-Bones-Houdini-Tool) Creation of 'Null' nodes between all selected nodes (e.g. 'Bone' nodes). Useful for creation of controls for rigging.
+     - [cmhbenjamin/Houdini Scripts](https://github.com/cmhbenjamin/Houdini-Scripts) Flipbooksettingssaver/pointAttributeHistogram assets.
+     - [JoseZalez/Houdini Scripts](https://github.com/JoseZalez/Houdini-scripts) Library of houdini scripts and tools (VEX, Python, OpenCL).
+     - [dynamite](https://github.com/ajz3d/dynamite) Tool for a streamlined bake cage creation in Houdini.
 
+_______
 
-
-
-
-  - [Null Between Bones](https://github.com/Kuchavo/Null-Between-Bones-Houdini-Tool) Creation of 'Null' nodes between all selected nodes (e.g. 'Bone' nodes). Useful for creation of controls for rigging.
-
-
-
-
-
-
-  - [Houdini Shader Converter](https://github.com/SideswipeeZ/houdini-shader-converter) Houdini Python Shelf tool for Converting Shaders within Houdini using JSON
-  - [Hou2Drive](https://github.com/SideswipeeZ/Hou2Drive) Upload current Houdini file to a linked Google Account.
-  - [Daz2HouNeo](https://github.com/SideswipeeZ/Daz2HouNeo) Daz Studio to Houdini Processing Tools (with Arnold)
-
-  - [Houdini Subdiv Isolines Display](https://github.com/crystalboxes/Houdini-Subdiv-Isolines-Display) Render hook for drawing subdivision surface isolines in the viewport.
-  - [Houdini-Rig Control Library](https://github.com/pareylook/Houdini-Rig_control-library) Python panel for fast create control shape for rig
-
-  - [Houdini CopyToFram](https://github.com/eglaubauf/Houdini_CopyToFarm) This script provides a window in which the user is able to select a directory to copy the current file and it´s dependencies to a different, arbitrary location (e.g. a network storage). In this process the script will copy all linked/referenced files to the chosen location as long as they are below the current workspace.
-  - [Houdini Bookmarks](https://github.com/gorrod/houdini_bookmarks) Houdini Bookmarks is a Houdini Python Panel aimed to help organize a scene by bookmarking and quickly accessing nodes, online references and file locations.
-  - [cmhbenjamin/Houdini Scripts](https://github.com/cmhbenjamin/Houdini-Scripts) Flipbooksettingssaver/pointAttributeHistogram assets.
-  - [JoseZalez/Houdini Scripts](https://github.com/JoseZalez/Houdini-scripts) Library of houdini scripts and tools (VEX, Python, OpenCL).
-  - [hpaste](https://github.com/pedohorse/hpaste) Simple plain text snippet exchange for Houdini.
-  - [dynamite](https://github.com/ajz3d/dynamite) Tool for a streamlined bake cage creation in Houdini.
-  - [Nvil-houdini-link](https://github.com/ajz3d/nvil-houdini-applink) AppLink that allows for quick geometry interchange between Houdini and NVil.
-
-
-
+### Learning Materials
 - HIPS
   - [junichirohorikawa - Houdini Howtos](https://github.com/jhorikawa/HoudiniHowtos)
   - [Atom Tutorial Hip Library](https://forums.odforce.net/topic/49522-tutorial-hip-library/)
