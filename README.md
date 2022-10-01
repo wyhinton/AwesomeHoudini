@@ -11,6 +11,7 @@ Note that not all assets may be compatible with your houdini licensce/version.
 TOC
 - [Assets](#Assets)
   -  [General Purpose Asset Libraries/Toolboxes](#general-purpose-asset-librariestoolboxes)
+  -  [Geo/Editing]()
 
 ---
 - ### Assets
@@ -45,10 +46,11 @@ TOC
     - [hipCollection](https://github.com/PhilHaf/hipCollection)
     - [LaidLawFx](https://github.com/LaidlawFX/LaidlawFX)
     - [Nama-Gatsuo HDA Sketches](https://github.com/nama-gatsuo/HDA_Sketches)
+    - [Nikla Rosenstein Houdini Library](https://github.com/nrosenstein-old/houdini-library)
     
-    - Categories
-      - Geo/Editing
-       - Generate
+  - ### Categories
+    - ### Geo/Editing
+      - ### Generate
          - [Isogrid Houdini SOP](https://github.com/crystalboxes/isogrid-houdini-sop) voxel-based generative geometry
          - [ae_SVG](https://github.com/Aeoll/ae_SVG) SVG Importer and Exporter for Houdini
          - [kitbash-parser](https://github.com/MatthewZub/houdini-kitbashparser) 'Kitbash Parser' is a kit of tools to work with kitbash packs in Houdini.
@@ -65,8 +67,8 @@ TOC
          - [Gear Builder](https://forums.odforce.net/topic/49710-jerrys-things/?tab=comments#comment-227576)
          - [Kerning Tool](https://forums.odforce.net/topic/42827-kerning-tool/) Kerning typography in Houdini.
          - [Curve to Rope Tool](https://vimeo.com/248878221)
-       - Edit/Process 
-         - [Microbot VDB Painter](https://microbot.ch/new/vdb-painter/) mbPainter for Sidefx Houdini is an Artist Friendly Set of Tools for interactive Manipulation of OpenVDB (www.openvdb.org) SDF Volumes. It includes 3 Basic Modes. Brush Tools (BT), Mesh Fusion (MT) and Filter Tools (FT). Everything works on one Node and Binary Data gets stored within the Digital Asset.
+       - ### Edit/Process 
+         - [Microbot VDB Painter](https://microbot.ch/new/vdb-painter/) mbPainter for Sidefx Houdini is an Artist Friendly Set of Tools for interactive Manipulation of OpenVDB (www.openvdb.org) SDF Volumes.
          - [Camera Culling Tool](https://thomasjt017.gumroad.com/l/BvVSXK) The Culling Tool takes in geometry and culls it based on a camera view, either on a single frame or a range of frames; with extra options such as the ability to keep objects based on connectivity.
          - [Houdini Plugin for Mesh Reparation](https://github.com/Ozeuth/Houdini-Plugin-For-Mesh-Reparation) An artist-centered tool to repair meshes with holes. Such holes are filled with coherent, context-aware new patches with correct topology and microsurface detail. This tool is packaged as a Houdini Digital Asset, making a user-friendly, integrated plugin for Mesh Reparation.
          - [Inspect Node Data](https://github.com/jamesrobinsonvfx/inspectnodedata) SOP-level HDA for storing, retrieving, and inspecting parameters from nodes.This node uses a Dictionary Attribute to store parameter data from the Attribute from Parameters SOP and retrieve it for inspection. This is useful for storing data about how a cache was generated when wedging values.
@@ -76,15 +78,15 @@ TOC
          - [Houdini Transform Matcher](https://github.com/mruegenberg/houdini-transform-matcher) A Houdini DSO that extracts the transform between two sets of points.
          - [Blend Geo](https://wouttengrootenhuysen.gumroad.com/l/ooffu) Blend geometry with a displaced version of it. It has the option of combining masks and setting a range/falloff from those mask.
 t.
-    - KineFx
+- ### KineFx
        - [Kinefx Tools](https://github.com/kamilhepner/kinefx_tools) Collection of rigging tools and utils for Houdini Kinefx 
-    - Maths/Logic
+    - ### Maths/Logic
        - [AVL](https://github.com/anvdev/AVL) Advanced function library, written in VEX language for SideFX Houdini. Now in development.
        - [VFX Fractal Tookit](https://github.com/jtomori/vft) Set of tools for generating fractal and generative art.
        - [Houdini-x4d](https://github.com/pedohorse/houdini-x4d/tree/master/otls) Assets for working in 4d space in Houdini.
        - [Gear Logic](https://github.com/pedohorse/gearlogic) Framework for mechanical logic circuits for Houdini
        - [Houdini Matrix Library](https://github.com/jakericedesigns/Houdini-Matrix-Library) Library for large linear operations with VEX in Houdini.
-    - Misc/Util
+    - ### Misc/Util
        - [HMT](https://github.com/andrew-lowell/HMT) Houdini Music Toolset (HMT) turns the most powerful 3D program into a MIDI sequence
        - [Houdini-Telegram-Notifier](https://github.com/anvdev/Houdini-Telegram-Notifier) Send messages to Telegram chat directly from SideFX Houdin
        - [Hou_bg_renderer](https://github.com/jtomori/hou_bg_render) Render any renderable node in background.
@@ -98,74 +100,87 @@ t.
        - [KDBRA Tools](https://github.com/kdbra/kdbra-houdini-tools) Production tools for SideFX Houdini
        - [Nagamochi_PDG](https://github.com/ShoheiOkazaki/Nagamochi_PDG) This is a TOP HDA library for SideFX's Houdini. There are some nodes for Maya, but those nodes are not perfect because I am not close to Maya. I'm looking forward to your advice!
        - [Houdini PRTROP](https://github.com/flipswitchingmonkey/houdini_PRTROP)
-     - Rendering/Materials
+     - ### Rendering/Materials
        - [Aces Converter](https://timvanhelsdingen.com/convert-textures-to-aces/) Converts textures to ACES color space, as seen in Toadstorms Guide.
        - [egMatLib](https://github.com/eglaubauf/egMatLib) Material Library for Houdini Mantra, Redshift and Arnold
        - [egRedshiftTools](https://github.com/eglaubauf/egRedshiftTools) Tools for Redshift in SideFx Houdini
        - [egMantraTools](https://github.com/eglaubauf/egMantraTools) Tools For SidefX Houdinis Mantra Renderer
        - [Lookbox](https://www.patreon.com/posts/lookbox-beta-21308541) Look dev tool suite for Mantra
        - [Redshift HDRI Creator](https://m.youtube.com/watch?v=HAWRBdkl1w4) Create/edit HDRIs 
-    - Solver/Sim
+    - ### Solver/Sim
        - [Point Based Growth HDA](https://itj.gumroad.com/l/pbg) Houdini point based growth Asset.
        - [Path Solver HDA](https://lavrenovlad.gumroad.com/l/fkQSl) Path Solver is a Houdini Digital Asset solving points/objects along any path without them intersecting each other. 
        - [Dune Solver](https://matthewjukes.gumroad.com/l/dunesolver?recommended_by=search)
        - [Diffusion Limited Aggregation](https://github.com/jroy1992/Diffusion-Limited-Aggregation) Create fractal like growth inside 3D geometry using the principle of Diffusion Limited Aggregation. The implementation has been done in three parts: Text and 3D Geometry and Intersection
-    - Wrangles/Code
+    - ### Wrangles/Code
        - [OpenCL Wrangle COP](https://vimeo.com/223407863) This operator allows you to run an OpenCL kernel as part of your COP network. Depending on the GPU, some operators can be orders of magnitude faster than even VEX.
        - [CPP Wrangle](https://github.com/lecopivo/cpp-wrangle) This Houdini node allows you to write wrangle nodes in C++ instead of VEX.
        - [Nvidia Warp Houdini](https://github.com/christophercrouzet/nvidia-warp-houdini) Exposes NVIDIA's Warp framework to Houdini.NVIDIA's Warp provides access to running high-performance kernels either on the CPU or GPU, all with the convenience of writing the code in Python.
        - [GSS Call Python](https://github.com/shervinazadi/GSS_Call_Python) Houdini Asset for Running a Python Script within a specific Python Environment
-     - Vegitation/Terrain
+     - ### Vegitation/Terrain
        - [Catacomb](https://github.com/amovfx/Catacomb) A procedural dungeon generator in Houdini.  
        - [Houdini TaleSpire Terrain Generation Toolset](https://github.com/Baldrax/Houdini_TaleSpire_Terrain_Generation_Toolset) A toolset to procedurally create terrain for TaleSpire in Houdini.
        - [JZTrees](https://github.com/joshuazt/JZTREES) Houdini procedural vegetation generator and FX toolkit
        - [Nature Tools](https://github.com/shvetsov-art/nature_tools) Scripts assets for creating procedural forest
        - [treegen](https://github.com/demiaster/treegen) Vegetation Generation Tool for Houdini. The Digital Asset implements the space colonization algorithm by Runions et al (2007). The asset can be used to easily produce natural tree structures allowing control over the growth by shaping the roots, the foliage and the way the tree fills up the space.
-    - Volumes
+    - ### Volumes
        - [Pyro Shader for Redshit, ARnold, Renderman](https://sadjad.gumroad.com/l/PvjRz?recommended_by=search)
        - [Houdini-Plugin-for-Tensorflow-Smoke-Stylization](https://github.com/Ozeuth/Houdini-Plugin-for-Tensorflow-Smoke-Stylization) Tensorflow implementation of Style Transfer for Smoke Simulations. Created as part of ETH Zurich Student Summer Research Fellowship
        - [Sparse Pyro Upres](https://drive.google.com/drive/folders/1H4Y0HNELDJ6lmHsM43eEI_lRgNuCEaxX) The sparse upres solver is a deeply modified sparse pyro that allow the user to quickly upres a smoke simulation from simple inputs
        - [Wind and Turbulance HDA](https://vimeo.com/260587977) Creates wind and turbulence data to transfer into Dops to get better results than the "Gas wind" node.
        
-
-
     
-- Tools/Extensions
-  - UI
-   - Panels
-     - [Womrhole Content Browser](https://wormholetools.gumroad.com/l/whbrowser) The Wormhole Content Browser is a custom UI for Houdini that enables quick browsing, previewing, and importing of content into Houdini.
-     - [Vex Snippet Library](https://github.com/dchow1992/Vex_Snippet_Library) Python Panel utility for creating, storing, and accessing vex snippets in Houdini.
-     - [Marking Menu](https://github.com/dchow1992/houdini_markingmenu) Marking Menu for the Houdini network editor. Fast access to node creation, placement, toolscripts, and shelf tools
-   - Parameters
-     - [MASSEParmUtilities](https://github.com/viktors-a/MASSEParmUtilities) Easily setup control parmaters
-  - Hip File
-    - [Hip Meta Stripper](https://github.com/pedohorse/hip-meta-stripper) Strips metadata from your hip files.
-  - Misc
-    
-  
+- ###Tools/Extensions
+  - ### Development 
+    - [Houdini_TDK](https://github.com/anvdev/Houdini_TDK) Tool Development Kit for SideFX Houdini
+    - [Help Card Maker](https://github.com/cgtoolbox/HelpCardMaker) A tool to create easily help cards for your digital assets.
+    - [tk-houdini](https://github.com/shotgunsoftware/tk-houdini) A Shotgun Pipeline Toolkit Engine for Houdin
+  - ### I/O
+    -  
+  - ###UI
+    - [Gamestuff](https://github.com/pedohorse/gamestuff) Houdini interface game engine.
+     - ### Misc 
+       - 
+     - ### Panels
+       - [Womrhole Content Browser](https://wormholetools.gumroad.com/l/whbrowser) The Wormhole Content Browser is a custom UI for Houdini that enables quick browsing, previewing, and importing of content into Houdini.
+       - [Vex Snippet Library](https://github.com/dchow1992/Vex_Snippet_Library) Python Panel utility for creating, storing, and accessing vex snippets in Houdini.
+       - [Marking Menu](https://github.com/dchow1992/houdini_markingmenu) Marking Menu for the Houdini network editor. Fast access to node creation, placement, toolscripts, and shelf tools
+       - [Houdini Image Browser](https://github.com/Aeoll/Houdini_Image_Browser) Python Panel file browser with thumbnail database
+       - [Asset Browser](https://github.com/jonassorgenfrei/AssetBrowser) A qt asset browser for applications like houdini/nuke/maya/blender
+    - ### Parameters
+      - [MASSEParmUtilities](https://github.com/viktors-a/MASSEParmUtilities) Easily setup control parmaters
+      - [ftrimify](https://github.com/jamesrobinsonvfx/ftrimify) Houdini parameter menu extension to add ftrim() around ch() and chs() references.
+      - [Houdini EditParms](https://github.com/anvdev/Houdini_EditParms) Small tool for multiple parameters editing.
+      - [HoudiniExprEditor](https://github.com/cgtoolbox/HoudiniExprEditor) Houdini Expression Editor allows you to set up an external text editor for all type of expressions. Such as Vex snippet, python code, HScript. It uses a system of file watchers to keep track of code updates in real time. It doesn't freeze Houdini and you don't have to close your editor to see the updated code applied on your parameter. Also compatible with custom Python SOP nodes source code.
+    - ### Hip File
+      - [Hip Meta Stripper](https://github.com/pedohorse/hip-meta-stripper) Strips metadata from your hip files.
+      - [ZENV](https://github.com/CorvaeOboro/zenv) https://github.com/CorvaeOboro/zenv
+    - ### Misc
+      - [hou_packager](https://github.com/Njordy/hou_packager) A simple SideFX Houdini package manager. It lets the user to easily "install", disable or delete any (ready) Houdini HDA libraries.
+      - [Houlean](https://github.com/lecopivo/HouLean) This Houdini plugin allows you to use Lean 4 as a scripting language/replacement of VEX. This plugin is highly experimental!
+      - [MLHoudiniSamples](https://github.com/takavfx/MLHoudiniSamples) Samples for Machine Learning on Houdini.
+    - ### Rendering
+      - [hdBlackbird](https://github.com/tangent-opensource/hdBlackbird) A USD/Hydra RenderDelegate plugin that adds support for the Blackbird renderer (a fork of the Blender Foundation's Cycles renderer) to any client.
   
 
-  - [hdBlackbird](https://github.com/tangent-opensource/hdBlackbird) A USD/Hydra RenderDelegate plugin that adds support for the Blackbird renderer (a fork of the Blender Foundation's Cycles renderer) to any client.
-  - [Nikla Rosenstein Houdini Library](https://github.com/nrosenstein-old/houdini-library) Rosenstein's personal library of Houdini digital assets and shelf tools.
-  - [HoudiniExprEditor](https://github.com/cgtoolbox/HoudiniExprEditor) Houdini Expression Editor allows you to set up an external text editor for all type of expressions. Such as Vex snippet, python code, HScript. It uses a system of file watchers to keep track of code updates in real time. It doesn't freeze Houdini and you don't have to close your editor to see the updated code applied on your parameter. Also compatible with custom Python SOP nodes source code.
-  - [Houlean](https://github.com/lecopivo/HouLean) This Houdini plugin allows you to use Lean 4 as a scripting language/replacement of VEX. This plugin is highly experimental!
-  - [hou_packager](https://github.com/Njordy/hou_packager) A simple SideFX Houdini package manager. It lets the user to easily "install", disable or delete any (ready) Houdini HDA libraries.
-  - [Help Card Maker](https://github.com/cgtoolbox/HelpCardMaker) A tool to create easily help cards for your digital assets.
+
+
+
+
   - [Null Between Bones](https://github.com/Kuchavo/Null-Between-Bones-Houdini-Tool) Creation of 'Null' nodes between all selected nodes (e.g. 'Bone' nodes). Useful for creation of controls for rigging.
 
-  - [Houdini_TDK](https://github.com/anvdev/Houdini_TDK) Tool Development Kit for SideFX Houdini
-  - [ftrimify](https://github.com/jamesrobinsonvfx/ftrimify) Houdini parameter menu extension to add ftrim() around ch() and chs() references.
-  - [Houdini EditParms](https://github.com/anvdev/Houdini_EditParms) Small tool for multiple parameters editing.
-  - [MLHoudiniSamples](https://github.com/takavfx/MLHoudiniSamples) Samples for Machine Learning on Houdini.
-  - [Houdini Image Browser](https://github.com/Aeoll/Houdini_Image_Browser) Python Panel file browser with thumbnail database
-  - [Asset Browser](https://github.com/jonassorgenfrei/AssetBrowser) A qt asset browser for applications like houdini/nuke/maya/blender
+
+
+
+
+
   - [Houdini Shader Converter](https://github.com/SideswipeeZ/houdini-shader-converter) Houdini Python Shelf tool for Converting Shaders within Houdini using JSON
   - [Hou2Drive](https://github.com/SideswipeeZ/Hou2Drive) Upload current Houdini file to a linked Google Account.
   - [Daz2HouNeo](https://github.com/SideswipeeZ/Daz2HouNeo) Daz Studio to Houdini Processing Tools (with Arnold)
-  - [tk-houdini](https://github.com/shotgunsoftware/tk-houdini) A Shotgun Pipeline Toolkit Engine for Houdin
+
   - [Houdini Subdiv Isolines Display](https://github.com/crystalboxes/Houdini-Subdiv-Isolines-Display) Render hook for drawing subdivision surface isolines in the viewport.
   - [Houdini-Rig Control Library](https://github.com/pareylook/Houdini-Rig_control-library) Python panel for fast create control shape for rig
-  - [ZENV](https://github.com/CorvaeOboro/zenv) https://github.com/CorvaeOboro/zenv
+
   - [Houdini CopyToFram](https://github.com/eglaubauf/Houdini_CopyToFarm) This script provides a window in which the user is able to select a directory to copy the current file and it´s dependencies to a different, arbitrary location (e.g. a network storage). In this process the script will copy all linked/referenced files to the chosen location as long as they are below the current workspace.
   - [Houdini Bookmarks](https://github.com/gorrod/houdini_bookmarks) Houdini Bookmarks is a Houdini Python Panel aimed to help organize a scene by bookmarking and quickly accessing nodes, online references and file locations.
   - [cmhbenjamin/Houdini Scripts](https://github.com/cmhbenjamin/Houdini-Scripts) Flipbooksettingssaver/pointAttributeHistogram assets.
@@ -174,7 +189,7 @@ t.
   - [dynamite](https://github.com/ajz3d/dynamite) Tool for a streamlined bake cage creation in Houdini.
   - [Nvil-houdini-link](https://github.com/ajz3d/nvil-houdini-applink) AppLink that allows for quick geometry interchange between Houdini and NVil.
 
-  - [Gamestuff](https://github.com/pedohorse/gamestuff) Houdini interface game engine.
+
 
 - HIPS
   - [junichirohorikawa - Houdini Howtos](https://github.com/jhorikawa/HoudiniHowtos)
