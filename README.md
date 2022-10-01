@@ -9,7 +9,7 @@ Sourced from Github, Gumroad, OdForce, and miscellaneous google drive links. I'v
 Note that not all assets may be compatible with your houdini licensce/version.
 
 TOC
-- (Assets)[#Assets]
+- [Assets](#Assets)
 
 
 ---
