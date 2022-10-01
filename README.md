@@ -24,7 +24,12 @@ Note that not all assets may be compatible with your houdini licensce/version.
   - [Wrangles/Code](#wranglescode)
   - [Vegitation/Terrain](#vegitationterrain)
   - [Volumes](#volumes)
-  - 
+- [Learning Materials](#learning-materials)
+  - [HIPs](#hips)
+  - [Vex](#vex)
+  - [Scripts/Dev](#scriptsdev)
+  - [Youtube/Vimeo Channels](#youtubevimeo-channels)
+  - [Blogs/Personal Sites](#blogspersonal-sites) 
 
 ---
 - ### Assets
@@ -143,7 +148,7 @@ t.
        - [Wind and Turbulance HDA](https://vimeo.com/260587977) Creates wind and turbulence data to transfer into Dops to get better results than the "Gas wind" node.
        
     
-- ###Tools/Extensions
+- ### Tools/Extensions
   - ### Development 
     - [Houdini_TDK](https://github.com/anvdev/Houdini_TDK) Tool Development Kit for SideFX Houdini
     - [Help Card Maker](https://github.com/cgtoolbox/HelpCardMaker) A tool to create easily help cards for your digital assets.
@@ -191,7 +196,7 @@ t.
 _______
 
 ### Learning Materials
-- HIPS
+- ### HIPS
   - [junichirohorikawa - Houdini Howtos](https://github.com/jhorikawa/HoudiniHowtos)
   - [Atom Tutorial Hip Library](https://forums.odforce.net/topic/49522-tutorial-hip-library/)
   - [Nitzan Tregerman Community Projects](https://github.com/nitzan-treg)
@@ -209,7 +214,7 @@ _______
   - [Fix Particle Stepping](https://voxyde.gumroad.com/l/bmyin?recommended_by=search)
   - [Robotic Arm Kinefx Demo](https://www.sidefx.com/forum/topic/77562/?page=1#post-369057) 
   
-- Vex
+- ### Vex
   - [Kuchavo/Vex-Snippets](https://github.com/Kuchavo/VEX-Snippets) A collection of useful VEX snippets for Houdini.
   - [Jtmori/Vex Tutorial](https://github.com/jtomori/vex_tutorial) 📑 A collection of code snippets and examples showing syntax and capabilities of VEX language inside SideFX Houdini
   - [Vex and Hscript Reference](https://github.com/benjamin-white/vex-and-hscript-reference) Reference notes for using VEX and HScript in Houdini
@@ -225,7 +230,7 @@ _______
   - [OlegAleks/VEX](https://github.com/OlegAleks/VEX) Everyday code snippets
 
   
-- Scripting/Dev
+- ### Scripting/Dev
   - [Houdini ICPP](https://github.com/nrosenstein-old/houdini-icpp) An additional layer on top of the Houdini inlinecpp module that makes writing, debugging and distributing Inline-C++ modules easier.
   - [Houdini Vex Help](https://github.com/cgtoolbox/vscode-houdinivexhelp) VSCode extension that mimics the behavior of the wrangle nodes "open help from selected text", but directly in vscode.
   - [VEX](https://github.com/teared/VEX) Houdini addon for Sublime Text
@@ -243,7 +248,7 @@ _______
   - [Emacs Houdini Vex Mode](https://github.com/gearslogy/Emacs-Houdini-vex-mode) Emacs autocomplete for VEX.
   - [Sublime Debugger Houdini](https://github.com/blurstudio/sublime_debugger-HoudiniUI) This adapter serves as a "middleman" between the Sublime Debugger plugin and a DAP implementation for python (debugpy) injected into Houdini.
 
-- Misc
+- ### Misc
   - [Jtmori - VFX Goodnight Reading](https://github.com/jtomori/vfx_good_night_reading)📚 Curated collection of good reading about VFX and CG
   - [Houdini NodeShape Converter](https://github.com/nrosenstein-old/houdini-nodeshape-converter) Convert SVG paths to Houdini JSON nodeshapes.
   - [Houdini Manage](https://github.com/nrosenstein-old/houdini-manage) Qt GUI and Command-line to manage Houdini libraries
@@ -254,7 +259,7 @@ _______
   - [Elna](https://github.com/deepakxyz/Elna) Command Line Interface for visual effects project and asset management. It also has a Houdini project management tools with an ability to publish Otls.
    - [houdini2vr](https://github.com/jtomori/houdini2vr) Preview your Houdini mono/stereo VR renders in VR headset. This tool takes displayed image plane in Render View pane and displays it in your VR headset.
   - [Houdini Tricks Tumblr](https://houdinitricks.tumblr.com/) Assorted Houdini tips and quick tutorials
-- YouTube/Vimeo Channels
+- ### YouTube/Vimeo Channels
   - [VFX Magic](https://www.youtube.com/c/VFXMagics)
   - [Entagma](https://www.youtube.com/c/Entagma)
   - [Stormz](https://www.youtube.com/c/Stormz)
