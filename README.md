@@ -13,7 +13,7 @@ TOC
 
 
 ---
-- Assets
+- # Assets
   - General Purpose Asset Libraries/Toolboxes
     - [qLab](https://github.com/qLab/qLib)
     - [SideFx Labs](https://github.com/sideeffects/SideFXLabs)
