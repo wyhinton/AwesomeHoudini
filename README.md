@@ -8,7 +8,8 @@ Sourced from Github, Gumroad, OdForce, and miscellaneous google drive links. I'v
 
 Note that not all assets may be compatible with your houdini licensce/version.
 
-TOC
+---
+### Table of Contents 📚
 - [Assets](#Assets)
   -  [General Purpose Asset Libraries/Toolboxes](#general-purpose-asset-librariestoolboxes)
   -  [Geo/Editing](#geoediting)
