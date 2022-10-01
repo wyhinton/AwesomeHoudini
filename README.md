@@ -147,7 +147,7 @@ t.
        - [Sparse Pyro Upres](https://drive.google.com/drive/folders/1H4Y0HNELDJ6lmHsM43eEI_lRgNuCEaxX) The sparse upres solver is a deeply modified sparse pyro that allow the user to quickly upres a smoke simulation from simple inputs
        - [Wind and Turbulance HDA](https://vimeo.com/260587977) Creates wind and turbulence data to transfer into Dops to get better results than the "Gas wind" node.
        
-    
+--- 
 - ### Tools/Extensions
   - ### Development 
     - [Houdini_TDK](https://github.com/anvdev/Houdini_TDK) Tool Development Kit for SideFX Houdini
