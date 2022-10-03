@@ -349,6 +349,7 @@ _______
   - [Sadjad Rabiee](https://www.youtube.com/c/sadjadrabiee)
   - [Poly Marvels](https://www.youtube.com/channel/UCqXuTLiaL-jqvn3LK1XlwHg)
   - [Resillient Picture Company](https://www.youtube.com/c/ResilientPictureCompany) 
+  - [Dokai Tutorials](https://www.youtube.com/c/DokaiTutorials)
 
 - ### Blogs/Personal Sites
   - [Bernie Bernie](https://berniebernie.fr/wiki/Main_Page) 
