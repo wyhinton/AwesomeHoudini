@@ -86,6 +86,7 @@ Note that not all assets may be compatible with your houdini licensce/version.
          - [Kerning Tool](https://forums.odforce.net/topic/42827-kerning-tool/) Kerning typography in Houdini.
          - [Curve to Rope Tool](https://vimeo.com/248878221)
        - ### Edit/Process 
+         - [Hard Gun](https://github.com/mifth/mifthtools/tree/master/houdini/toolbar/HardGun) Box cutter like hard surface modeling tool kit
          - [Microbot VDB Painter](https://microbot.ch/new/vdb-painter/) mbPainter for Sidefx Houdini is an Artist Friendly Set of Tools for interactive Manipulation of OpenVDB (www.openvdb.org) SDF Volumes.
          - [Camera Culling Tool](https://thomasjt017.gumroad.com/l/BvVSXK) The Culling Tool takes in geometry and culls it based on a camera view, either on a single frame or a range of frames; with extra options such as the ability to keep objects based on connectivity.
          - [Houdini Plugin for Mesh Reparation](https://github.com/Ozeuth/Houdini-Plugin-For-Mesh-Reparation) An artist-centered tool to repair meshes with holes. Such holes are filled with coherent, context-aware new patches with correct topology and microsurface detail. This tool is packaged as a Houdini Digital Asset, making a user-friendly, integrated plugin for Mesh Reparation.
