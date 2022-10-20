@@ -65,6 +65,7 @@ Note that not all assets may be compatible with your houdini licensce/version.
     - [LaidLawFx](https://github.com/LaidlawFX/LaidlawFX)
     - [Nama-Gatsuo HDA Sketches](https://github.com/nama-gatsuo/HDA_Sketches)
     - [Nikla Rosenstein Houdini Library](https://github.com/nrosenstein-old/houdini-library)
+    - [aa_tools](https://github.com/andrey214/aa_tools)
     
   - ### Categories
     - ### Geo/Editing
