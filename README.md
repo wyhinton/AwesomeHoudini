@@ -215,6 +215,7 @@ _______
   - [Free VDB Clouds](https://assetsvfx.gumroad.com/l/RcgNe?recommended_by=search) Pack of 3 cloud VDBs for large Ariel views.
   - [Fix Particle Stepping](https://voxyde.gumroad.com/l/bmyin?recommended_by=search)
   - [Robotic Arm Kinefx Demo](https://www.sidefx.com/forum/topic/77562/?page=1#post-369057) 
+  - [Assorted Houdini Demos](https://github.com/jakericedesigns/Assorted-Houdini-Demos)
   
 - ### Vex
   - [Kuchavo/Vex-Snippets](https://github.com/Kuchavo/VEX-Snippets) A collection of useful VEX snippets for Houdini.
