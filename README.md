@@ -132,6 +132,7 @@ t.
        - [Path Solver HDA](https://lavrenovlad.gumroad.com/l/fkQSl) Path Solver is a Houdini Digital Asset solving points/objects along any path without them intersecting each other. 
        - [Dune Solver](https://matthewjukes.gumroad.com/l/dunesolver?recommended_by=search)
        - [Diffusion Limited Aggregation](https://github.com/jroy1992/Diffusion-Limited-Aggregation) Create fractal like growth inside 3D geometry using the principle of Diffusion Limited Aggregation. The implementation has been done in three parts: Text and 3D Geometry and Intersection
+       - [Wiggly](https://github.com/wayne-wu/wiggly) Spacetime Constraints for Deformable Objects in Houdini
     - ### Wrangles/Code
        - [OpenCL Wrangle COP](https://vimeo.com/223407863) This operator allows you to run an OpenCL kernel as part of your COP network. Depending on the GPU, some operators can be orders of magnitude faster than even VEX.
        - [CPP Wrangle](https://github.com/lecopivo/cpp-wrangle) This Houdini node allows you to write wrangle nodes in C++ instead of VEX.
