@@ -354,6 +354,7 @@ _______
   - [Poly Marvels](https://www.youtube.com/channel/UCqXuTLiaL-jqvn3LK1XlwHg)
   - [Resillient Picture Company](https://www.youtube.com/c/ResilientPictureCompany) 
   - [Dokai Tutorials](https://www.youtube.com/c/DokaiTutorials)
+  - [Paweł Rutkowski](https://vimeo.com/pawelrutkowski)
 
 - ### Blogs/Personal Sites
   - [Bernie Bernie](https://berniebernie.fr/wiki/Main_Page) 
