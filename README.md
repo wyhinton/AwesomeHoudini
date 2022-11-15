@@ -66,6 +66,7 @@ Note that not all assets may be compatible with your houdini licensce/version.
     - [Nama-Gatsuo HDA Sketches](https://github.com/nama-gatsuo/HDA_Sketches)
     - [Nikla Rosenstein Houdini Library](https://github.com/nrosenstein-old/houdini-library)
     - [aa_tools](https://github.com/andrey214/aa_tools)
+    - [JDB Houdini Toolkit](https://bitbucket.org/jcdeblok/workspace/projects/PROJ)
     
   - ### Categories
     - ### Geo/Editing
