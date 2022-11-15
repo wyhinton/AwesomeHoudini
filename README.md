@@ -355,6 +355,7 @@ _______
   - [Resillient Picture Company](https://www.youtube.com/c/ResilientPictureCompany) 
   - [Dokai Tutorials](https://www.youtube.com/c/DokaiTutorials)
   - [Paweł Rutkowski](https://vimeo.com/pawelrutkowski)
+  - [Procedural Kate](https://www.youtube.com/channel/UCbBVDltzL3eoADdraZGuuEg)
 
 - ### Blogs/Personal Sites
   - [Bernie Bernie](https://berniebernie.fr/wiki/Main_Page) 
