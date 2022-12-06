@@ -67,6 +67,7 @@ Note that not all assets may be compatible with your houdini licensce/version.
     - [Nikla Rosenstein Houdini Library](https://github.com/nrosenstein-old/houdini-library)
     - [aa_tools](https://github.com/andrey214/aa_tools)
     - [JDB Houdini Toolkit](https://bitbucket.org/jcdeblok/workspace/projects/PROJ)
+    - [mifthtools](https://github.com/mifth/mifthtools)
     
   - ### Categories
     - ### Geo/Editing
