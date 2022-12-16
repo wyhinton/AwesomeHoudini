@@ -360,6 +360,7 @@ _______
   - [Procedural Kate](https://www.youtube.com/channel/UCbBVDltzL3eoADdraZGuuEg)
   - [Chris Roda](https://www.youtube.com/@RudeyPunk)
   - [Peter Quint](https://www.youtube.com/@peterquint6840)
+  - [Yancy Lindquist](https://vimeo.com/yancyquist)
 
 - ### Blogs/Personal Sites
   - [Bernie Bernie](https://berniebernie.fr/wiki/Main_Page) 
