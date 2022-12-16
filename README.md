@@ -361,6 +361,7 @@ _______
   - [Chris Roda](https://www.youtube.com/@RudeyPunk)
   - [Peter Quint](https://www.youtube.com/@peterquint6840)
   - [Yancy Lindquist](https://vimeo.com/yancyquist)
+  - [Houdini Vex](https://www.youtube.com/@houdinivex3897)
 
 - ### Blogs/Personal Sites
   - [Bernie Bernie](https://berniebernie.fr/wiki/Main_Page) 
