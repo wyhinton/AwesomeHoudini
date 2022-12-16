@@ -358,6 +358,7 @@ _______
   - [Dokai Tutorials](https://www.youtube.com/c/DokaiTutorials)
   - [Paweł Rutkowski](https://vimeo.com/pawelrutkowski)
   - [Procedural Kate](https://www.youtube.com/channel/UCbBVDltzL3eoADdraZGuuEg)
+  - [Chris Roda](https://www.youtube.com/@RudeyPunk)
 
 - ### Blogs/Personal Sites
   - [Bernie Bernie](https://berniebernie.fr/wiki/Main_Page) 
