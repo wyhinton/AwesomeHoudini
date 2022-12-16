@@ -68,6 +68,7 @@ Note that not all assets may be compatible with your houdini licensce/version.
     - [aa_tools](https://github.com/andrey214/aa_tools)
     - [JDB Houdini Toolkit](https://bitbucket.org/jcdeblok/workspace/projects/PROJ)
     - [mifthtools](https://github.com/mifth/mifthtools)
+    - [Zenv](https://github.com/CorvaeOboro/zenv)
     
   - ### Categories
     - ### Geo/Editing
@@ -183,7 +184,6 @@ t.
       - [Houdini Subdiv Isolines Display](https://github.com/crystalboxes/Houdini-Subdiv-Isolines-Display) Render hook for drawing subdivision surface isolines in the viewport.
    - ### Hip File
       - [Hip Meta Stripper](https://github.com/pedohorse/hip-meta-stripper) Strips metadata from your hip files.
-      - [ZENV](https://github.com/CorvaeOboro/zenv) https://github.com/CorvaeOboro/zenv
    - ### Misc
       - [hou_packager](https://github.com/Njordy/hou_packager) A simple SideFX Houdini package manager. It lets the user to easily "install", disable or delete any (ready) Houdini HDA libraries.
       - [Houlean](https://github.com/lecopivo/HouLean) This Houdini plugin allows you to use Lean 4 as a scripting language/replacement of VEX. This plugin is highly experimental!
