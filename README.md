@@ -389,6 +389,7 @@ _______
   - [Oded Maoz](https://odederell3d.blog/tag/houdini/)
   - [Kate Xagoraris](https://www.katexagoraris.com/)
   - [Seeing Procedurally](http://seeingprocedurally.blogspot.com/)
+  - [Beka Baratashvili](https://beka3d.com/hda/)
 
   
   
