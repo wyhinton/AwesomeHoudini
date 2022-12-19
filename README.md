@@ -318,7 +318,6 @@ _______
   - [Momo's Fx](https://www.youtube.com/channel/UC3Nr7exRwk8GPMAGPRKjBpw/videos) 
   - [Diffuse FX](https://www.youtube.com/c/DiffuseFX)
   - [Doxia Studio](https://www.youtube.com/c/DoxiaStudio)
-  - [Terranimator](https://www.youtube.com/watch?v=MB2YojnvbXE)
   - [Steven Knipping](https://www.youtube.com/user/nothingifnotcritical)
   - [CG Katana](https://www.youtube.com/c/CGKATANA/videos)
   - [Ricardo Ponce](https://www.youtube.com/user/ribponce)
