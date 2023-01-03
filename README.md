@@ -362,7 +362,7 @@ _______
   - [Peter Quint](https://www.youtube.com/@peterquint6840)
   - [Yancy Lindquist](https://vimeo.com/yancyquist)
   - [Houdini Vex](https://www.youtube.com/@houdinivex3897)
-  - [Alexander Wwide](https://www.youtube.com/@AlexandersArtwork)
+  - [Alexander Weide](https://www.youtube.com/@AlexandersArtwork)
 
 - ### Blogs/Personal Sites
   - [Bernie Bernie](https://berniebernie.fr/wiki/Main_Page) 
