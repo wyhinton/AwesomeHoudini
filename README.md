@@ -364,6 +364,7 @@ _______
   - [Houdini Vex](https://www.youtube.com/@houdinivex3897)
   - [Alexander Weide](https://www.youtube.com/@AlexandersArtwork)
   - [Going Procedural](https://www.youtube.com/@GoingProcedural)
+  - [Juanjo Martínez](https://www.youtube.com/@JuanjoMartinezVFX)
 
 - ### Blogs/Personal Sites
   - [Bernie Bernie](https://berniebernie.fr/wiki/Main_Page) 
