@@ -365,6 +365,7 @@ _______
   - [Alexander Weide](https://www.youtube.com/@AlexandersArtwork)
   - [Going Procedural](https://www.youtube.com/@GoingProcedural)
   - [Juanjo Martínez](https://www.youtube.com/@JuanjoMartinezVFX)
+  - [Zaixin Zhang](https://www.youtube.com/@zaixinzhang6602)
 
 - ### Blogs/Personal Sites
   - [Bernie Bernie](https://berniebernie.fr/wiki/Main_Page) 
