@@ -394,6 +394,7 @@ _______
   - [Kate Xagoraris](https://www.katexagoraris.com/)
   - [Seeing Procedurally](http://seeingprocedurally.blogspot.com/)
   - [Beka Baratashvili](https://beka3d.com/hda/)
+  - [Model What You See](https://www.youtube.com/@ModelWhatYouSee)
 
   
   
