@@ -366,6 +366,7 @@ _______
   - [Going Procedural](https://www.youtube.com/@GoingProcedural)
   - [Juanjo Martínez](https://www.youtube.com/@JuanjoMartinezVFX)
   - [Zaixin Zhang](https://www.youtube.com/@zaixinzhang6602)
+  - [Nelson Lim](https://www.youtube.com/@NelsonLim)
 
 - ### Blogs/Personal Sites
   - [Bernie Bernie](https://berniebernie.fr/wiki/Main_Page) 
