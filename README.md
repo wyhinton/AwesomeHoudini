@@ -220,6 +220,8 @@ _______
   - [Fix Particle Stepping](https://voxyde.gumroad.com/l/bmyin?recommended_by=search)
   - [Robotic Arm Kinefx Demo](https://www.sidefx.com/forum/topic/77562/?page=1#post-369057) 
   - [Assorted Houdini Demos](https://github.com/jakericedesigns/Assorted-Houdini-Demos)
+  - [houdinicr](https://github.com/crch89/houdinicr) 
+
   
 - ### Vex
   - [Kuchavo/Vex-Snippets](https://github.com/Kuchavo/VEX-Snippets) A collection of useful VEX snippets for Houdini.
