@@ -170,6 +170,7 @@ t.
      - ### Misc 
        - [hpaste](https://github.com/pedohorse/hpaste) Simple plain text snippet exchange for Houdini.
      - ### Panels
+       - [Houdini-Keyframe-Breakdowner](https://github.com/noadanimation/Houdini-Keyframe-Breakdowner) Python panel for Houdini to easily add inbetween poses to animations
        - [Womrhole Content Browser](https://wormholetools.gumroad.com/l/whbrowser) The Wormhole Content Browser is a custom UI for Houdini that enables quick browsing, previewing, and importing of content into Houdini.
        - [Vex Snippet Library](https://github.com/dchow1992/Vex_Snippet_Library) Python Panel utility for creating, storing, and accessing vex snippets in Houdini.
        - [Marking Menu](https://github.com/dchow1992/houdini_markingmenu) Marking Menu for the Houdini network editor. Fast access to node creation, placement, toolscripts, and shelf tools
