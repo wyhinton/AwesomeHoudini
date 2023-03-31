@@ -89,6 +89,7 @@ Note that not all assets may be compatible with your houdini licensce/version.
          - [Gear Builder](https://forums.odforce.net/topic/49710-jerrys-things/?tab=comments#comment-227576)
          - [Kerning Tool](https://forums.odforce.net/topic/42827-kerning-tool/) Kerning typography in Houdini.
          - [Curve to Rope Tool](https://vimeo.com/248878221)
+         - [GPattern](https://github.com/alexxbb/gpattern) Houdini plugin for seamlessly tiling geometry on the surface of another geometry.
        - ### Edit/Process 
          - [Hard Gun](https://github.com/mifth/mifthtools/tree/master/houdini/toolbar/HardGun) Box cutter like hard surface modeling tool kit
          - [Microbot VDB Painter](https://microbot.ch/new/vdb-painter/) mbPainter for Sidefx Houdini is an Artist Friendly Set of Tools for interactive Manipulation of OpenVDB (www.openvdb.org) SDF Volumes.
@@ -258,6 +259,11 @@ _______
   - [Houdini Silent Install Script](https://github.com/paulwinex/houdini_install_script)Automatically (silent) downloads and installs latest Houdini build. Good solution for studio pipeline!
   - [Emacs Houdini Vex Mode](https://github.com/gearslogy/Emacs-Houdini-vex-mode) Emacs autocomplete for VEX.
   - [Sublime Debugger Houdini](https://github.com/blurstudio/sublime_debugger-HoudiniUI) This adapter serves as a "middleman" between the Sublime Debugger plugin and a DAP implementation for python (debugpy) injected into Houdini.
+  - [Hapi-rs](https://github.com/alexxbb/hapi-rs) Idiomatic Rust bindings to Houdini Engine C API
+  - [Hapi-sys](https://github.com/alexxbb/hapi-sys) Raw Rust bindings to Houdini Engine API
+  - [Huilib](https://github.com/alexxbb/huilib) A minimalistic Python wrapper for Houdini native UI script
+  - [
+  
 
 - ### Misc
   - [Jtmori - VFX Goodnight Reading](https://github.com/jtomori/vfx_good_night_reading)📚 Curated collection of good reading about VFX and CG
