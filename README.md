@@ -377,6 +377,8 @@ _______
   - [Juanjo Martínez](https://www.youtube.com/@JuanjoMartinezVFX)
   - [Zaixin Zhang](https://www.youtube.com/@zaixinzhang6602)
   - [Nelson Lim](https://www.youtube.com/@NelsonLim)
+  - [Diyz3n](https://www.youtube.com/@diyz3n)
+
 
 - ### Blogs/Personal Sites
   - [Bernie Bernie](https://berniebernie.fr/wiki/Main_Page) 
@@ -407,7 +409,6 @@ _______
   - [Beka Baratashvili](https://beka3d.com/hda/)
   - [Model What You See](https://www.youtube.com/@ModelWhatYouSee)
   - [fxnotes](https://fxnotes.xyz/notes/Houdini)
-  - [Diyz3n](https://www.youtube.com/@diyz3n)
 
   
   
