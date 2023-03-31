@@ -262,7 +262,7 @@ _______
   - [Hapi-rs](https://github.com/alexxbb/hapi-rs) Idiomatic Rust bindings to Houdini Engine C API
   - [Hapi-sys](https://github.com/alexxbb/hapi-sys) Raw Rust bindings to Houdini Engine API
   - [Huilib](https://github.com/alexxbb/huilib) A minimalistic Python wrapper for Houdini native UI script
-  - [
+  - [Houdini Docker](https://github.com/aaronsmithtv/Houdini-Docker) An automated workflow for containerizing SideFX Houdini installations with Docker
   
 
 - ### Misc
