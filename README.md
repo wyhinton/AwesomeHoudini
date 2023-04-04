@@ -378,6 +378,7 @@ _______
   - [Zaixin Zhang](https://www.youtube.com/@zaixinzhang6602)
   - [Nelson Lim](https://www.youtube.com/@NelsonLim)
   - [Diyz3n](https://www.youtube.com/@diyz3n)
+  - [VFxGrace](https://www.youtube.com/@VFXGrace)
 
 
 - ### Blogs/Personal Sites
