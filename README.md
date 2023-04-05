@@ -379,6 +379,7 @@ _______
   - [Nelson Lim](https://www.youtube.com/@NelsonLim)
   - [Diyz3n](https://www.youtube.com/@diyz3n)
   - [VFxGrace](https://www.youtube.com/@VFXGrace)
+  - [3DGo](https://www.youtube.com/@3dgo233)
 
 
 - ### Blogs/Personal Sites
