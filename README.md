@@ -380,6 +380,7 @@ _______
   - [Diyz3n](https://www.youtube.com/@diyz3n)
   - [VFxGrace](https://www.youtube.com/@VFXGrace)
   - [3DGo](https://www.youtube.com/@3dgo233)
+  - [Edmond Boulet-Gilly](https://www.youtube.com/@EdmondBouletGilly)
 
 
 - ### Blogs/Personal Sites
