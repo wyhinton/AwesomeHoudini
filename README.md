@@ -383,6 +383,7 @@ _______
   - [3DGo](https://www.youtube.com/@3dgo233)
   - [Edmond Boulet-Gilly](https://www.youtube.com/@EdmondBouletGilly)
   - [TDSW](https://www.youtube.com/@TDSW-online)
+  - [Fabian Strube](https://www.youtube.com/@FabianStrube)
 
 
 - ### Blogs/Personal Sites
