@@ -17,7 +17,7 @@ Note that not all assets may be compatible with your houdini licensce/version.
      - [Edit](#editprocess)
   - [AI](#ai)
   - [Kinefx](#kinefx)
-  - [Maths/Logic](#mathslogic)
+  - [Advanced Math](#advancedmath)
   - [Misc/Util](#miscutil)
   - [Pipeline/Pdg](#pipelinepdg)
   - [Rendering/Materials](#renderingmaterials)
@@ -74,6 +74,7 @@ Note that not all assets may be compatible with your houdini licensce/version.
   - ### Categories
     - ### Geo/Editing
       - ### Generate
+         - [VFX Fractal Tookit](https://github.com/jtomori/vft) Set of tools for generating fractal and generative art.  
          - [Isogrid Houdini SOP](https://github.com/crystalboxes/isogrid-houdini-sop) voxel-based generative geometry
          - [ae_SVG](https://github.com/Aeoll/ae_SVG) SVG Importer and Exporter for Houdini
          - [kitbash-parser](https://github.com/MatthewZub/houdini-kitbashparser) 'Kitbash Parser' is a kit of tools to work with kitbash packs in Houdini.
@@ -109,9 +110,8 @@ t.
       
     - ### KineFx
        - [Kinefx Tools](https://github.com/kamilhepner/kinefx_tools) Collection of rigging tools and utils for Houdini Kinefx 
-    - ### Maths/Logic
+    - ### Advanced Math
        - [AVL](https://github.com/anvdev/AVL) Advanced function library, written in VEX language for SideFX Houdini. Now in development.
-       - [VFX Fractal Tookit](https://github.com/jtomori/vft) Set of tools for generating fractal and generative art.
        - [Houdini-x4d](https://github.com/pedohorse/houdini-x4d/tree/master/otls) Assets for working in 4d space in Houdini.
        - [Gear Logic](https://github.com/pedohorse/gearlogic) Framework for mechanical logic circuits for Houdini
        - [Houdini Matrix Library](https://github.com/jakericedesigns/Houdini-Matrix-Library) Library for large linear operations with VEX in Houdini.
