@@ -70,6 +70,7 @@ Note that not all assets may be compatible with your houdini licensce/version.
     - [JDB Houdini Toolkit](https://bitbucket.org/jcdeblok/workspace/projects/PROJ)
     - [mifthtools](https://github.com/mifth/mifthtools)
     - [Zenv](https://github.com/CorvaeOboro/zenv)
+    - [Gt Houdini Assets](https://github.com/TrevisanGMW/gt-houdini-assets)
     
   - ### Categories
     - ### Geo/Editing
@@ -152,6 +153,7 @@ t.
        - [Palladio](https://github.com/Esri/palladio) Palladio enables the execution of CityEngine CGA rules inside of SideFX Houdini.
        - [Catacomb](https://github.com/amovfx/Catacomb) A procedural dungeon generator in Houdini.  
        - [Houdini TaleSpire Terrain Generation Toolset](https://github.com/Baldrax/Houdini_TaleSpire_Terrain_Generation_Toolset) A toolset to procedurally create terrain for TaleSpire in Houdini.
+       - [River Procedural Tool](https://github.com/Pyrrhulla/River_Procedural_tool) Houdini procedural tool for creating rivers
        - [JZTrees](https://github.com/joshuazt/JZTREES) Houdini procedural vegetation generator and FX toolkit
        - [Nature Tools](https://github.com/shvetsov-art/nature_tools) Scripts assets for creating procedural forest
        - [treegen](https://github.com/demiaster/treegen) Vegetation Generation Tool for Houdini. The Digital Asset implements the space colonization algorithm by Runions et al (2007). The asset can be used to easily produce natural tree structures allowing control over the growth by shaping the roots, the foliage and the way the tree fills up the space.
