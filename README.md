@@ -17,18 +17,18 @@ Note that not all assets may be compatible with your houdini licensce/version.
      - [Edit](#editprocess)
   - [AI](#ai)
   - [Kinefx](#kinefx)
-  - [Advanced Math](#advancedmath)
+  - [Advanced Math](#advanced-math)
   - [Misc/Util](#miscutil)
   - [Pipeline/Pdg](#pipelinepdg)
   - [Rendering/Materials](#renderingmaterials)
   - [Solver/Sim](#solversim)
   - [Wrangles](#wranglescode)
-  - [Terrain and Environments](#terrainandenvironments)
+  - [Environments](#environments)
   - [Volumes](#volumes)
 - [Learning Materials](#learning-materials)
   - [HIPs](#hips)
   - [Vex](#vex)
-  - [Scripts/Dev](#scriptsdev)
+  - [Scripts and Development Tools](#scripts-and-development-tools)
   - [Youtube/Vimeo Channels](#youtubevimeo-channels)
   - [Blogs/Personal Sites](#blogspersonal-sites) 
 
@@ -205,7 +205,7 @@ Note that not all assets may be compatible with your houdini licensce/version.
       - [hdBlackbird](https://github.com/tangent-opensource/hdBlackbird) A USD/Hydra RenderDelegate plugin that adds support for the Blackbird renderer (a fork of the Blender Foundation's Cycles renderer) to any client.
       - [Houdini Shader Converter](https://github.com/SideswipeeZ/houdini-shader-converter) Houdini Python Shelf tool for Converting Shaders within Houdini using JSON
       - [Houdini CopyToFram](https://github.com/eglaubauf/Houdini_CopyToFarm) This script provides a window in which the user is able to select a directory to copy the current file and it´s dependencies to a different, arbitrary location (e.g. a network storage). In this process the script will copy all linked/referenced files to the chosen location as long as they are below the current workspace.
-  - ### Scripts
+  - ### Scripts and Development Tools
       - [Null Between Bones](https://github.com/Kuchavo/Null-Between-Bones-Houdini-Tool) Creation of 'Null' nodes between all selected nodes (e.g. 'Bone' nodes). Useful for creation of controls for rigging.
      - [cmhbenjamin/Houdini Scripts](https://github.com/cmhbenjamin/Houdini-Scripts) Flipbooksettingssaver/pointAttributeHistogram assets.
      - [JoseZalez/Houdini Scripts](https://github.com/JoseZalez/Houdini-scripts) Library of houdini scripts and tools (VEX, Python, OpenCL).
