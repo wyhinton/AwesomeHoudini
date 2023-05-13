@@ -15,14 +15,15 @@ Note that not all assets may be compatible with your houdini licensce/version.
   -  [Geo/Editing](#geoediting)
      - [Generate](#generate)
      - [Edit](#editprocess)
+  - [AI](#ai)
   - [Kinefx](#kinefx)
   - [Maths/Logic](#mathslogic)
   - [Misc/Util](#miscutil)
   - [Pipeline/Pdg](#pipelinepdg)
   - [Rendering/Materials](#renderingmaterials)
   - [Solver/Sim](#solversim)
-  - [Wrangles/Code](#wranglescode)
-  - [Vegitation/Terrain](#vegitationterrain)
+  - [Wrangles](#wranglescode)
+  - [Terrain and Environments](#terrainandenvironments)
   - [Volumes](#volumes)
 - [Learning Materials](#learning-materials)
   - [HIPs](#hips)
@@ -102,6 +103,10 @@ Note that not all assets may be compatible with your houdini licensce/version.
          - [Houdini Transform Matcher](https://github.com/mruegenberg/houdini-transform-matcher) A Houdini DSO that extracts the transform between two sets of points.
          - [Blend Geo](https://wouttengrootenhuysen.gumroad.com/l/ooffu) Blend geometry with a displaced version of it. It has the option of combining masks and setting a range/falloff from those mask.
 t.
+    - ### AI
+        - [Stable Houdini](https://github.com/stassius/StableHoudini) Stable Diffusion Houdini Toolset
+        - [MLOPS](https://github.com/Bismuth-Consultancy-BV/MLOPs) Machine Learning Toolset for Houdini
+      
     - ### KineFx
        - [Kinefx Tools](https://github.com/kamilhepner/kinefx_tools) Collection of rigging tools and utils for Houdini Kinefx 
     - ### Maths/Logic
@@ -143,7 +148,8 @@ t.
        - [CPP Wrangle](https://github.com/lecopivo/cpp-wrangle) This Houdini node allows you to write wrangle nodes in C++ instead of VEX.
        - [Nvidia Warp Houdini](https://github.com/christophercrouzet/nvidia-warp-houdini) Exposes NVIDIA's Warp framework to Houdini.NVIDIA's Warp provides access to running high-performance kernels either on the CPU or GPU, all with the convenience of writing the code in Python.
        - [GSS Call Python](https://github.com/shervinazadi/GSS_Call_Python) Houdini Asset for Running a Python Script within a specific Python Environment
-     - ### Vegitation/Terrain
+     - ### Environments
+       - [Palladio](https://github.com/Esri/palladio) Palladio enables the execution of CityEngine CGA rules inside of SideFX Houdini.
        - [Catacomb](https://github.com/amovfx/Catacomb) A procedural dungeon generator in Houdini.  
        - [Houdini TaleSpire Terrain Generation Toolset](https://github.com/Baldrax/Houdini_TaleSpire_Terrain_Generation_Toolset) A toolset to procedurally create terrain for TaleSpire in Houdini.
        - [JZTrees](https://github.com/joshuazt/JZTREES) Houdini procedural vegetation generator and FX toolkit
