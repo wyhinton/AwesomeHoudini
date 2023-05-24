@@ -392,6 +392,7 @@ _______
   - [Edmond Boulet-Gilly](https://www.youtube.com/@EdmondBouletGilly)
   - [TDSW](https://www.youtube.com/@TDSW-online)
   - [Fabian Strube](https://www.youtube.com/@FabianStrube)
+  - [PDRX/Bastian J. Schiffer](https://vimeo.com/prdx)
 
 
 - ### Blogs/Personal Sites
