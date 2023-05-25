@@ -393,6 +393,7 @@ _______
   - [TDSW](https://www.youtube.com/@TDSW-online)
   - [Fabian Strube](https://www.youtube.com/@FabianStrube)
   - [PDRX/Bastian J. Schiffer](https://vimeo.com/prdx)
+  - [CGI Nerd](https://www.youtube.com/@CGINerd)
 
 
 - ### Blogs/Personal Sites
