@@ -394,6 +394,7 @@ _______
   - [Fabian Strube](https://www.youtube.com/@FabianStrube)
   - [PDRX/Bastian J. Schiffer](https://vimeo.com/prdx)
   - [CGI Nerd](https://www.youtube.com/@CGINerd)
+  - [CGI Artist Academy](https://www.youtube.com/@CGArtistAcademy)
 
 
 - ### Blogs/Personal Sites
