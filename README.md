@@ -395,6 +395,7 @@ _______
   - [PDRX/Bastian J. Schiffer](https://vimeo.com/prdx)
   - [CGI Nerd](https://www.youtube.com/@CGINerd)
   - [CGI Artist Academy](https://www.youtube.com/@CGArtistAcademy)
+  - [Ronald Fong](https://www.youtube.com/@RonaldFong)
 
 
 - ### Blogs/Personal Sites
