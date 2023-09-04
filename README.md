@@ -71,6 +71,7 @@ Note that not all assets may be compatible with your houdini licensce/version.
     - [mifthtools](https://github.com/mifth/mifthtools)
     - [Zenv](https://github.com/CorvaeOboro/zenv)
     - [Gt Houdini Assets](https://github.com/TrevisanGMW/gt-houdini-assets)
+    - [HDA-s-for-gamedev-Unreal-engine](https://github.com/faxcorp/HDA-s-for-gamedev-Unreal-engine)
     
   - ### Categories
     - ### Geo/Editing
