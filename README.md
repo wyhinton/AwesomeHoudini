@@ -396,6 +396,7 @@ _______
   - [CGI Nerd](https://www.youtube.com/@CGINerd)
   - [CGI Artist Academy](https://www.youtube.com/@CGArtistAcademy)
   - [Ronald Fong](https://www.youtube.com/@RonaldFong)
+  - [Hey Traile](https://www.youtube.com/@heytraile/videos)
 
 
 - ### Blogs/Personal Sites
