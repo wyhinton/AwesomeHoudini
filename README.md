@@ -250,6 +250,7 @@ _______
   - [Houdini Vex Butterfly Curve](https://github.com/ObeidaZakzak/Houdini-VEX-Butterfly-Curve)
   - [Houdini Physical Simulations](https://github.com/stevedatelier/Houdini-Simulations) Notes and code snippets used to create volumes, oceans, fluid and more inside SideFX Houdini
   - [OlegAleks/VEX](https://github.com/OlegAleks/VEX) Everyday code snippets
+  - [Houdini-Tricks](https://github.com/MysteryPancake/Houdini-Tricks) Various Houdini tips and tricks 
 
   
 - ### Scripting/Dev
