@@ -399,6 +399,7 @@ _______
   - [CGI Artist Academy](https://www.youtube.com/@CGArtistAcademy)
   - [Ronald Fong](https://www.youtube.com/@RonaldFong)
   - [Hey Traile](https://www.youtube.com/@heytraile/videos)
+  - [Christopher Rutledge](https://www.youtube.com/@chr1st0pher)
 
 
 - ### Blogs/Personal Sites
