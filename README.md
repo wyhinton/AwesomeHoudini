@@ -206,6 +206,7 @@ Note that not all assets may be compatible with your houdini licensce/version.
       - [hou_packager](https://github.com/Njordy/hou_packager) A simple SideFX Houdini package manager. It lets the user to easily "install", disable or delete any (ready) Houdini HDA libraries.
       - [Houlean](https://github.com/lecopivo/HouLean) This Houdini plugin allows you to use Lean 4 as a scripting language/replacement of VEX. This plugin is highly experimental!
       - [MLHoudiniSamples](https://github.com/takavfx/MLHoudiniSamples) Samples for Machine Learning on Houdini.
+      - [Houdini Muzzle](https://github.com/notawhalevfx/houdini-muzzle) Houdini wrapper to start the application with special preferences
   - ### Rendering
       - [hdBlackbird](https://github.com/tangent-opensource/hdBlackbird) A USD/Hydra RenderDelegate plugin that adds support for the Blackbird renderer (a fork of the Blender Foundation's Cycles renderer) to any client.
       - [Houdini Shader Converter](https://github.com/SideswipeeZ/houdini-shader-converter) Houdini Python Shelf tool for Converting Shaders within Houdini using JSON
