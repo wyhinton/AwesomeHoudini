@@ -126,9 +126,9 @@ Note that not all assets may be compatible with your houdini licensce/version.
        - [Re-time Solver](https://forums.odforce.net/topic/42996-hda-retime-solver-intuitive-retiming-instant-solve/) Intuitive, "squash and stretch" style  retiming
        - [Houdini Tech Art Challenge Winners 2021](https://www.sidefx.com/tech-art-challenge-2021/) HPaint, Polyline Creator, Poly Slice Tool, and more  
        - [Color Palette Ramp](https://github.com/jamesrobinsonvfx/colorpaletteramp) A Houdini HDA that creates a ramp based on a color palette from an image.
+       - [VR Houdini Camera](https://github.com/mushyfruit/VR-Houdini-Camera) VR Viewport Camera Utility for Houdini
     - ### Pipeline/PDG
        - [Firehawk PDG Tools](https://github.com/firehawkvfx/firehawk-pdg-tools) A houdini package to aid PDG submission with auto-versioning, asset handling, and immmutable timestamped hip files for reproduction of content.
-       - [VR Houdini Camera](https://github.com/mushyfruit/VR-Houdini-Camera) VR Viewport Camera Utility for Houdini
        - [KDBRA Tools](https://github.com/kdbra/kdbra-houdini-tools) Production tools for SideFX Houdini
        - [Nagamochi_PDG](https://github.com/ShoheiOkazaki/Nagamochi_PDG) This is a TOP HDA library for SideFX's Houdini. There are some nodes for Maya, but those nodes are not perfect because I am not close to Maya. I'm looking forward to your advice!
        - [Houdini PRTROP](https://github.com/flipswitchingmonkey/houdini_PRTROP)
