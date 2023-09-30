@@ -25,6 +25,7 @@ Note that not all assets may be compatible with your houdini licensce/version.
   - [Wrangles](#wranglescode)
   - [Environments](#environments)
   - [Volumes](#volumes)
+  - [Cops](#cops)
 - [Learning Materials](#learning-materials)
   - [HIPs](#hips)
   - [Vex](#vex)
@@ -138,7 +139,8 @@ Note that not all assets may be compatible with your houdini licensce/version.
        - [egRedshiftTools](https://github.com/eglaubauf/egRedshiftTools) Tools for Redshift in SideFx Houdini
        - [egMantraTools](https://github.com/eglaubauf/egMantraTools) Tools For SidefX Houdinis Mantra Renderer
        - [Lookbox](https://www.patreon.com/posts/lookbox-beta-21308541) Look dev tool suite for Mantra
-       - [Redshift HDRI Creator](https://m.youtube.com/watch?v=HAWRBdkl1w4) Create/edit HDRIs 
+       - [Redshift HDRI Creator](https://m.youtube.com/watch?v=HAWRBdkl1w4) Create/edit HDRIs
+       - [Bayer Dithering COP](https://github.com/mishazawa/bayerditheringcop) 
     - ### Solver/Sim
        - [Point Based Growth HDA](https://itj.gumroad.com/l/pbg) Houdini point based growth Asset.
        - [Path Solver HDA](https://lavrenovlad.gumroad.com/l/fkQSl) Path Solver is a Houdini Digital Asset solving points/objects along any path without them intersecting each other. 
@@ -164,6 +166,7 @@ Note that not all assets may be compatible with your houdini licensce/version.
        - [Houdini-Plugin-for-Tensorflow-Smoke-Stylization](https://github.com/Ozeuth/Houdini-Plugin-for-Tensorflow-Smoke-Stylization) Tensorflow implementation of Style Transfer for Smoke Simulations. Created as part of ETH Zurich Student Summer Research Fellowship
        - [Sparse Pyro Upres](https://drive.google.com/drive/folders/1H4Y0HNELDJ6lmHsM43eEI_lRgNuCEaxX) The sparse upres solver is a deeply modified sparse pyro that allow the user to quickly upres a smoke simulation from simple inputs
        - [Wind and Turbulance HDA](https://vimeo.com/260587977) Creates wind and turbulence data to transfer into Dops to get better results than the "Gas wind" node.
+       - [Volume DICOM SOP](https://github.com/mishazawa/volumedicomsop) This operator allow to open DICOM data in Houdini and operate them as volumes.
        
 --- 
 - ### Tools/Extensions
