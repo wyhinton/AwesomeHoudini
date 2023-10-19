@@ -42,7 +42,7 @@ Note that not all assets may be compatible with your houdini licensce/version.
     - [HoudiniHPro](https://github.com/zengchen2015/HOUDINI_HPro)
     - [MCLabs](https://github.com/maximcapra/MCHoudiniLabs) 
     - [DMNK-tools](https://github.com/DominikLingenover/DMNK-Tools)
-    - [Nagamochi](https://github.com/ShoheiOkazaki/Nagamochi)
+    - [Nagamochi](https://github.com/ShoheiOkazaki/Nagamochi) 
     - [nLib](https://github.com/Njordy/nLib)
     - [Openfirehawk Houdini Tools](https://github.com/firehawkvfx/openfirehawk-houdini-tools)
     - [Houdini Utility Thread](https://www.sidefx.com/forum/topic/80497/?page=1#post-348642)
@@ -168,6 +168,7 @@ Note that not all assets may be compatible with your houdini licensce/version.
        - [Sparse Pyro Upres](https://drive.google.com/drive/folders/1H4Y0HNELDJ6lmHsM43eEI_lRgNuCEaxX) The sparse upres solver is a deeply modified sparse pyro that allow the user to quickly upres a smoke simulation from simple inputs
        - [Wind and Turbulance HDA](https://vimeo.com/260587977) Creates wind and turbulence data to transfer into Dops to get better results than the "Gas wind" node.
        - [Volume DICOM SOP](https://github.com/mishazawa/volumedicomsop) This operator allow to open DICOM data in Houdini and operate them as volumes.
+       - [Houdini Atmopshereic Tookit](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWFneFUtek92S3R4di1meGgyU2dvcXhId1h3QXxBQ3Jtc0trTklobzZhSm4yZFliWGtwSHlhZ2pnUE85a1g2YnBWc3RxeUw5U3g2SU9kWjBON1Nuc2xxSEZqenFIeElEaVFScVBSZU5OMmE1YkVwY3dDU0JuR3Jsc2tpRktyVDc2LVhrYzNoVndTNHVJUHFYWmFmWQ&q=https%3A%2F%2Fc474ea1c-22c8-4619-911e-0560ab902acd.usrfiles.com%2Farchives%2Fc474ea_31281e4b75f647a29361f9951d89b2d6.zip&v=EbVt0qU-P9c) Toolkit by Kate Xagoraris for everday cloud / volume operations
        
 --- 
 - ### Tools/Extensions
