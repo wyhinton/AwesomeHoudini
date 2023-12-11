@@ -108,6 +108,7 @@ Note that not all assets may be compatible with your houdini licensce/version.
          - [Houdini Transform Matcher](https://github.com/mruegenberg/houdini-transform-matcher) A Houdini DSO that extracts the transform between two sets of points.
          - [Blend Geo](https://wouttengrootenhuysen.gumroad.com/l/ooffu) Blend geometry with a displaced version of it. It has the option of combining masks and setting a range/falloff from those mask.
           - [Phong Deformer](https://github.com/rituals/phongdefo) Houdini SOP implementing phong deformation
+          - [Texture Stamp](https://github.com/aaronsmithtv/Texture-Stamp) Interactive texture stamping & projection tool for Houdini 20
     - ### AI
         - [Stable Houdini](https://github.com/stassius/StableHoudini) Stable Diffusion Houdini Toolset
         - [MLOPS](https://github.com/Bismuth-Consultancy-BV/MLOPs) Machine Learning Toolset for Houdini
