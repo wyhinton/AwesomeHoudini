@@ -78,6 +78,7 @@ Note that not all assets may be compatible with your houdini licensce/version.
   - ### Categories
     - ### Geo/Editing
       - ### Generate
+         - [GSOPS](https://github.com/david-rhodes/GSOPs) Gaussian Splat Operators for SideFX Houdini
          - [VFX Fractal Tookit](https://github.com/jtomori/vft) Set of tools for generating fractal and generative art.  
          - [Isogrid Houdini SOP](https://github.com/crystalboxes/isogrid-houdini-sop) voxel-based generative geometry
          - [ae_SVG](https://github.com/Aeoll/ae_SVG) SVG Importer and Exporter for Houdini
