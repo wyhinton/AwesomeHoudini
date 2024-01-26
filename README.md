@@ -413,6 +413,7 @@ _______
   - [Regular Menthol](https://www.youtube.com/@regularmenthol)
   - [RMA Fire](https://www.youtube.com/@RMAFIRE/videos)
   - [Alexander Eskin](https://www.youtube.com/@SmartAim33)
+  - [Fabricio Chamon](https://www.youtube.com/@fabricio_chamon)
 
 
 - ### Blogs/Personal Sites
