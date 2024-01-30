@@ -74,6 +74,7 @@ Note that not all assets may be compatible with your houdini licensce/version.
     - [Gt Houdini Assets](https://github.com/TrevisanGMW/gt-houdini-assets)
     - [HDA-s-for-gamedev-Unreal-engine](https://github.com/faxcorp/HDA-s-for-gamedev-Unreal-engine)
     - [Open Plack HDAs](https://github.com/lyon040502003/open_plack_HDAs)
+    - [sipiLib](https://github.com/SiposAttila1995/sipiLib) 
     
   - ### Categories
     - ### Geo/Editing
