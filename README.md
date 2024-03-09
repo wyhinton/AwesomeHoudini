@@ -446,7 +446,7 @@ _______
   - [Beka Baratashvili](https://beka3d.com/hda/)
   - [Model What You See](https://www.youtube.com/@ModelWhatYouSee)
   - [fxnotes](https://fxnotes.xyz/notes/Houdini)
-
+  - [Houdini Fun](https://github.com/MysteryPancake/Houdini-Fun)
   
   
   
