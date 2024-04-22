@@ -38,6 +38,7 @@ Note that not all assets may be compatible with your houdini licensce/version.
   - ### General Purpose Asset Libraries/Toolboxes
     - [qLab](https://github.com/qLab/qLib)
     - [SideFx Labs](https://github.com/sideeffects/SideFXLabs)
+    - [LV-tools](https://github.com/lukevanlukevan/LV-Tools)
     - [YingQ for Houdini](https://github.com/Ying-170/YingQ-for-Houdini)
     - [HoudiniHPro](https://github.com/zengchen2015/HOUDINI_HPro)
     - [MCLabs](https://github.com/maximcapra/MCHoudiniLabs) 
