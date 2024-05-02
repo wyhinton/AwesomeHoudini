@@ -418,6 +418,7 @@ _______
   - [Fabricio Chamon](https://www.youtube.com/@fabricio_chamon)
   - [graphicINmotion](https://www.youtube.com/@graphicINmotion)
   - [Model What You See](https://www.youtube.com/@ModelWhatYouSee)
+  - [Peter Quint](https://www.youtube.com/@peterquint6840)
 
 
 - ### Blogs/Personal Sites
