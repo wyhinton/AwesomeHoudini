@@ -416,6 +416,8 @@ _______
   - [RMA Fire](https://www.youtube.com/@RMAFIRE/videos)
   - [Alexander Eskin](https://www.youtube.com/@SmartAim33)
   - [Fabricio Chamon](https://www.youtube.com/@fabricio_chamon)
+  - [graphicINmotion](https://www.youtube.com/@graphicINmotion)
+  - [Model What You See](https://www.youtube.com/@ModelWhatYouSee)
 
 
 - ### Blogs/Personal Sites
@@ -445,9 +447,8 @@ _______
   - [Kate Xagoraris](https://www.katexagoraris.com/)
   - [Seeing Procedurally](http://seeingprocedurally.blogspot.com/)
   - [Beka Baratashvili](https://beka3d.com/hda/)
-  - [Model What You See](https://www.youtube.com/@ModelWhatYouSee)
   - [fxnotes](https://fxnotes.xyz/notes/Houdini)
-  - [graphicINmotion](https://www.youtube.com/@graphicINmotion)
+
 
   
   
