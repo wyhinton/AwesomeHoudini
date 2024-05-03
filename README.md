@@ -1,6 +1,7 @@
 ![Houdini Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Houdini3D_icon.png/120px-Houdini3D_icon.png)
+![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-### **Awesome Houdini** ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+### **Awesome Houdini** 
 
 A collection of awesome Free/Open Source things regarding the SideFx Houdini ecosystem. 
 
