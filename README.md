@@ -251,6 +251,7 @@ _______
 
   
 - ### Vex
+  - [Houdini Attributes Cheatsheet](https://gist.github.com/iinfin/2caf4e2ccb2545477670e88ddacee1e2) 
   - [Kuchavo/Vex-Snippets](https://github.com/Kuchavo/VEX-Snippets) A collection of useful VEX snippets for Houdini.
   - [Jtmori/Vex Tutorial](https://github.com/jtomori/vex_tutorial) 📑 A collection of code snippets and examples showing syntax and capabilities of VEX language inside SideFX Houdini
   - [Vex and Hscript Reference](https://github.com/benjamin-white/vex-and-hscript-reference) Reference notes for using VEX and HScript in Houdini
