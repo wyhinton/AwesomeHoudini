@@ -452,6 +452,7 @@ _______
   - [Seeing Procedurally](http://seeingprocedurally.blogspot.com/)
   - [Beka Baratashvili](https://beka3d.com/hda/)
   - [fxnotes](https://fxnotes.xyz/notes/Houdini)
+  - [Houdini Fun](https://github.com/MysteryPancake/Houdini-Fun)
 
 
   
