@@ -162,7 +162,8 @@ Note that not all assets may be compatible with your houdini licensce/version.
        - [GSS Call Python](https://github.com/shervinazadi/GSS_Call_Python) Houdini Asset for Running a Python Script within a specific Python Environment
      - ### Environments
        - [Palladio](https://github.com/Esri/palladio) Palladio enables the execution of CityEngine CGA rules inside of SideFX Houdini.
-       - [Catacomb](https://github.com/amovfx/Catacomb) A procedural dungeon generator in Houdini.  
+       - [Catacomb](https://github.com/amovfx/Catacomb) A procedural dungeon generator in Houdini.
+       - [Houdini Geospatial Tools](https://github.com/vvzen/Houdini-Geospatial-Tools) Tools for geospatial exploration in Houdini (ipython notebooks + GeoJSON python library)
        - [Houdini TaleSpire Terrain Generation Toolset](https://github.com/Baldrax/Houdini_TaleSpire_Terrain_Generation_Toolset) A toolset to procedurally create terrain for TaleSpire in Houdini.
        - [River Procedural Tool](https://github.com/Pyrrhulla/River_Procedural_tool) Houdini procedural tool for creating rivers
        - [JZTrees](https://github.com/joshuazt/JZTREES) Houdini procedural vegetation generator and FX toolkit
