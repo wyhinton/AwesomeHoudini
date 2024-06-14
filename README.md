@@ -423,6 +423,7 @@ _______
   - [graphicINmotion](https://www.youtube.com/@graphicINmotion)
   - [Model What You See](https://www.youtube.com/@ModelWhatYouSee)
   - [Peter Quint](https://www.youtube.com/@peterquint6840)
+  - [Danny Laursen](https://www.youtube.com/@DannyLrsn)
 
 
 - ### Blogs/Personal Sites
