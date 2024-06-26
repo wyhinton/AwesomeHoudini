@@ -79,6 +79,7 @@ Note that not all assets may be compatible with your houdini licensce/version.
     - [Open Plack HDAs](https://github.com/lyon040502003/open_plack_HDAs)
     - [sipiLib](https://github.com/SiposAttila1995/sipiLib)
     - [LcLLib](https://github.com/csdjk/LcLLib-for-Houdini)
+    - [KDBRA Tools](https://github.com/kdbra/kdbra-houdini-tools)
     
   - ### Categories
     - ### Geo/Editing
@@ -138,7 +139,6 @@ Note that not all assets may be compatible with your houdini licensce/version.
        - [VR Houdini Camera](https://github.com/mushyfruit/VR-Houdini-Camera) VR Viewport Camera Utility for Houdini
     - ### Pipeline/PDG
        - [Firehawk PDG Tools](https://github.com/firehawkvfx/firehawk-pdg-tools) A houdini package to aid PDG submission with auto-versioning, asset handling, and immmutable timestamped hip files for reproduction of content.
-       - [KDBRA Tools](https://github.com/kdbra/kdbra-houdini-tools) Production tools for SideFX Houdini
        - [Nagamochi_PDG](https://github.com/ShoheiOkazaki/Nagamochi_PDG) This is a TOP HDA library for SideFX's Houdini. There are some nodes for Maya, but those nodes are not perfect because I am not close to Maya. I'm looking forward to your advice!
        - [Houdini PRTROP](https://github.com/flipswitchingmonkey/houdini_PRTROP)
      - ### Rendering/Materials
