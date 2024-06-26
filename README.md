@@ -80,6 +80,7 @@ Note that not all assets may be compatible with your houdini licensce/version.
     - [sipiLib](https://github.com/SiposAttila1995/sipiLib)
     - [LcLLib](https://github.com/csdjk/LcLLib-for-Houdini)
     - [KDBRA Tools](https://github.com/kdbra/kdbra-houdini-tools)
+    - [WesLib](https://github.com/WeslieSison/WesLib/tree/main)
     
   - ### Categories
     - ### Geo/Editing
