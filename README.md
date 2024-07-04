@@ -426,6 +426,7 @@ _______
   - [Model What You See](https://www.youtube.com/@ModelWhatYouSee)
   - [Peter Quint](https://www.youtube.com/@peterquint6840)
   - [Danny Laursen](https://www.youtube.com/@DannyLrsn)
+  - [Dissonant Protean](https://www.youtube.com/@dissonantprotean5495/videos)
 
 
 - ### Blogs/Personal Sites
