@@ -430,6 +430,7 @@ _______
 
 
 - ### Blogs/Personal Sites
+  - [Konstantin Magnus](https://procegen.konstantinmagnus.de/) 
   - [Bernie Bernie](https://berniebernie.fr/wiki/Main_Page) 
   - [Sergi Carrion](https://www.artstation.com/se_carri/blog)
   - [CGWiki](https://www.tokeru.com/cgwiki/index.php?title=HoudiniGettingStarted)
