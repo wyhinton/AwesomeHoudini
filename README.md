@@ -427,6 +427,7 @@ _______
   - [Peter Quint](https://www.youtube.com/@peterquint6840)
   - [Danny Laursen](https://www.youtube.com/@DannyLrsn)
   - [Dissonant Protean](https://www.youtube.com/@dissonantprotean5495/videos)
+  - [IDA VFX](https://www.youtube.com/IDAVFX)
 
 
 - ### Blogs/Personal Sites
@@ -460,6 +461,7 @@ _______
   - [fxnotes](https://fxnotes.xyz/notes/Houdini)
   - [Houdini Fun](https://github.com/MysteryPancake/Houdini-Fun)
   - [Vanity_ibex](https://www.vanity-ibex.xyz)
+  
 
 
   
