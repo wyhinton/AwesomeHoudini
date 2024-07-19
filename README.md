@@ -430,6 +430,7 @@ _______
   - [Dissonant Protean](https://www.youtube.com/@dissonantprotean5495/videos)
   - [IDA VFX](https://www.youtube.com/IDAVFX)
   - [JZ Li](https://www.youtube.com/@jzli2617)
+  - [VFXCentral](https://www.youtube.com/@VFXCentral)
 
 
 - ### Blogs/Personal Sites
