@@ -144,6 +144,7 @@ Note that not all assets may be compatible with your houdini licensce/version.
        - [Nagamochi_PDG](https://github.com/ShoheiOkazaki/Nagamochi_PDG) This is a TOP HDA library for SideFX's Houdini. There are some nodes for Maya, but those nodes are not perfect because I am not close to Maya. I'm looking forward to your advice!
        - [Houdini PRTROP](https://github.com/flipswitchingmonkey/houdini_PRTROP)
      - ### Rendering/Materials
+       - [HoudiniSD](https://github.com/kabushPasha/HoudiniSD) SubstanceDesigner Nodes for Houdini
        - [Aces Converter](https://timvanhelsdingen.com/convert-textures-to-aces/) Converts textures to ACES color space, as seen in Toadstorms Guide.
        - [egMatLib](https://github.com/eglaubauf/egMatLib) Material Library for Houdini Mantra, Redshift and Arnold
        - [egRedshiftTools](https://github.com/eglaubauf/egRedshiftTools) Tools for Redshift in SideFx Houdini
