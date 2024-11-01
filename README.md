@@ -433,6 +433,7 @@ _______
   - [IDA VFX](https://www.youtube.com/IDAVFX)
   - [JZ Li](https://www.youtube.com/@jzli2617)
   - [VFXCentral](https://www.youtube.com/@VFXCentral)
+  - [CL Mograph](https://www.youtube.com/@CLMograph)
 
 
 - ### Blogs/Personal Sites
