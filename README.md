@@ -434,6 +434,7 @@ _______
   - [JZ Li](https://www.youtube.com/@jzli2617)
   - [VFXCentral](https://www.youtube.com/@VFXCentral)
   - [CL Mograph](https://www.youtube.com/@CLMograph)
+  - [Brundlethwaite](https://www.youtube.com/@brundlethwaite)
 
 
 - ### Blogs/Personal Sites
