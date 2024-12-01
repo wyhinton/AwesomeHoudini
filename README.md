@@ -435,6 +435,7 @@ _______
   - [VFXCentral](https://www.youtube.com/@VFXCentral)
   - [CL Mograph](https://www.youtube.com/@CLMograph)
   - [Brundlethwaite](https://www.youtube.com/@brundlethwaite)
+  - [Houdini Hangout](https://www.youtube.com/@HoudiniHangout)
 
 
 - ### Blogs/Personal Sites
