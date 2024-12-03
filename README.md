@@ -436,6 +436,7 @@ _______
   - [CL Mograph](https://www.youtube.com/@CLMograph)
   - [Brundlethwaite](https://www.youtube.com/@brundlethwaite)
   - [Houdini Hangout](https://www.youtube.com/@HoudiniHangout)
+  - [Yancy Quist](https://vimeo.com/yancyquist)
 
 
 - ### Blogs/Personal Sites
