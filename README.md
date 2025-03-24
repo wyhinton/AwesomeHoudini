@@ -437,6 +437,7 @@ _______
   - [Brundlethwaite](https://www.youtube.com/@brundlethwaite)
   - [Houdini Hangout](https://www.youtube.com/@HoudiniHangout)
   - [Yancy Quist](https://vimeo.com/yancyquist)
+  - [Anton Dan](https://www.youtube.com/@tondann/videos)
 
 
 - ### Blogs/Personal Sites
