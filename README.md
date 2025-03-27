@@ -438,7 +438,7 @@ _______
   - [Houdini Hangout](https://www.youtube.com/@HoudiniHangout)
   - [Yancy Quist](https://vimeo.com/yancyquist)
   - [Anton Dan](https://www.youtube.com/@tondann/videos)
-  - [https://www.youtube.com/@OnigirazuNori](https://www.youtube.com/@OnigirazuNori)
+  - [Onigiraz Nori](https://www.youtube.com/@OnigirazuNori)
 
 
 - ### Blogs/Personal Sites
