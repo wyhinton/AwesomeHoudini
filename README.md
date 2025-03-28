@@ -472,6 +472,7 @@ _______
   - [fxnotes](https://fxnotes.xyz/notes/Houdini)
   - [Houdini Fun](https://github.com/MysteryPancake/Houdini-Fun)
   - [Vanity_ibex](https://www.vanity-ibex.xyz)
+  - [The VFX Mentor](https://thevfxmentor.com/quicktips/)
   
 
 
