@@ -439,6 +439,7 @@ _______
   - [Yancy Quist](https://vimeo.com/yancyquist)
   - [Anton Dan](https://www.youtube.com/@tondann/videos)
   - [Onigiraz Nori](https://www.youtube.com/@OnigirazuNori)
+  - [Mad Dog VFX](https://www.youtube.com/@MadDogVFX)
 
 
 - ### Blogs/Personal Sites
