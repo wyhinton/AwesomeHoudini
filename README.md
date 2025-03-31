@@ -193,6 +193,7 @@ Note that not all assets may be compatible with your houdini licensce/version.
     - [Hou2Drive](https://github.com/SideswipeeZ/Hou2Drive) Upload current Houdini file to a linked Google Account.
     - [Daz2HouNeo](https://github.com/SideswipeeZ/Daz2HouNeo) Daz Studio to Houdini Processing Tools (with Arnold)
     - [Houdini 2 AE](https://vimeo.com/186204479) Tool for exporting camera and locators fromH oudini to after effects
+    - [Houdini2Godot](https://github.com/Mandrake0/houdini2godot) SideFx Houdini to Godot Exporter
   - ### UI
     - [Gamestuff](https://github.com/pedohorse/gamestuff) Houdini interface game engine.
      - ### Misc 
@@ -232,9 +233,9 @@ Note that not all assets may be compatible with your houdini licensce/version.
       - [Houdini CopyToFram](https://github.com/eglaubauf/Houdini_CopyToFarm) This script provides a window in which the user is able to select a directory to copy the current file and it´s dependencies to a different, arbitrary location (e.g. a network storage). In this process the script will copy all linked/referenced files to the chosen location as long as they are below the current workspace.
   - ### Scripts and Development Tools
       - [Null Between Bones](https://github.com/Kuchavo/Null-Between-Bones-Houdini-Tool) Creation of 'Null' nodes between all selected nodes (e.g. 'Bone' nodes). Useful for creation of controls for rigging.
-     - [cmhbenjamin/Houdini Scripts](https://github.com/cmhbenjamin/Houdini-Scripts) Flipbooksettingssaver/pointAttributeHistogram assets.
-     - [JoseZalez/Houdini Scripts](https://github.com/JoseZalez/Houdini-scripts) Library of houdini scripts and tools (VEX, Python, OpenCL).
-     - [dynamite](https://github.com/ajz3d/dynamite) Tool for a streamlined bake cage creation in Houdini.
+      - [cmhbenjamin/Houdini Scripts](https://github.com/cmhbenjamin/Houdini-Scripts) Flipbooksettingssaver/pointAttributeHistogram assets.
+      - [JoseZalez/Houdini Scripts](https://github.com/JoseZalez/Houdini-scripts) Library of houdini scripts and tools (VEX, Python, OpenCL).
+      - [dynamite](https://github.com/ajz3d/dynamite) Tool for a streamlined bake cage creation in Houdini.
 
 _______
 
