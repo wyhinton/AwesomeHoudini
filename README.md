@@ -440,6 +440,7 @@ _______
   - [Anton Dan](https://www.youtube.com/@tondann/videos)
   - [Onigiraz Nori](https://www.youtube.com/@OnigirazuNori)
   - [Mad Dog VFX](https://www.youtube.com/@MadDogVFX)
+  - [Rod Tebisx](https://www.youtube.com/@RodTebisxTD)
 
 
 - ### Blogs/Personal Sites
