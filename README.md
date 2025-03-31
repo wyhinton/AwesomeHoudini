@@ -222,6 +222,10 @@ Note that not all assets may be compatible with your houdini licensce/version.
       - [Houlean](https://github.com/lecopivo/HouLean) This Houdini plugin allows you to use Lean 4 as a scripting language/replacement of VEX. This plugin is highly experimental!
       - [MLHoudiniSamples](https://github.com/takavfx/MLHoudiniSamples) Samples for Machine Learning on Houdini.
       - [Houdini Muzzle](https://github.com/notawhalevfx/houdini-muzzle) Houdini wrapper to start the application with special preferences
+    - ### Houdini Engine
+      - [hego](https://github.com/peterprickarz/hego) Houdini engine in Godot
+      - [Hapi-rs](https://github.com/alexxbb/hapi-rs) Idiomatic Rust bindings to Houdini Engine C API
+      - [Hapi-sys](https://github.com/alexxbb/hapi-sys) Raw Rust bindings to Houdini Engine API
   - ### Rendering
       - [hdBlackbird](https://github.com/tangent-opensource/hdBlackbird) A USD/Hydra RenderDelegate plugin that adds support for the Blackbird renderer (a fork of the Blender Foundation's Cycles renderer) to any client.
       - [Houdini Shader Converter](https://github.com/SideswipeeZ/houdini-shader-converter) Houdini Python Shelf tool for Converting Shaders within Houdini using JSON
@@ -291,8 +295,6 @@ _______
   - [Houdini Silent Install Script](https://github.com/paulwinex/houdini_install_script)Automatically (silent) downloads and installs latest Houdini build. Good solution for studio pipeline!
   - [Emacs Houdini Vex Mode](https://github.com/gearslogy/Emacs-Houdini-vex-mode) Emacs autocomplete for VEX.
   - [Sublime Debugger Houdini](https://github.com/blurstudio/sublime_debugger-HoudiniUI) This adapter serves as a "middleman" between the Sublime Debugger plugin and a DAP implementation for python (debugpy) injected into Houdini.
-  - [Hapi-rs](https://github.com/alexxbb/hapi-rs) Idiomatic Rust bindings to Houdini Engine C API
-  - [Hapi-sys](https://github.com/alexxbb/hapi-sys) Raw Rust bindings to Houdini Engine API
   - [Huilib](https://github.com/alexxbb/huilib) A minimalistic Python wrapper for Houdini native UI script
   - [Houdini Docker](https://github.com/aaronsmithtv/Houdini-Docker) An automated workflow for containerizing SideFX Houdini installations with Docker
   
