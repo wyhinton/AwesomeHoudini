@@ -280,7 +280,6 @@ _______
 
   
 - ### Scripting/Dev
-  - [Houdini ICPP](https://github.com/nrosenstein-old/houdini-icpp) An additional layer on top of the Houdini inlinecpp module that makes writing, debugging and distributing Inline-C++ modules easier.
   - [Houdini Vex Help](https://github.com/cgtoolbox/vscode-houdinivexhelp) VSCode extension that mimics the behavior of the wrangle nodes "open help from selected text", but directly in vscode.
   - [VEX](https://github.com/teared/VEX) Houdini addon for Sublime Text
   - [Houdini Package Runner](https://github.com/captainhammy/houdini_package_runner) Tooling to analyze or perform actions on Python code in Houdini package
