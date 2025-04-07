@@ -258,7 +258,8 @@ _______
   - [Fix Particle Stepping](https://voxyde.gumroad.com/l/bmyin?recommended_by=search)
   - [Robotic Arm Kinefx Demo](https://www.sidefx.com/forum/topic/77562/?page=1#post-369057) 
   - [Assorted Houdini Demos](https://github.com/jakericedesigns/Assorted-Houdini-Demos)
-  - [houdinicr](https://github.com/crch89/houdinicr) 
+  - [houdinicr](https://github.com/crch89/houdinicr)
+  - [Kiryha Houdini Examples](https://github.com/kiryha/Houdini/wiki/examples) 
 
   
 - ### Vex
