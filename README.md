@@ -445,6 +445,7 @@ _______
   - [Mad Dog VFX](https://www.youtube.com/@MadDogVFX)
   - [Rod Tebisx](https://www.youtube.com/@RodTebisxTD)
   - [Farmfield](https://www.youtube.com/@Farmfield)
+  - [COPstance](https://www.youtube.com/@copstance)
 
 
 - ### Blogs/Personal Sites
