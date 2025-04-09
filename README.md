@@ -482,6 +482,7 @@ _______
   - [Vanity_ibex](https://www.vanity-ibex.xyz)
   - [The VFX Mentor](https://thevfxmentor.com/quicktips/)
   - [Juraj Tomori](https://jtomori.github.io/)
+  - [FXHACK](https://shoheiokazaki.github.io/FXHACK/posts/)
   
 
 
