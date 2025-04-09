@@ -28,7 +28,7 @@ Note that not all assets may be compatible with your houdini licensce/version.
   - [Environments](#environments)
   - [Volumes](#volumes)
   - [Cops](#cops)
-- [Learning Materials](#learning-materials) UI
+- [Learning Materials](#learning-materials)
   - [HIPs](#hips)
   - [Vex](#vex)
   - [Scripts and Development Tools](#scripts-and-development-tools)
