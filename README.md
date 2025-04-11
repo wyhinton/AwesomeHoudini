@@ -448,6 +448,7 @@ _______
   - [Farmfield](https://www.youtube.com/@Farmfield)
   - [COPstance](https://www.youtube.com/@copstance)
   - [MadlabVFX](https://www.youtube.com/watch?v=V2uLyNZtnaw)
+  - [Wuramakesvfx](https://www.youtube.com/@wuramkesvfx)
 
 
 - ### Blogs/Personal Sites
@@ -484,7 +485,7 @@ _______
   - [The VFX Mentor](https://thevfxmentor.com/quicktips/)
   - [Juraj Tomori](https://jtomori.github.io/)
   - [FXHACK](https://shoheiokazaki.github.io/FXHACK/posts/)
-  - [Wuramakesvfx](https://www.youtube.com/@wuramkesvfx)
+
   
 
 
