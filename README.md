@@ -484,6 +484,7 @@ _______
   - [The VFX Mentor](https://thevfxmentor.com/quicktips/)
   - [Juraj Tomori](https://jtomori.github.io/)
   - [FXHACK](https://shoheiokazaki.github.io/FXHACK/posts/)
+  - [Wuramakesvfx](https://www.youtube.com/@wuramkesvfx)
   
 
 
