@@ -85,6 +85,7 @@ Note that not all assets may be compatible with your houdini licensce/version.
     - [WesLib](https://github.com/WeslieSison/WesLib/tree/main)
     - [HurdFX](https://github.com/yunghurd/hurdfx)
     - [HoudiniGuLib](https://github.com/gupon/Houdini-Gulib/tree/master)
+    - [CustomHoudiniPlugins](https://github.com/iceplosion/CustomHoudiniPlugin/tree/main)
     
   - ### Categories
     - ### Geo/Editing
