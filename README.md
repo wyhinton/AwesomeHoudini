@@ -83,6 +83,7 @@ Note that not all assets may be compatible with your houdini licensce/version.
     - [KDBRA Tools](https://github.com/kdbra/kdbra-houdini-tools)
     - [Chordee HDA Collection](https://github.com/chordee/houdini_hda_collection)
     - [WesLib](https://github.com/WeslieSison/WesLib/tree/main)
+    - [HurdFX](https://github.com/yunghurd/hurdfx)
     
   - ### Categories
     - ### Geo/Editing
