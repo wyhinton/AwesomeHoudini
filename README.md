@@ -84,6 +84,7 @@ Note that not all assets may be compatible with your houdini licensce/version.
     - [Chordee HDA Collection](https://github.com/chordee/houdini_hda_collection)
     - [WesLib](https://github.com/WeslieSison/WesLib/tree/main)
     - [HurdFX](https://github.com/yunghurd/hurdfx)
+    - [HoudiniGuLib](https://github.com/gupon/Houdini-Gulib/tree/master)
     
   - ### Categories
     - ### Geo/Editing
