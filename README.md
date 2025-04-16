@@ -148,7 +148,7 @@ Note that not all assets may be compatible with your houdini licensce/version.
        - [Firehawk PDG Tools](https://github.com/firehawkvfx/firehawk-pdg-tools) A houdini package to aid PDG submission with auto-versioning, asset handling, and immmutable timestamped hip files for reproduction of content.
        - [Nagamochi_PDG](https://github.com/ShoheiOkazaki/Nagamochi_PDG) This is a TOP HDA library for SideFX's Houdini. There are some nodes for Maya, but those nodes are not perfect because I am not close to Maya. I'm looking forward to your advice!
        - [Houdini PRTROP](https://github.com/flipswitchingmonkey/houdini_PRTROP)
-     - ### Rendering/Materials
+     - ### Rendering/Materials/COPs
        - [HoudiniSD](https://github.com/kabushPasha/HoudiniSD) SubstanceDesigner Nodes for Houdini
        - [Aces Converter](https://timvanhelsdingen.com/convert-textures-to-aces/) Converts textures to ACES color space, as seen in Toadstorms Guide.
        - [egMatLib](https://github.com/eglaubauf/egMatLib) Material Library for Houdini Mantra, Redshift and Arnold
@@ -158,6 +158,7 @@ Note that not all assets may be compatible with your houdini licensce/version.
        - [Redshift HDRI Creator](https://m.youtube.com/watch?v=HAWRBdkl1w4) Create/edit HDRIs
        - [Bayer Dithering COP](https://github.com/mishazawa/bayerditheringcop)
        - [MaterialXEssentials](https://github.com/Faitel/MaterialXEssentials/tree/main/otls) Essential nodes that would help you create MaterialX shaders for Karma XPU
+       - [Copernicus Toolkit](https://github.com/Boning1011/copernicus-toolkit) A collection of OpenCL-based image processing tools for Houdini's Copernicus. Features pixel manipulation algorithms, and other GPU-accelerated image operations.
     - ### Solver/Sim
        - [Point Based Growth HDA](https://itj.gumroad.com/l/pbg) Houdini point based growth Asset.
        - [Path Solver HDA](https://lavrenovlad.gumroad.com/l/fkQSl) Path Solver is a Houdini Digital Asset solving points/objects along any path without them intersecting each other. 
