@@ -163,6 +163,7 @@ Note that not all assets may be compatible with your houdini licensce/version.
        - [Point Based Growth HDA](https://itj.gumroad.com/l/pbg) Houdini point based growth Asset.
        - [Path Solver HDA](https://lavrenovlad.gumroad.com/l/fkQSl) Path Solver is a Houdini Digital Asset solving points/objects along any path without them intersecting each other. 
        - [Dune Solver](https://matthewjukes.gumroad.com/l/dunesolver?recommended_by=search)
+       - [BiMocq Fluid Solver](https://github.com/yangdissy/BiMocq_Solver_implementation) Implementation of smoke fluid settlement based on theBiMocq2(2 levels of Bi-directional mapping of convective quantities) method to obtain a more detailed and stable fluid simulation.
        - [Diffusion Limited Aggregation](https://github.com/jroy1992/Diffusion-Limited-Aggregation) Create fractal like growth inside 3D geometry using the principle of Diffusion Limited Aggregation. The implementation has been done in three parts: Text and 3D Geometry and Intersection
        - [Wiggly](https://github.com/wayne-wu/wiggly) Spacetime Constraints for Deformable Objects in Houdini
        - [H_ML_CASTLES](https://github.com/jakobringler/H_ML_Castles) ML Supported Procedural Castles in SideFX Houdini using PyTorch
