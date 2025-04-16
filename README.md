@@ -156,7 +156,8 @@ Note that not all assets may be compatible with your houdini licensce/version.
        - [egMantraTools](https://github.com/eglaubauf/egMantraTools) Tools For SidefX Houdinis Mantra Renderer
        - [Lookbox](https://www.patreon.com/posts/lookbox-beta-21308541) Look dev tool suite for Mantra
        - [Redshift HDRI Creator](https://m.youtube.com/watch?v=HAWRBdkl1w4) Create/edit HDRIs
-       - [Bayer Dithering COP](https://github.com/mishazawa/bayerditheringcop) 
+       - [Bayer Dithering COP](https://github.com/mishazawa/bayerditheringcop)
+       - [MaterialXEssentials](https://github.com/Faitel/MaterialXEssentials/tree/main/otls) Essential nodes that would help you create MaterialX shaders for Karma XPU
     - ### Solver/Sim
        - [Point Based Growth HDA](https://itj.gumroad.com/l/pbg) Houdini point based growth Asset.
        - [Path Solver HDA](https://lavrenovlad.gumroad.com/l/fkQSl) Path Solver is a Houdini Digital Asset solving points/objects along any path without them intersecting each other. 
