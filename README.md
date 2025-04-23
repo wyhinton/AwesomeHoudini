@@ -1,4 +1,4 @@
-![Houdini Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Houdini3D_icon.png/120px-Houdini3D_icon.png)
+![image](https://github.com/user-attachments/assets/b14c247e-6458-4e22-bf59-36119646e593)![Houdini Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Houdini3D_icon.png/120px-Houdini3D_icon.png)
 
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
@@ -456,6 +456,8 @@ _______
   - [COPstance](https://www.youtube.com/@copstance)
   - [MadlabVFX](https://www.youtube.com/watch?v=V2uLyNZtnaw)
   - [Wuramakesvfx](https://www.youtube.com/@wuramkesvfx)
+  - [Escape Studio](https://www.youtube.com/@Escapestudios)
+  - [Jesus Fernandez](https://www.youtube.com/@JesusFernandez14)
 
 
 - ### Blogs/Personal Sites
