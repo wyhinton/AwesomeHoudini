@@ -458,6 +458,7 @@ _______
   - [Wuramakesvfx](https://www.youtube.com/@wuramkesvfx)
   - [Escape Studio](https://www.youtube.com/@Escapestudios)
   - [Jesus Fernandez](https://www.youtube.com/@JesusFernandez14)
+  - [Jan Hebein](https://www.youtube.com/@janhebein3D)
 
 
 - ### Blogs/Personal Sites
@@ -494,6 +495,7 @@ _______
   - [The VFX Mentor](https://thevfxmentor.com/quicktips/)
   - [Juraj Tomori](https://jtomori.github.io/)
   - [FXHACK](https://shoheiokazaki.github.io/FXHACK/posts/)
+
 
   
 
