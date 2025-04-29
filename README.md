@@ -459,6 +459,7 @@ _______
   - [Escape Studio](https://www.youtube.com/@Escapestudios)
   - [Jesus Fernandez](https://www.youtube.com/@JesusFernandez14)
   - [Jan Hebein](https://www.youtube.com/@janhebein3D)
+  - [SOP God](https://www.youtube.com/@sopgod)
 
 
 - ### Blogs/Personal Sites
