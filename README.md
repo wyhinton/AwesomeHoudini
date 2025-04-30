@@ -460,6 +460,7 @@ _______
   - [Jesus Fernandez](https://www.youtube.com/@JesusFernandez14)
   - [Jan Hebein](https://www.youtube.com/@janhebein3D)
   - [SOP God](https://www.youtube.com/@sopgod)
+  - [Dan Cortes VFX](https://www.youtube.com/watch?v=J0MNbCf_4Tc)
 
 
 - ### Blogs/Personal Sites
