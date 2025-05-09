@@ -461,6 +461,7 @@ _______
   - [Jan Hebein](https://www.youtube.com/@janhebein3D)
   - [SOP God](https://www.youtube.com/@sopgod)
   - [Dan Cortes VFX](https://www.youtube.com/watch?v=J0MNbCf_4Tc)
+  - [Zybrand Jacobs](https://www.youtube.com/@zybrandcg)
 
 
 - ### Blogs/Personal Sites
