@@ -159,6 +159,7 @@ Note that not all assets may be compatible with your houdini licensce/version.
        - [Bayer Dithering COP](https://github.com/mishazawa/bayerditheringcop)
        - [MaterialXEssentials](https://github.com/Faitel/MaterialXEssentials/tree/main/otls) Essential nodes that would help you create MaterialX shaders for Karma XPU
        - [Copernicus Toolkit](https://github.com/Boning1011/copernicus-toolkit) A collection of OpenCL-based image processing tools for Houdini's Copernicus. Features pixel manipulation algorithms, and other GPU-accelerated image operations.
+       - [hGeoPatterns](https://github.com/AlexeySmolenchuk/hGeoPatterns) Collection of RenderMan plugins for sampling Houdini geometry.
     - ### Solver/Sim
        - [Point Based Growth HDA](https://itj.gumroad.com/l/pbg) Houdini point based growth Asset.
        - [Path Solver HDA](https://lavrenovlad.gumroad.com/l/fkQSl) Path Solver is a Houdini Digital Asset solving points/objects along any path without them intersecting each other. 
