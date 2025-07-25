@@ -161,6 +161,7 @@ Note that not all assets may be compatible with your houdini licensce/version.
        - [Copernicus Toolkit](https://github.com/Boning1011/copernicus-toolkit) A collection of OpenCL-based image processing tools for Houdini's Copernicus. Features pixel manipulation algorithms, and other GPU-accelerated image operations.
        - [hGeoPatterns](https://github.com/AlexeySmolenchuk/hGeoPatterns) Collection of RenderMan plugins for sampling Houdini geometry.
     - ### Solver/Sim
+       - [Houdini-VDB](https://github.com/MysteryPancake/Houdini-VBD?tab=readme-ov-file) Vertex Block Descent for Houdini
        - [Point Based Growth HDA](https://itj.gumroad.com/l/pbg) Houdini point based growth Asset.
        - [Path Solver HDA](https://lavrenovlad.gumroad.com/l/fkQSl) Path Solver is a Houdini Digital Asset solving points/objects along any path without them intersecting each other. 
        - [Dune Solver](https://matthewjukes.gumroad.com/l/dunesolver?recommended_by=search)
