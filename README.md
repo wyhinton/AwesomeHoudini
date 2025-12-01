@@ -198,12 +198,13 @@ Note that not all assets may be compatible with your houdini licensce/version.
     - [Houdini_TDK](https://github.com/anvdev/Houdini_TDK) Tool Development Kit for SideFX Houdini
     - [Help Card Maker](https://github.com/cgtoolbox/HelpCardMaker) A tool to create easily help cards for your digital assets.
     - [tk-houdini](https://github.com/shotgunsoftware/tk-houdini) A Shotgun Pipeline Toolkit Engine for Houdin
-  - ### I/O
+  - ### Import/Export/Converters
     - [Nvil-houdini-link](https://github.com/ajz3d/nvil-houdini-applink) AppLink that allows for quick geometry interchange between Houdini and NVil.
     - [Hou2Drive](https://github.com/SideswipeeZ/Hou2Drive) Upload current Houdini file to a linked Google Account.
     - [Daz2HouNeo](https://github.com/SideswipeeZ/Daz2HouNeo) Daz Studio to Houdini Processing Tools (with Arnold)
     - [Houdini 2 AE](https://vimeo.com/186204479) Tool for exporting camera and locators fromH oudini to after effects
     - [Houdini2Godot](https://github.com/Mandrake0/houdini2godot) SideFx Houdini to Godot Exporter
+    - [Houdini ➜ SVG Exporter](https://www.patreon.com/posts/141119565) 
   - ### UI
     - [Gamestuff](https://github.com/pedohorse/gamestuff) Houdini interface game engine.
      - ### Misc 
