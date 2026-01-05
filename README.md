@@ -293,6 +293,7 @@ _______
   
 - ### Scripting/Dev
   - [Houdini Vex Help](https://github.com/cgtoolbox/vscode-houdinivexhelp) VSCode extension that mimics the behavior of the wrangle nodes "open help from selected text", but directly in vscode.
+  - [Houdini OpenCL](https://github.com/MysteryPancake/Houdini-OpenCL) Examples and documentation for OpenCL in Houdini
   - [VEX](https://github.com/teared/VEX) Houdini addon for Sublime Text
   - [Houdini Package Runner](https://github.com/captainhammy/houdini_package_runner) Tooling to analyze or perform actions on Python code in Houdini package
   - [HIP Collector](https://github.com/Aeoll/HipCollector) A Houdini script which collects a .hip and it's file references into a single portable directory It can resolve file references with variables such as $HIP, $JOB, $OS and file sequences ($F / $F4 etc)
