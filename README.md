@@ -271,7 +271,8 @@ _______
   - [Robotic Arm Kinefx Demo](https://www.sidefx.com/forum/topic/77562/?page=1#post-369057) 
   - [Assorted Houdini Demos](https://github.com/jakericedesigns/Assorted-Houdini-Demos)
   - [houdinicr](https://github.com/crch89/houdinicr)
-  - [Kiryha Houdini Examples](https://github.com/kiryha/Houdini/wiki/examples) 
+  - [Kiryha Houdini Examples](https://github.com/kiryha/Houdini/wiki/examples)
+  - [Phil Half hipCollection](https://github.com/PhilHaf/hipCollection) Houdini Files, Hdas, Effects
 
   
 - ### Vex
