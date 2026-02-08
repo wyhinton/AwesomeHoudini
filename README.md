@@ -204,7 +204,8 @@ Note that not all assets may be compatible with your houdini licensce/version.
     - [Daz2HouNeo](https://github.com/SideswipeeZ/Daz2HouNeo) Daz Studio to Houdini Processing Tools (with Arnold)
     - [Houdini 2 AE](https://vimeo.com/186204479) Tool for exporting camera and locators fromH oudini to after effects
     - [Houdini2Godot](https://github.com/Mandrake0/houdini2godot) SideFx Houdini to Godot Exporter
-    - [Houdini ➜ SVG Exporter](https://www.patreon.com/posts/141119565) 
+    - [Houdini ➜ SVG Exporter](https://www.patreon.com/posts/141119565)
+    - [HoudiniPCG Translator](https://github.com/AdrianPanGithub/HoudiniPCGTranslator) Unreal PCG ⇋ Houdini Engine: Seamless Integration
   - ### UI
     - [Gamestuff](https://github.com/pedohorse/gamestuff) Houdini interface game engine.
      - ### Misc 
