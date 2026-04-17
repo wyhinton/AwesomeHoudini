@@ -126,6 +126,7 @@ Note that not all assets may be compatible with your houdini licensce/version.
     - ### AI
         - [Stable Houdini](https://github.com/stassius/StableHoudini) Stable Diffusion Houdini Toolset
         - [MLOPS](https://github.com/Bismuth-Consultancy-BV/MLOPs) Machine Learning Toolset for Houdini
+        - [Houdini-MCP](https://github.com/capoomgit/houdini-mcp) HoudiniMCP allows you to control SideFX Houdini from Claude using the Model Context Protocol (MCP).
       
     - ### KineFx
        - [Kinefx Tools](https://github.com/kamilhepner/kinefx_tools) Collection of rigging tools and utils for Houdini Kinefx 
