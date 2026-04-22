@@ -213,6 +213,7 @@ Note that not all assets may be compatible with your houdini licensce/version.
        - [hpaste](https://github.com/pedohorse/hpaste) Simple plain text snippet exchange for Houdini.
        - [Houdini Package Manager](https://github.com/ariffjeff/houdini-package-manager) A comprehensive GUI package manager for Houdini. Manage all your plugins and create new packages with ease.
        - [Vex Snipfuzz](https://github.com/jdvfx/vex_snipfuzz) Houdini shelf tool: fuzzy search a text file containing VEX snippets and paste into selected wrangle node
+       - [TK Houdini Splashscreen](https://github.com/MaximumFX/tk-houdini-splashscreen) A Shotgun Toolkit app to customize the Houdini splash screen to the project billboard.
      - ### Panels
        - [Houdini-Keyframe-Breakdowner](https://github.com/noadanimation/Houdini-Keyframe-Breakdowner) Python panel for Houdini to easily add inbetween poses to animations
        - [Womrhole Content Browser](https://wormholetools.gumroad.com/l/whbrowser) The Wormhole Content Browser is a custom UI for Houdini that enables quick browsing, previewing, and importing of content into Houdini.
