@@ -267,6 +267,7 @@ _______
   - [Atom's Link Page](https://forums.odforce.net/topic/25173-atoms-link-page/)
   - [Applied Quaternions](https://github.com/amovfx/AppliedQuaternions) Some Houdini Files to demonstrate how to work with quaternions.
   - [Mantra LPE Cookbook](https://github.com/alexwheezy/Mantra-LPE-Cookbook) Contains recipes for making commonly used render passes using LPE.
+  - [HIPS by LCR](https://github.com/lcrs/_.hips) Various houdini tools and example files.
   - [Free VDB Clouds](https://assetsvfx.gumroad.com/l/RcgNe?recommended_by=search) Pack of 3 cloud VDBs for large Ariel views.
   - [Fix Particle Stepping](https://voxyde.gumroad.com/l/bmyin?recommended_by=search)
   - [Robotic Arm Kinefx Demo](https://www.sidefx.com/forum/topic/77562/?page=1#post-369057) 
