@@ -274,7 +274,8 @@ _______
   - [houdinicr](https://github.com/crch89/houdinicr)
   - [Kiryha Houdini Examples](https://github.com/kiryha/Houdini/wiki/examples)
   - [Phil Half hipCollection](https://github.com/PhilHaf/hipCollection) Houdini Files, Hdas, Effects
-
+  - [HoudiniMD - Houdini Documentation for AI](https://houdinimd.com/)
+  - [Houdini Cookbook - Library of copy pastable Houdini setups](https://codercat.xyz/cookbook/)
   
 - ### Vex
   - [Houdini Attributes Cheatsheet](https://gist.github.com/iinfin/2caf4e2ccb2545477670e88ddacee1e2) 
