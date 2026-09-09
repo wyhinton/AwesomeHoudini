@@ -92,7 +92,6 @@ Note that not all assets may be compatible with your houdini licensce/version.
          - [VFX Fractal Tookit](https://github.com/jtomori/vft) Set of tools for generating fractal and generative art.  
          - [Isogrid Houdini SOP](https://github.com/crystalboxes/isogrid-houdini-sop) voxel-based generative geometry
          - [ae_SVG](https://github.com/Aeoll/ae_SVG) SVG Importer and Exporter for Houdini
-         - [kitbash-parser](https://github.com/MatthewZub/houdini-kitbashparser) 'Kitbash Parser' is a kit of tools to work with kitbash packs in Houdini.
          - [Wire Builder HDA](https://viktorsanfimovs.gumroad.com/l/wtBRv) Procedural wire builder asset
          - [linewriter](https://github.com/jamesrobinsonvfx/linewriter) Linewriter quickly creates lines of text geometry in Houdini.
          - [Draw Stroke](http://ihoudini.blogspot.com/2020/01/more-drawing-witha-wacom-in-houdini.html)
@@ -152,7 +151,6 @@ Note that not all assets may be compatible with your houdini licensce/version.
        - [Aces Converter](https://timvanhelsdingen.com/convert-textures-to-aces/) Converts textures to ACES color space, as seen in Toadstorms Guide.
        - [egMatLib](https://github.com/eglaubauf/egMatLib) Material Library for Houdini Mantra, Redshift and Arnold
        - [egRedshiftTools](https://github.com/eglaubauf/egRedshiftTools) Tools for Redshift in SideFx Houdini
-       - [egMantraTools](https://github.com/eglaubauf/egMantraTools) Tools For SidefX Houdinis Mantra Renderer
        - [Lookbox](https://www.patreon.com/posts/lookbox-beta-21308541) Look dev tool suite for Mantra
        - [Redshift HDRI Creator](https://m.youtube.com/watch?v=HAWRBdkl1w4) Create/edit HDRIs
        - [Bayer Dithering COP](https://github.com/mishazawa/bayerditheringcop)
@@ -219,7 +217,6 @@ Note that not all assets may be compatible with your houdini licensce/version.
        - [Marking Menu](https://github.com/dchow1992/houdini_markingmenu) Marking Menu for the Houdini network editor. Fast access to node creation, placement, toolscripts, and shelf tools
        - [Houdini Image Browser](https://github.com/Aeoll/Houdini_Image_Browser) Python Panel file browser with thumbnail database
        - [Asset Browser](https://github.com/jonassorgenfrei/AssetBrowser) A qt asset browser for applications like houdini/nuke/maya/blender
-       - [Houdini-Rig Control Library](https://github.com/pareylook/Houdini-Rig_control-library) Python panel for fast create control shape for rig
        - [Houdini Bookmarks](https://github.com/gorrod/houdini_bookmarks) Houdini Bookmarks is a Houdini Python Panel aimed to help organize a scene by bookmarking and quickly accessing nodes, online references and file locations.
     - ### Parameters
       - [MASSEParmUtilities](https://github.com/viktors-a/MASSEParmUtilities) Easily setup control parmaters
@@ -240,7 +237,6 @@ Note that not all assets may be compatible with your houdini licensce/version.
       - [Hapi-rs](https://github.com/alexxbb/hapi-rs) Idiomatic Rust bindings to Houdini Engine C API
       - [Hapi-sys](https://github.com/alexxbb/hapi-sys) Raw Rust bindings to Houdini Engine API
   - ### Rendering
-      - [hdBlackbird](https://github.com/tangent-opensource/hdBlackbird) A USD/Hydra RenderDelegate plugin that adds support for the Blackbird renderer (a fork of the Blender Foundation's Cycles renderer) to any client.
       - [Houdini Shader Converter](https://github.com/SideswipeeZ/houdini-shader-converter) Houdini Python Shelf tool for Converting Shaders within Houdini using JSON
       - [Houdini CopyToFram](https://github.com/eglaubauf/Houdini_CopyToFarm) This script provides a window in which the user is able to select a directory to copy the current file and it´s dependencies to a different, arbitrary location (e.g. a network storage). In this process the script will copy all linked/referenced files to the chosen location as long as they are below the current workspace.
   - ### Scripts and Development Tools
@@ -281,7 +277,6 @@ _______
   - [Kuchavo/Vex-Snippets](https://github.com/Kuchavo/VEX-Snippets) A collection of useful VEX snippets for Houdini.
   - [Jtmori/Vex Tutorial](https://github.com/jtomori/vex_tutorial) 📑 A collection of code snippets and examples showing syntax and capabilities of VEX language inside SideFX Houdini
   - [Vex and Hscript Reference](https://github.com/benjamin-white/vex-and-hscript-reference) Reference notes for using VEX and HScript in Houdini
-  - [Houdini Git Structure](https://github.com/elishahung/houdini-git-structure) make Houdini hip gitable. parse hip file to generate structure for git record. Houdini hip 檔案解析生成資料架構，以便 git 管理。
   - [John Vensson Vex Snippets](http://www.johnsvensson.se/vex-houdini)
   - [One Minute Vex](https://aaronsmithtv.github.io/books/OneMinuteVex.html)
   - [YuriyAndropov/VEX](https://github.com/YuriyAndropov/VEX)
@@ -307,7 +302,6 @@ _______
   - [VSCode Vex](https://github.com/melMass/vscode-vex) Houdini VEX Support for VSCode
   - [HoudiniGenerateAllNodes](https://github.com/Neogene/HoudiniGenerateAllNodes) A simple PYTHON script which populates the whole scene with all the nodes available   in Houdini.
   - [Auto Controller Rig](https://github.com/crystalboxes/auto_control_rigger) Houdini script for processing FBX rigs.
-  - [Camera Morphing Houdini](https://github.com/pareylook/Camera-morphing-houdini)
   - [Houdini Silent Install Script](https://github.com/paulwinex/houdini_install_script)Automatically (silent) downloads and installs latest Houdini build. Good solution for studio pipeline!
   - [Emacs Houdini Vex Mode](https://github.com/gearslogy/Emacs-Houdini-vex-mode) Emacs autocomplete for VEX.
   - [Sublime Debugger Houdini](https://github.com/blurstudio/sublime_debugger-HoudiniUI) This adapter serves as a "middleman" between the Sublime Debugger plugin and a DAP implementation for python (debugpy) injected into Houdini.
@@ -318,7 +312,6 @@ _______
 - ### Misc
   - [Jtmori - VFX Goodnight Reading](https://github.com/jtomori/vfx_good_night_reading)📚 Curated collection of good reading about VFX and CG
   - [Houdini NodeShape Converter](https://github.com/nrosenstein-old/houdini-nodeshape-converter) Convert SVG paths to Houdini JSON nodeshapes.
-  - [Houdini Manage](https://github.com/nrosenstein-old/houdini-manage) Qt GUI and Command-line to manage Houdini libraries
   - [wranglegist](https://github.com/jamesrobinsonvfx/wranglegist) Submit snippet parameters to Gist feed from within Houdini
   - [FaceCaptureX](https://github.com/elishahung/FaceCaptureX) Get iphone X face motion data then make animation in Houdini.
   - [Data Driven Procedural Generation](https://github.com/maajor/Data-Driven-Procedural-Generation) Collection of Papers on Data Driven Procedural Generation
