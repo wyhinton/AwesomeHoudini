@@ -180,6 +180,8 @@ Note that not all assets may be compatible with your houdini licensce/version.
        - [JZTrees](https://github.com/joshuazt/JZTREES) Houdini procedural vegetation generator and FX toolkit
        - [Nature Tools](https://github.com/shvetsov-art/nature_tools) Scripts assets for creating procedural forest
        - [treegen](https://github.com/demiaster/treegen) Vegetation Generation Tool for Houdini. The Digital Asset implements the space colonization algorithm by Runions et al (2007). The asset can be used to easily produce natural tree structures allowing control over the growth by shaping the roots, the foliage and the way the tree fills up the space.
+       - [houdini-layout](https://github.com/beatreichenbach/houdini-layout) A Digital Asset (HDA) for Solaris in SideFX Houdini. It is used to transform and duplicate primitives in the stage.
+       - [houdini-meadow](https://github.com/beatreichenbach/houdini-meadow) Scattering tool kit for Houdini
     - ### Volumes
        - [HNanoSolver](https://github.com/ZephirFXEC/HNanoSolver/tree/master) Houdini GPU Fluid Solver powered by NanoVDB  
        - [Pyro Shader for Redshit, ARnold, Renderman](https://sadjad.gumroad.com/l/PvjRz?recommended_by=search)
