@@ -496,6 +496,7 @@ _______
   - [The VFX Mentor](https://thevfxmentor.com/quicktips/)
   - [Juraj Tomori](https://jtomori.github.io/)
   - [FXHACK](https://shoheiokazaki.github.io/FXHACK/posts/)
+  - [Digital Garden – Alicia](https://digitalgarden.si/blog/houdini-procedural-plants-realtime-web/)
 
 
   
